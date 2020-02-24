@@ -1,0 +1,27 @@
+{
+  "name": "FB2_Fragenkatalog",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "cross-env NODE_OPTIONS=--max-old-space-size=8192 parcel -d ./ --public-url=./ src/index.html",
+    "build-prod": "cross-env NODE_OPTIONS=--max-old-space-size=8192 parcel build -d ./ --public-url=./ src/index.html",
+    "build-dev": "cross-env NODE_OPTIONS=--max-old-space-size=8192 NODE_ENV=development parcel build -d ./ --public-url=./ src/index.html --no-minify",
+    "watch": "cross-env NODE_OPTIONS=--max-old-space-size=8192 parcel watch -d ./ --public-url=./ src/index.html"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "license": "no lic",
+  "devDependencies": {
+    "@types/node": "^11.15.6",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "cross-env": "^7.0.0",
+    "prettier": "^1.19.1",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^4.2.0",
+    "typescript": "^3.7.5"
+  }
+}
