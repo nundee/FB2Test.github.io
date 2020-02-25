@@ -136,7 +136,7 @@ function Question(props:any) {
             <h3>Noch {catalog.fragen.length - state.currentQuestion}</h3>
         </div>
         <div>
-            <h3>{frage.title + ':  ' + frage.text}</h3>
+            <h3>{frage.title}</h3>
             <ol type="A"> {[0,1,2,3].map(i=> (
                 <li key={i}>
                     {state.learnMode==false &&
