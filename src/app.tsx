@@ -161,8 +161,8 @@ function Question(props:any) {
         </div>
         <hr/>
         {state.learnMode===true && <div style={{paddingLeft:'15px', paddingTop:'15px'}}>
-                {state.currentQuestion >=0 && <button style={{marginRight:'15px'}} onClick={e=>onAdvance(-1)}>vorherige Frage</button>}
-                {state.currentQuestion < catalog.fragen.length-1 && <button  onClick={e=>onAdvance(1)}>nächste Frage</button> }
+                {state.currentQuestion >=0 && <button style={{marginRight:'15px'}} onClick={e=>onAdvance(-1)}>Weiter</button>}
+                {state.currentQuestion < catalog.fragen.length-1 && <button  onClick={e=>onAdvance(1)}>Zurück</button> }
                 <button style={{marginLeft :"40px"}} onClick={onRestart}>Neustart</button>
             </div>
         }
