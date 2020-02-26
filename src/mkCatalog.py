@@ -60,7 +60,7 @@ def filterCat(f, f2,f5,out25):
 
     def mkQ(k,i):
         q=df['fragen'][i].copy()
-        q['title']=f'Frage {k}: {allQ[i]}'
+        q['title']=f'Frage {k+1}: {allQ[i]}'
         return q
 
     df25={'fragen': [mkQ(k,i) for (k,i) in enumerate(i25)]}
