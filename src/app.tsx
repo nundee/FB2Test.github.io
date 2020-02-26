@@ -5,9 +5,9 @@ import { render } from 'react-dom';
 //let data_workerId = actual_url.searchParams.get('workerId')
 
 
-import * as Fragen from './Allgemein.json'
-import * as Motor from './Motor.json'
-import * as Segeln from './Segeln.json'
+import * as Fragen from './Allgemein25.json'
+import * as Motor from './Motor25.json'
+import * as Segeln from './Segeln25.json'
 import { stat } from 'fs';
 
 type GlobalState = {
@@ -124,11 +124,17 @@ function Question(props:any) {
         setState({...startState(), learnMode:state.learnMode, catalog:state.catalog})
     }
 
+    function handleKey(key:string) {
+        if (key==='n')
+            onAdvance(1)
+        else if (key==='p')
+            onAdvance(-1)
+    }
 
     const catalog=state.catalog.cat
     const frage = catalog.fragen[state.currentQuestion]
     
-    return <div>
+    return <div onKeyPress={e=>handleKey(e.key)}>
         <div style={{background:'lightgray'}}>
             <h3>Katalog: {state.catalog.name} ({state.learnMode ? "Lernen" : "Testen"})</h3>
             {state.learnMode===false && <h3>Punkte: <span style={{color:'darkgreen'}}>{state.score}</span><br/>
@@ -155,14 +161,14 @@ function Question(props:any) {
         </div>
         <hr/>
         {state.learnMode===true && <div style={{paddingLeft:'15px', paddingTop:'15px'}}>
-                {state.currentQuestion >=0 && <button style={{marginRight:'15px'}} onClick={e=>onAdvance(-1)}> {' < '} </button>}
-                {state.currentQuestion < catalog.fragen.length-1 && <button  onClick={e=>onAdvance(1)}> {' > '} </button> }
-                <button style={{marginLeft :"40px"}} onClick={onRestart}>Restart</button>
+                {state.currentQuestion >=0 && <button style={{marginRight:'15px'}} onClick={e=>onAdvance(-1)}>vorherige Frage</button>}
+                {state.currentQuestion < catalog.fragen.length-1 && <button  onClick={e=>onAdvance(1)}>nächste Frage</button> }
+                <button style={{marginLeft :"40px"}} onClick={onRestart}>Neustart</button>
             </div>
         }
         {state.learnMode===false && <div style={{paddingLeft:'15px', paddingTop:'15px'}}>
             <button onClick={onSubmit}>Submit</button>
-            <button style={{marginLeft :"40px"}} onClick={onRestart}>Restart</button>
+            <button style={{marginLeft :"40px"}} onClick={onRestart}>Neustart</button>
          </div>
         }
     </div>

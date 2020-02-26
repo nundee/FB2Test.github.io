@@ -1,0 +1,289 @@
+Seefahrtsverband Süd
+8052 Graz, Villenstraße 11 - info@sfv-sued.at
+
+Fahrtbereich 2
+Katalog 5
+Modul Motor
+Bitte nehmen Sie keine Eintragungen in diesen Katalog vor
+
+Gültig ab: 14.02.2020
+
+Modul Motor
+
+Frage 1:
+
+Was versteht man unter Eigenzündung?
+
+A:
+
+Zündung mittels Zündkerzen.
+
+B:
+
+Zündung durch Einspritzung in hoch komprimierte Luft.
+
+C:
+
+Zündung mittels Glühkerzen.
+
+D:
+
+Zündung durch Einspritzung in den Vergaser.
+
+Frage 2:
+
+Wie kann man Benzinmotoren erkennen?
+
+A:
+
+an der Einspritzpumpe.
+
+B:
+
+an den Zündkerzen.
+
+C:
+
+am Treibstoff: Benzin verdunstet nicht, Diesel sofort.
+
+D:
+
+Benzinmotoren haben nur 6-stellige Motornummern.
+
+Frage 3:
+
+Was ist die Ursache von milchigem Motoröl?
+
+A:
+
+Wasser im Öl.
+
+B:
+
+Öl ist durch Überhitzung zu heiß geworden, schmiert und kühlt nicht mehr.
+
+C:
+
+Diesel im Öl.
+
+D:
+
+Benzin im Öl.
+
+Frage 4:
+
+Wozu dient ein Motorölfilter?
+
+A:
+
+der Ölfilter ist ein Indikator. Ist das Öl verbraucht, verfärbt er sich.
+
+B:
+
+es filtert das Öl vor dem Eintritt in den Motorblock.
+
+C:
+
+es filtert kleine Metallspäne und andere Verunreinigungen aus.
+
+D:
+
+bei einem Ölwechsel muss das neue Öl durch den Filter rinnen damit es wirksam
+wird.
+Seite 1
+
+Frage 5:
+
+Wozu dient ein Schwanenhals im Auspuffsystem?
+
+A:
+
+er bewirkt, dass nur Gase austreten können.
+
+B:
+
+er verhindert, dass Seewasser eindringt.
+
+C:
+
+er sorgt dafür dass die Leitungen so lange werden, dass keine Resonanzen
+auftreten.
+
+D:
+
+er ist eine Verlängerung um den Auspuff so hoch wie möglich zu bringen.
+
+Frage 6:
+
+Welche Anschlussleitungen brauchen Treibstofftanks außer der Öffnung zum
+Tanken?
+
+A:
+
+Ansaugleitung, Rückflussleitung, Entlüftung.
+
+B:
+
+Zählerleitung, Motordruckausgleichsleitung, Treibstoffabsaugleitung.
+
+C:
+
+Gaszug, Pumpenleitung, Abflussleitung.
+
+D:
+
+Absaugleitung, Gaszuleitung, Treibstoffausgleichsleitung.
+
+Frage 7:
+
+Wofür dient die Schraube unten am Wasserabscheider?
+
+A:
+
+zum Öffnen des Filtergehäuses.
+
+B:
+
+zum Ablassen des Treibstoffes.
+
+C:
+
+zum Ablassen des Wassers.
+
+D:
+
+zum Einfüllen des Wassers.
+
+Frage 8:
+
+Warum ist Benzin als Treibstoff gefährlicher als Diesel?
+
+A:
+
+weil Benzindampf ein explosionsfähiges Gemisch mit Buthangas erzeugt.
+
+B:
+
+weil Benzindampf ein explosionsfähiges Gemisch mit Luft erzeugt.
+
+C:
+
+weil Benzindampf ein explosionsfähiges Gemisch mit Salz erzeugt.
+
+D:
+
+weil Benzindampf ein explosionsfähiges Gemisch mit Wasser erzeugt.
+Seite 2
+
+Frage 9:
+
+Welchen Motorschaden kann Wasser im Motoröl anzeigen?
+
+A:
+
+Undichtigkeit zwischen Kühlkreislauf und Auspuffsystem.
+
+B:
+
+Undichtigkeit zwischen Kühlkreislauf und Ölkreislauf.
+
+C:
+
+Undichtigkeit zwischen Öltank und Wassertank.
+
+D:
+
+Undichtigkeit zwischen Wasserfilter und Ölfilter.
+
+Frage 10: Wie wirkt der Radeffekt bei einem Zwei-Schrauben-Schiff in der Regel?
+A:
+
+die Drehrichtungen der Schrauben sind gegenläufig, die Radeffekte heben sich
+auf.
+
+B:
+
+weil die Schrauben nicht in der Kielrichtung wirken kommt es zu keinem Radeffekt.
+
+C:
+
+der Radeffekt ist der Gleiche wie bei einer Wellenanlage mit einem Propeller.
+
+D:
+
+der Radeffekt wird größer in Kurvenfahrt.
+
+Frage 11: Wodurch wird der Übergang von Verdrängerfahrt in Gleitfahrt leichter erreicht?
+A:
+
+Gewichtsverlagerung nach achtern.
+
+B:
+
+weniger Gesamtgewicht.
+
+C:
+
+Propeller mit Overdrive.
+
+D:
+
+Schräglage nach Backbord oder Steuerbord.
+
+Frage 12: Haben Motorboote eine Abdrift?
+A:
+
+nein, Motorboote haben keine Abdrift.
+
+B:
+
+ja, aber wenig wegen des großen Lateralplanes.
+
+C:
+
+nur bei höherer Geschwindigkeit.
+
+D:
+
+ja, aufgrund des kleinen Lateralplanes.
+Seite 3
+
+Frage 13: Woran erkennt man, ob man als Verdränger über der Rumpfgeschwindigkeit
+geschleppt wird?
+A:
+
+am Mitdrehen von Schiffsschraube und Welle.
+
+B:
+
+an unregelmäßigen starken Ausschlägen der Loggegeschwindigkeit.
+
+C:
+
+an Klopfgeräuschen am Kielschwein.
+
+D:
+
+wenn es im Schiffskörper zu Vibrationen kommt.
+
+Frage 14: Welche Vorteile haben Elektromaschinen?
+A:
+
+Elektromaschinen sind salzwasserfest.
+
+B:
+
+Die Versorgung mit Ersatzteilen ist unproblematisch aufgrund der weiten
+Verbreitung von Elektromaschinen.
+
+C:
+
+Hohes Drehmoment, vergleichbar wenig Energieverbrauch.
+
+D:
+
+Elektromaschinen haben gegenüber Dieselmaschinen keine wesentlichen Vorteile.
+
+Seite 4
+
+
