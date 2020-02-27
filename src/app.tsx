@@ -8,7 +8,7 @@ import { render } from 'react-dom';
 import * as Fragen from './Allgemein25.json'
 import * as Motor from './Motor25.json'
 import * as Segeln from './Segeln25.json'
-import { stat } from 'fs';
+import {Autocomplete} from './autocomplete'
 
 type GlobalState = {
     catalog:object
@@ -134,12 +134,15 @@ function Question(props:any) {
     const catalog=state.catalog.cat
     const frage = catalog.fragen[state.currentQuestion]
     
-    return <div onKeyPress={e=>handleKey(e.key)}>
+    const aucOptions=catalog.fragen.map(f=>f.title)
+
+    return <div>
         <div style={{background:'lightgray'}}>
             <h3>Katalog: {state.catalog.name} ({state.learnMode ? "Lernen" : "Testen"})</h3>
             {state.learnMode===false && <h3>Punkte: <span style={{color:'darkgreen'}}>{state.score}</span><br/>
             Fehlgeschlagen: <span style={{color:'red'}}>{state.currentQuestion - state.score}</span></h3>}
             <h3>Noch {catalog.fragen.length - state.currentQuestion}</h3>
+            {state.learnMode && <Autocomplete options={aucOptions} onSubmit={i=>onAdvance(i-state.currentQuestion)}/>}
         </div>
         <div>
             <h3>{frage.title}</h3>
