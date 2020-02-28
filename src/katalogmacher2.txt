@@ -90,7 +90,7 @@ Ja, da sonst die Maschine zu stark beansprucht wird.
 D:
 
 Nein, da die Ankerwinsch direkt von der Lichtmaschine betrieben wird.
-Seite 1
+
 
 Frage 5:
 
@@ -180,7 +180,7 @@ D:
 
 Der Reck einer Leine gibt an, um wie viel Prozent sie sich verkürzt, wenn sie nass
 wird.
-Seite 2
+
 
 Schiffstechnik
 
@@ -255,7 +255,7 @@ Das der Luftfilter ausreichend mit Filteröl getränkt ist.
 D:
 
 Dass ausreichend lange vorgeglüht wird.
-Seite 3
+
 
 Frage 13: Wie können Sie den Stromverbrauch eines elektrischen Geräts errechnen?
 A:
@@ -332,7 +332,7 @@ D:
 
 Ja, die Missweisung ist für alle Seegebiete gleich, ändert sich allerdings im
 Jahresverlauf.
-Seite 4
+
 
 Frage 17: Woher können Sie den Gezeitenkalender für Venedig beziehen?
 A:
@@ -408,7 +408,7 @@ Strom zu, gegen den Strom ab.
 D:
 
 Strom hat keine Auswirkung auf Kurs und Geschwindigkeit.
-Seite 5
+
 
 Frage 21: Welche Tafelwerke können zur Ermittlung von Hoch- und Niedrigwasserzeiten und
 Höhen verwendet werden?
@@ -485,7 +485,7 @@ D:
 
 Die tatsächliche Tragweite ist im Gegensatz zur Nenntragweite von der
 meteorologischen Sichtweite abhängig.
-Seite 6
+
 
 Recht
 
@@ -567,7 +567,7 @@ D:
 
 Unter anderem ist der nächst gelegene Zollhafen zur Durchführung
 derEinreiseformalitäten anzusteuern.
-Seite 7
+
 
 Wetter
 
@@ -639,7 +639,7 @@ Wind, der vom Land her weht.
 D:
 
 Wind, der aufgrund eines über dem Land stehenden Tiefs entsteht.
-Seite 8
+
 
 Frage 33: Wie kann man unter anderem das Alter einer Zyklone in der Wetterkarte
 abschätzen?
@@ -711,7 +711,7 @@ C:
 D:
 
 Über AIS.
-Seite 9
+
 
 Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenlänge?
 A:
@@ -786,7 +786,7 @@ Strecktau.
 D:
 
 An der Reling.
-Seite 10
+
 
 Frage 41: Muss eine Jacht für den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer
 EPIRB ausgerüstet sein?
@@ -866,7 +866,7 @@ Steueranlage ersetzt.
 D:
 
 Eine Pinne, mit der ein gebrochenes Ruderblatt ersetzt werden kann.
-Seite 11
+
 
 Frage 45: Wie können Sie ein beschädigtes Seeventil abdichten?
 A:
@@ -902,6 +902,6 @@ D:
 
 Die Ruderanlage.
 
-Seite 12
+
 
 

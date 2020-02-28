@@ -1,1 +1,336 @@
-{"header": ["Seefahrtsverband S\u00fcd", "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at", "Fahrtbereich 2", "Katalog 2", "Modul Grundlagen", "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor", "G\u00fcltig ab: 14.02.2020", "Jachtbedienung"], "fragen": [{"title": "Frage 1: Was ist besonders zu beachten, wenn Sie mit dem Heck zur Mole liegen?", "A": "Dass die leeseitige Achterleine besonders st\u00e4rker gespannt ist als die luvseitige.", "B": "Dass noch gen\u00fcgend Platz f\u00fcr das Beiboot bis zur Mole gelassen wird.", "C": "Dass alle Fender am Heck des Schiffes montiert werden.", "D": "Dass durch m\u00f6glicherweise rasch geringer werdende Wassertiefe das Ruderblatt den Grund ber\u00fchrt."}, {"title": "Frage 2: In welche Richtung wird das Heck durch den Radeffekt versetzt?", "A": "Das Heck wird immer gegen die Drehrichtung des Propellers versetzt.", "B": "Durch den Radeffekt wird der Bug, nicht das Heck, versetzt.", "C": "In welche Richtung das Heck versetzt wird ist nicht vorhersehbar.", "D": "Das Heck wird immer in Drehrichtung des Propellers versetzt."}, {"title": "Frage 3: Welche Leine sollte beim Anlegen l\u00e4ngseits zuerst gelegt werden?", "A": "Die Achterspring.", "B": "Die Vorspring.", "C": "Die Vorleine.", "D": "Die Heckleine."}, {"title": "Frage 4: Sollten Sie eine elektrische Ankerwinsch ohne laufender Maschine verwenden?", "A": "Ja, weil der Einfluss der Lichtmaschine die Ankerwinsch \u00fcberlasten kann.", "B": "Nein, da der hohe Stromverbrauch die Batterien stark belastet.", "C": "Ja, da sonst die Maschine zu stark beansprucht wird.", "D": "Nein, da die Ankerwinsch direkt von der Lichtmaschine betrieben wird. Seite 1"}, {"title": "Frage 5: Verwenden Sie beim Ankern mit Leine die gleiche L\u00e4nge wie mit Kette?", "A": "Ja, da eine Ankerleine so beschaffen sein sollte, dass sie in etwa gleich schwer ist wie eine vergleichbare Kette.", "B": "Nein, aufgrund des geringeren Gewichts der Leine sollte deutlich mehr Leine gesteckt werden.", "C": "Ja, der Gewichtsnachteil der Leine wird bei weitem durch ihre Dehnbarkeit ausgeglichen.", "D": "Nein, aufgrund des h\u00f6heren Gewichts der Leine kann weit weniger Leine gesteckt werden."}, {"title": "Frage 6: Was \u00fcberpr\u00fcfen Sie bei der Rettungsinsel?", "A": "Das Herstellerdatum.", "B": "Das \u00dcberpr\u00fcfungsdatum.", "C": "Das Ablaufdatum der in der Rettungsinsel enthaltenen Lebensmittel.", "D": "Die Dichtheit der Auftriebsk\u00f6rper."}, {"title": "Frage 7: Was tun Sie mit Leinen, die Sie nicht ben\u00f6tigen?", "A": "Am besten sollten Leinen so liegen gelassen werden, wie sie fallen, da sich dann keine Knoten bilden k\u00f6nnen.", "B": "Nicht mehr ben\u00f6tigte Leinen m\u00fcssen an geeigneter Stelle im Hafen entsorgt werden.", "C": "Nicht ben\u00f6tigte Leinen werden lose in die Backskiste gelegt.", "D": "Nicht ben\u00f6tigte Leinen sollten zu einem Bunsch aufgeschossen in der Backskiste gestaut werden."}, {"title": "Frage 8: Was ist der Reck einer Leine?", "A": "Der Begriff Reck wird bei Leinen nicht verwendet.", "B": "Reck ist ein seem\u00e4nnischer Ausdruck f\u00fcr die Bruchlast einer Leine.", "C": "Der Reck einer Leine gibt an, um wie viel Prozent sich eine Leine bei Belastung dehnt eher sie bricht.", "D": "Der Reck einer Leine gibt an, um wie viel Prozent sie sich verk\u00fcrzt, wenn sie nass wird. Seite 2 Schiffstechnik"}, {"title": "Frage 9: Ihre Maschine startet nicht. Was k\u00f6nnte die Ursache sein?", "A": "Es befindet sich eine Leine im Propeller.", "B": "Das Seeventil f\u00fcr die Maschinenk\u00fchlung ist geschlossen.", "C": "Der Hauptschalter f\u00fcr die Bordstrombatterien ist ausgeschaltet.", "D": "Der Treibstoffhahn ist geschlossen."}, {"title": "Frage 10: Ihr Au\u00dfenbordmotor springt nicht an. Was k\u00f6nnte die Ursache sein?", "A": "Zuwenig Diesel\u00f6l im Treibstoff.", "B": "Das Seeventil f\u00fcr die K\u00fchlung ist geschlossen.", "C": "Der Benzinhahn ist geschlossen.", "D": "Der Propeller ist nicht ins Wasser getaucht und die Maschine wird nicht gek\u00fchlt."}, {"title": "Frage 11: Was bedeutet die Abk\u00fcrzung CWL?", "A": "Das ist die Kenn Wind Linie.", "B": "Diese Abk\u00fcrzung wird im Jachtbau nicht verwendet.", "C": "Das ist die Constant Wave Line.", "D": "Das ist die Konstruktionswasserlinie."}, {"title": "Frage 12: Was ist zu beachten, wenn Sie einen Benzininnenbordmotor starten wollen?", "A": "Dass der Maschinenraum vor dem Starten der Maschine entl\u00fcftet werden muss.", "B": "Dass das Seeventil f\u00fcr die Maschinenk\u00fchlung erst ge\u00f6ffnet wird, nachdem die Maschine gestartet wurde .", "C": "Das der Luftfilter ausreichend mit Filter\u00f6l getr\u00e4nkt ist.", "D": "Dass ausreichend lange vorgegl\u00fcht wird. Seite 3"}, {"title": "Frage 13: Wie k\u00f6nnen Sie den Stromverbrauch eines elektrischen Ger\u00e4ts errechnen?", "A": "Gar nicht, der Stromverbrauch ist nicht vorhersehbar.", "B": "Anhand der Formel: Elektrische Leistung (Watt) = Stromspannung U (Volt) x Stromst\u00e4rke I (Ampere).", "C": "Anhand der Formel: Stromverbrauch (Amperestunden) = Stromspannung U (Volt) x Zeit (Minuten).", "D": "Anhand der Formel: Elektrische Leistung (Watt) = Stromspannung U (Volt) / Stromst\u00e4rke I (Ampere). Navigation"}, {"title": "Frage 14: Wie viel Ampere entnimmt eine Gl\u00fchbirne mit 24 Watt einem 12-Volt-Akku?", "A": "24 Volt.", "B": "2 Ohm.", "C": "1 Ampere.", "D": "2 Ampere."}, {"title": "Frage 15: An welcher Seite Ihrer Jacht lassen Sie in Europa rote Tonnen vor der Hafeneinfahrt liegen wenn Sie in den Hafen einlaufen?", "A": "Das spielt keine Rolle.", "B": "Backbord.", "C": "Steuerbord.", "D": "Das kann nur der Seekarte entnommen werden."}, {"title": "Frage 16: Ist die Missweisung in allen Seegebieten immer die gleiche?", "A": "Ja, der Wert der Missweisung ist f\u00fcr alle Seegebiete gleich.", "B": "Nein, der Wert der Missweisung \u00e4ndert sich je nach Standort und ist der betreffenden Seekarte zu entnehmen.", "C": "Nein, der Wert der Missweisung ist vom gerade anliegenden Kurs zu entnehmen.", "D": "Ja, die Missweisung ist f\u00fcr alle Seegebiete gleich, \u00e4ndert sich allerdings im Jahresverlauf. Seite 4"}, {"title": "Frage 17: Woher k\u00f6nnen Sie den Gezeitenkalender f\u00fcr Venedig beziehen?", "A": "Die Daten k\u00f6nnen \u00fcber Navtex bezogen werden.", "B": "Unter anderem aus jedem Fachbuchhandel.", "C": "Unter anderem aus dem Internet.", "D": "Gezeitenkalender sind der Berufsschifffahrt vorbehalten und k\u00f6nnen daher nur von dieser bezogen werden."}, {"title": "Frage 18: Weshalb k\u00f6nnen die elektronisch angezeigten Werte der Fahrt durchs Wasser fehlerhaft sein?", "A": "Die Werte k\u00f6nnen durch den Einfluss von Missweisung und Ablenkung fehlerhaft sein.", "B": "Die elektronische Geschwindigkeitsmessung wird fortlaufend kompensiert und zeigt daher immer die korrekte Fahrt durchs Wasser an.", "C": "Durch Verschmutzung des Sensors k\u00f6nnen die Werte fehlerhaft sein.", "D": "Durch einen herrschenden Strom k\u00f6nnen die Werte fehlerhaft sein."}, {"title": "Frage 19: Wie werden Peilungen mit RADAR im Head-Up-Modus angegeben?", "A": "Als missweisende Peilungen.", "B": "Als rechtweisende Peilungen.", "C": "Als Seitenpeilungen.", "D": "Als magnetische Peilungen."}, {"title": "Frage 20: Wie wird Kurs und Geschwindigkeit vom Strom beeinflusst?", "A": "Der Kurs wird immer in Richtung Strom abgelenkt, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.", "B": "Der Kurs wird immer gegen die Richtung des Stroms abgelenkt, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.", "C": "Strom hat keine Auswirkung auf den Kurs, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.", "D": "Strom hat keine Auswirkung auf Kurs und Geschwindigkeit. Seite 5"}, {"title": "Frage 21: Welche Tafelwerke k\u00f6nnen zur Ermittlung von Hoch- und Niedrigwasserzeiten und H\u00f6hen verwendet werden?", "A": "Hafenhandb\u00fccher.", "B": "Seekarten.", "C": "Graphische Tidenkalender.", "D": "Seetidenkarten."}, {"title": "Frage 22: Wieviele Satelliten m\u00fcssen vom GPS-Ger\u00e4t mindestens empfangen werden, damit eine Position ermittelt werden kann?", "A": "1 Satellit reicht aus.", "B": "2 Satelliten reichen aus.", "C": "mindestens 12 Satelliten.", "D": "3 Satelliten f\u00fcr einen 2 dimensionalen Fix, 4 Satelliten f\u00fcr einen 3 dimensionalen Fix (Position und H\u00f6he)."}, {"title": "Frage 23: Welche Farbe haben Hafeneinfahrtszeichen in Europa an der Backbordseite, wenn Sie in den Hafen einlaufen?", "A": "Rot.", "B": "Schwarz.", "C": "Gr\u00fcn.", "D": "Gelb."}, {"title": "Frage 24: Ist die Tragweite eines Feuers konstant?", "A": "Ja, die Tragweite ist unter allen Bedingungen konstant und kann deshalb in Seekarten angegeben werden.", "B": "Die Tragweite eines Leuchtfeuers ist ausschlie\u00dflich von der Augenh\u00f6he des Beobachters abh\u00e4ngig und kann daher nicht konstant sein.", "C": "Nein, die Tragweite von Leuchtfeuern ist ausschlie\u00dflich von der Leuchtkraft der verwendeten Lampe abh\u00e4nig, die im Laufe der Zeit immer schw\u00e4cher wird.", "D": "Die tats\u00e4chliche Tragweite ist im Gegensatz zur Nenntragweite von der meteorologischen Sichtweite abh\u00e4ngig. Seite 6 Recht"}, {"title": "Frage 25: Welche Aufgaben hat die IMO unter anderem?", "A": "Unter anderem die Einhaltung der Genfer Konventionen auf See im Kriegsfall.", "B": "Unter anderem die einheitliche Regelung der Ein- und Ausreise auf dem Seeweg in und aus Staaten.", "C": "Unter anderem alle nicht rein wirtschaftlichen Angelegenheiten der Handelsschifffahrt international zu regeln.", "D": "Unter anderem den Erhalt der Infrastrukturen in internationalen Hafenanlagen."}, {"title": "Frage 26: Ist ein RADAR-Reflektor oder RADAR-Transponder f\u00fcr Jachten im Fahrbereich 2 verpflichtend?", "A": "Nein, eine Ausr\u00fcstung mit einem RADAR-Reflektor ist nicht vorgeschrieben.", "B": "Jachten im Fahrbereich 2 m\u00fcssen mit mindestens 2 RADAR-Reflektoren, einer auf jeder Seite der Jacht, ausger\u00fcstet sein.", "C": "Jachten im Fahrbereich 2 sind mit einem RADAR-Reflektor oder mit einem RADAR-Transponder auszur\u00fcsten.", "D": "Die Ausr\u00fcstung mit einem RADAR-Reflektor ist vorgeschrieben, ein RADAR-Transponder ist allerdings verboten."}, {"title": "Frage 27: Was sind marine sensible Zonen?", "A": "Das sind Sondergebiete, in denen strengere Schutzvorschriften f\u00fcr das Einleiten von \u00d6l bzw. Chemikalien sowie f\u00fcr das Absondern von M\u00fcll gelten.", "B": "Alle K\u00fcstenbereiche weltweit bis zu einer Entfernung von 3 Seemeilen von der K\u00fcste.", "C": "Das sind nationale Naturschutzgebiete.", "D": "Alle K\u00fcstenbereiche weltweit bis zu einer Entfernung von 12 Seemeilen von der K\u00fcste."}, {"title": "Frage 28: Sie wollen ein Land \u00fcber den Seeweg betreten. Was ist unter anderem zu tun?", "A": "Unter anderem ist die Jacht bei der Haftpflichtversicherung abzumelden.", "B": "\u00dcber den Seeweg darf jedes Land ohne besondere Formalit\u00e4ten betreten werden.", "C": "Unter anderem muss die Anmeldung beim Zollhafen \u00fcber Seefunk vorgenommen werden.", "D": "Unter anderem ist der n\u00e4chst gelegene Zollhafen zur Durchf\u00fchrung derEinreiseformalit\u00e4ten anzusteuern. Seite 7 Wetter"}, {"title": "Frage 29: Wie wird die Windrichtung in Wetterberichten angegeben?", "A": "Aus der Himmelsrichtung, aus der der Wind kommt.", "B": "In die Himmelsrichtung, in die der Wind weht.", "C": "Nach der Rotation des Windes, rechtsdrehend oder linksdrehend.", "D": "In Zugrichtung der Wolken."}, {"title": "Frage 30: In welcher Atmosph\u00e4renschicht spielt sie das Wetter ab?", "A": "In der Troposph\u00e4re.", "B": "In der Tropopause.", "C": "In der Stratosph\u00e4re.", "D": "In der Ionosph\u00e4re."}, {"title": "Frage 31: Was ist der Gradient in der Meteorologie?", "A": "Der Luftdruckunterschied innerhalb einer Distanz von 60 Seemeilen.", "B": "Der Luftdruckunterschied auf einer Distanz von einem L\u00e4ngengrad.", "C": "Der Luftdruckunterschied auf einer Distanz von 200 Seemeilen.", "D": "Der Luftdruckunterschied zwischen einem Tiefdruckzentrum und einem Hochdruckzentrum."}, {"title": "Frage 32: Was ist ein Landwind?", "A": "Wind, der aufgrund eines Kap- oder D\u00fcseneffektes aufs Land gelenkt wird.", "B": "Wind, der aufs Land weht.", "C": "Wind, der vom Land her weht.", "D": "Wind, der aufgrund eines \u00fcber dem Land stehenden Tiefs entsteht. Seite 8"}, {"title": "Frage 33: Wie kann man unter anderem das Alter einer Zyklone in der Wetterkarte absch\u00e4tzen?", "A": "Je \u00e4lter das Tief ist, desto schneller wird seine Zuggeschwindigkeit.", "B": "Das Alter einer Zyklone kann auf einer Wetterkarte nicht abgesch\u00e4tzt werden.", "C": "Je \u00e4lter das Tief ist, desto weiter hat die Kaltfront die Warmfront eingeholt und es entsteht eine ausgepr\u00e4gte Okklusionsfront.", "D": "Je \u00e4lter das Tief ist, desto weiter entfernt sich die Warmfront von der Kaltfront, eine eventuell bestehende Okklusionsfront l\u00f6st sich auf."}, {"title": "Frage 34: Was ist die typische Windrichtung bei Bora?", "A": "Ost bis Nordost.", "B": "S\u00fcd bis S\u00fcdost.", "C": "Nord bis Nordwest.", "D": "S\u00fcd bis S\u00fcdwest."}, {"title": "Frage 35: Mit wieviel Beaufort rechnen Sie, wenn der Wetterbericht von einem Sturm spricht?", "A": "Mit 9 Beaufort.", "B": "Mit 12 Beaufort.", "C": "Mit 3 Beaufort.", "D": "Mit 6 Beaufort."}, {"title": "Frage 36: \u00dcber welche Medien k\u00f6nnen Sie Grib files empfangen?", "A": "\u00dcber das Internet.", "B": "\u00dcber UKW-Funk.", "C": "\u00dcber NavTex.", "D": "\u00dcber AIS. Seite 9"}, {"title": "Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenl\u00e4nge?", "A": "Durch die geringere Wassertiefe wird die Wellenl\u00e4nge verk\u00fcrzt.", "B": "Durch \u00dcberlagerung mehrerer Wellenk\u00e4mme kann Kreuzsee entstehen.", "C": "Aus einer vertikalen Auf- und Abbewegung des Wassers wird eine Orbitalbewegung des Wellenkammes, die Welle bricht.", "D": "Nichts besonderes. Sicherheit"}, {"title": "Frage 38: Was wird mit D\u00fcnung bezeichnet?", "A": "Eine Welle, die auf flaches Wasser trifft.", "B": "Eine aus einem lokalen nahen Windsystem entstandene Welle.", "C": "Eine den Windwellen entgegenstehende Welle.", "D": "Eine aus einem entfernten Windsystem langsam ablaufende Welle."}, {"title": "Frage 39: Sie geraten in eine Legerwall-Situation und ihre Maschine springt nicht an. Was k\u00f6nnen Sie tun?", "A": "Auf einer Segeljacht, versuchen unter Segel aus dem Legerwall zu segeln.", "B": "Unter anderem versuchen ein Auflaufen mit dem Anker zu verhindern.", "C": "In einer Legerwall Situation kann man ohne Maschinenantrieb nichts mehr gegen das Auflaufen unternehmen.", "D": "Versuchen, mit dem Bootshaken ein Auflaufen zu verhindern."}, {"title": "Frage 40: Wo picken Sie Ihre Sicherheitsleine ein?", "A": "An einem Strecktau, das entlang der Reling gespannt wird.", "B": "An den vorhandenen Festmacherklampen.", "C": "An einer geeigneten Stelle m\u00f6glichst in der Mitte des Decks. Am besten in ein Strecktau.", "D": "An der Reling. Seite 10"}, {"title": "Frage 41: Muss eine Jacht f\u00fcr den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer EPIRB ausger\u00fcstet sein?", "A": "Ja, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen mit einer EPIRB ausgestattet sein.", "B": "Nein, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen nicht mit einer EPIRB ausger\u00fcstet sein.", "C": "Nur, wenn sich kein GMDSS-UKW-Funkger\u00e4t an Bord befindet.", "D": "Nur, wenn man mit der Jacht das nationale Gew\u00e4sser verlassen will."}, {"title": "Frage 42: Es droht Sturm und Sie werden nicht mehr rechtzeitig einen Schutzhafen erreichen. Was tun Sie unter anderem?", "A": "Sofort Treibanker ausbringen.", "B": "Ohne weitere Ma\u00dfnahmen wie geplant weiterfahren, Jachten k\u00f6nnen auch bei Sturm problemlos gesteuert werden .", "C": "Vorbereiten der Rettungsinsel.", "D": "Alle Luken und Seeventile schlie\u00dfen, Rettungswesten und Lifebelts anlegen ."}, {"title": "Frage 43: Was ist die sichere Geschwindigkeit im Sinne der KVR?", "A": "Jedes Fahrzeug muss eine Geschwindigkeit w\u00e4hlen, bei der es mit der K\u00fcste nicht kollidiert.", "B": "Jedes Fahrzeug muss mit einerGeschwindigkeit fahren, sodass es geeignete und wirksame Ma\u00dfnahmen treffen kann, um einen Zusammensto\u00df zu vermeiden.", "C": "Jedes Fahrzeug muss eine Geschwindigkeit w\u00e4hlen, bei der Kollisionen unwahrscheinlich sind.", "D": "Jedes Fahrzeug muss den Sichtverh\u00e4ltnissen entsprechend eineGeschwindigkeit w\u00e4hlen, dass es rechtzeitig stehen bleiben kann."}, {"title": "Frage 44: Was ist eine Notpinne?", "A": "Eine Pinne, mit der Notsignale abgegeben werden k\u00f6nnen.", "B": "Eine Notpinne ist ein anderer Ausdruck f\u00fcr die Rollenverteilung in Notf\u00e4llen an Bord.", "C": "Eine Pinne, die auf den Ruderquadranten gesteckt wird und die defekte Steueranlage ersetzt.", "D": "Eine Pinne, mit der ein gebrochenes Ruderblatt ersetzt werden kann. Seite 11"}, {"title": "Frage 45: Wie k\u00f6nnen Sie ein besch\u00e4digtes Seeventil abdichten?", "A": "Mit einem Leckpfropfen.", "B": "Das Seeventil einfach schlie\u00dfen.", "C": "W\u00e4hrend der Fahrt mit spezieller Abdichtspachtel.", "D": "W\u00e4hrend der Fahrt mit PU-Schaum."}]}
+{
+    "header": [
+        "Seefahrtsverband S\u00fcd",
+        "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at",
+        "Fahrtbereich 2",
+        "Katalog 2",
+        "Modul Grundlagen",
+        "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor",
+        "G\u00fcltig ab: 14.02.2020",
+        "Jachtbedienung"
+    ],
+    "fragen": [
+        {
+            "title": "Frage 1: Was ist besonders zu beachten, wenn Sie mit dem Heck zur Mole liegen?",
+            "A": "Dass die leeseitige Achterleine besonders st\u00e4rker gespannt ist als die luvseitige.",
+            "B": "Dass noch gen\u00fcgend Platz f\u00fcr das Beiboot bis zur Mole gelassen wird.",
+            "C": "Dass alle Fender am Heck des Schiffes montiert werden.",
+            "D": "Dass durch m\u00f6glicherweise rasch geringer werdende Wassertiefe das Ruderblatt den Grund ber\u00fchrt."
+        },
+        {
+            "title": "Frage 2: In welche Richtung wird das Heck durch den Radeffekt versetzt?",
+            "A": "Das Heck wird immer gegen die Drehrichtung des Propellers versetzt.",
+            "B": "Durch den Radeffekt wird der Bug, nicht das Heck, versetzt.",
+            "C": "In welche Richtung das Heck versetzt wird ist nicht vorhersehbar.",
+            "D": "Das Heck wird immer in Drehrichtung des Propellers versetzt."
+        },
+        {
+            "title": "Frage 3: Welche Leine sollte beim Anlegen l\u00e4ngseits zuerst gelegt werden?",
+            "A": "Die Achterspring.",
+            "B": "Die Vorspring.",
+            "C": "Die Vorleine.",
+            "D": "Die Heckleine."
+        },
+        {
+            "title": "Frage 4: Sollten Sie eine elektrische Ankerwinsch ohne laufender Maschine verwenden?",
+            "A": "Ja, weil der Einfluss der Lichtmaschine die Ankerwinsch \u00fcberlasten kann.",
+            "B": "Nein, da der hohe Stromverbrauch die Batterien stark belastet.",
+            "C": "Ja, da sonst die Maschine zu stark beansprucht wird.",
+            "D": "Nein, da die Ankerwinsch direkt von der Lichtmaschine betrieben wird."
+        },
+        {
+            "title": "Frage 5: Verwenden Sie beim Ankern mit Leine die gleiche L\u00e4nge wie mit Kette?",
+            "A": "Ja, da eine Ankerleine so beschaffen sein sollte, dass sie in etwa gleich schwer ist wie eine vergleichbare Kette.",
+            "B": "Nein, aufgrund des geringeren Gewichts der Leine sollte deutlich mehr Leine gesteckt werden.",
+            "C": "Ja, der Gewichtsnachteil der Leine wird bei weitem durch ihre Dehnbarkeit ausgeglichen.",
+            "D": "Nein, aufgrund des h\u00f6heren Gewichts der Leine kann weit weniger Leine gesteckt werden."
+        },
+        {
+            "title": "Frage 6: Was \u00fcberpr\u00fcfen Sie bei der Rettungsinsel?",
+            "A": "Das Herstellerdatum.",
+            "B": "Das \u00dcberpr\u00fcfungsdatum.",
+            "C": "Das Ablaufdatum der in der Rettungsinsel enthaltenen Lebensmittel.",
+            "D": "Die Dichtheit der Auftriebsk\u00f6rper."
+        },
+        {
+            "title": "Frage 7: Was tun Sie mit Leinen, die Sie nicht ben\u00f6tigen?",
+            "A": "Am besten sollten Leinen so liegen gelassen werden, wie sie fallen, da sich dann keine Knoten bilden k\u00f6nnen.",
+            "B": "Nicht mehr ben\u00f6tigte Leinen m\u00fcssen an geeigneter Stelle im Hafen entsorgt werden.",
+            "C": "Nicht ben\u00f6tigte Leinen werden lose in die Backskiste gelegt.",
+            "D": "Nicht ben\u00f6tigte Leinen sollten zu einem Bunsch aufgeschossen in der Backskiste gestaut werden."
+        },
+        {
+            "title": "Frage 8: Was ist der Reck einer Leine?",
+            "A": "Der Begriff Reck wird bei Leinen nicht verwendet.",
+            "B": "Reck ist ein seem\u00e4nnischer Ausdruck f\u00fcr die Bruchlast einer Leine.",
+            "C": "Der Reck einer Leine gibt an, um wie viel Prozent sich eine Leine bei Belastung dehnt eher sie bricht.",
+            "D": "Der Reck einer Leine gibt an, um wie viel Prozent sie sich verk\u00fcrzt, wenn sie nass wird. Schiffstechnik"
+        },
+        {
+            "title": "Frage 9: Ihre Maschine startet nicht. Was k\u00f6nnte die Ursache sein?",
+            "A": "Es befindet sich eine Leine im Propeller.",
+            "B": "Das Seeventil f\u00fcr die Maschinenk\u00fchlung ist geschlossen.",
+            "C": "Der Hauptschalter f\u00fcr die Bordstrombatterien ist ausgeschaltet.",
+            "D": "Der Treibstoffhahn ist geschlossen."
+        },
+        {
+            "title": "Frage 10: Ihr Au\u00dfenbordmotor springt nicht an. Was k\u00f6nnte die Ursache sein?",
+            "A": "Zuwenig Diesel\u00f6l im Treibstoff.",
+            "B": "Das Seeventil f\u00fcr die K\u00fchlung ist geschlossen.",
+            "C": "Der Benzinhahn ist geschlossen.",
+            "D": "Der Propeller ist nicht ins Wasser getaucht und die Maschine wird nicht gek\u00fchlt."
+        },
+        {
+            "title": "Frage 11: Was bedeutet die Abk\u00fcrzung CWL?",
+            "A": "Das ist die Kenn Wind Linie.",
+            "B": "Diese Abk\u00fcrzung wird im Jachtbau nicht verwendet.",
+            "C": "Das ist die Constant Wave Line.",
+            "D": "Das ist die Konstruktionswasserlinie."
+        },
+        {
+            "title": "Frage 12: Was ist zu beachten, wenn Sie einen Benzininnenbordmotor starten wollen?",
+            "A": "Dass der Maschinenraum vor dem Starten der Maschine entl\u00fcftet werden muss.",
+            "B": "Dass das Seeventil f\u00fcr die Maschinenk\u00fchlung erst ge\u00f6ffnet wird, nachdem die Maschine gestartet wurde .",
+            "C": "Das der Luftfilter ausreichend mit Filter\u00f6l getr\u00e4nkt ist.",
+            "D": "Dass ausreichend lange vorgegl\u00fcht wird."
+        },
+        {
+            "title": "Frage 13: Wie k\u00f6nnen Sie den Stromverbrauch eines elektrischen Ger\u00e4ts errechnen?",
+            "A": "Gar nicht, der Stromverbrauch ist nicht vorhersehbar.",
+            "B": "Anhand der Formel: Elektrische Leistung (Watt) = Stromspannung U (Volt) x Stromst\u00e4rke I (Ampere).",
+            "C": "Anhand der Formel: Stromverbrauch (Amperestunden) = Stromspannung U (Volt) x Zeit (Minuten).",
+            "D": "Anhand der Formel: Elektrische Leistung (Watt) = Stromspannung U (Volt) / Stromst\u00e4rke I (Ampere). Navigation"
+        },
+        {
+            "title": "Frage 14: Wie viel Ampere entnimmt eine Gl\u00fchbirne mit 24 Watt einem 12-Volt-Akku?",
+            "A": "24 Volt.",
+            "B": "2 Ohm.",
+            "C": "1 Ampere.",
+            "D": "2 Ampere."
+        },
+        {
+            "title": "Frage 15: An welcher Seite Ihrer Jacht lassen Sie in Europa rote Tonnen vor der Hafeneinfahrt liegen wenn Sie in den Hafen einlaufen?",
+            "A": "Das spielt keine Rolle.",
+            "B": "Backbord.",
+            "C": "Steuerbord.",
+            "D": "Das kann nur der Seekarte entnommen werden."
+        },
+        {
+            "title": "Frage 16: Ist die Missweisung in allen Seegebieten immer die gleiche?",
+            "A": "Ja, der Wert der Missweisung ist f\u00fcr alle Seegebiete gleich.",
+            "B": "Nein, der Wert der Missweisung \u00e4ndert sich je nach Standort und ist der betreffenden Seekarte zu entnehmen.",
+            "C": "Nein, der Wert der Missweisung ist vom gerade anliegenden Kurs zu entnehmen.",
+            "D": "Ja, die Missweisung ist f\u00fcr alle Seegebiete gleich, \u00e4ndert sich allerdings im Jahresverlauf."
+        },
+        {
+            "title": "Frage 17: Woher k\u00f6nnen Sie den Gezeitenkalender f\u00fcr Venedig beziehen?",
+            "A": "Die Daten k\u00f6nnen \u00fcber Navtex bezogen werden.",
+            "B": "Unter anderem aus jedem Fachbuchhandel.",
+            "C": "Unter anderem aus dem Internet.",
+            "D": "Gezeitenkalender sind der Berufsschifffahrt vorbehalten und k\u00f6nnen daher nur von dieser bezogen werden."
+        },
+        {
+            "title": "Frage 18: Weshalb k\u00f6nnen die elektronisch angezeigten Werte der Fahrt durchs Wasser fehlerhaft sein?",
+            "A": "Die Werte k\u00f6nnen durch den Einfluss von Missweisung und Ablenkung fehlerhaft sein.",
+            "B": "Die elektronische Geschwindigkeitsmessung wird fortlaufend kompensiert und zeigt daher immer die korrekte Fahrt durchs Wasser an.",
+            "C": "Durch Verschmutzung des Sensors k\u00f6nnen die Werte fehlerhaft sein.",
+            "D": "Durch einen herrschenden Strom k\u00f6nnen die Werte fehlerhaft sein."
+        },
+        {
+            "title": "Frage 19: Wie werden Peilungen mit RADAR im Head-Up-Modus angegeben?",
+            "A": "Als missweisende Peilungen.",
+            "B": "Als rechtweisende Peilungen.",
+            "C": "Als Seitenpeilungen.",
+            "D": "Als magnetische Peilungen."
+        },
+        {
+            "title": "Frage 20: Wie wird Kurs und Geschwindigkeit vom Strom beeinflusst?",
+            "A": "Der Kurs wird immer in Richtung Strom abgelenkt, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.",
+            "B": "Der Kurs wird immer gegen die Richtung des Stroms abgelenkt, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.",
+            "C": "Strom hat keine Auswirkung auf den Kurs, die Geschwindigkeit nimmt mit dem Strom zu, gegen den Strom ab.",
+            "D": "Strom hat keine Auswirkung auf Kurs und Geschwindigkeit."
+        },
+        {
+            "title": "Frage 21: Welche Tafelwerke k\u00f6nnen zur Ermittlung von Hoch- und Niedrigwasserzeiten und H\u00f6hen verwendet werden?",
+            "A": "Hafenhandb\u00fccher.",
+            "B": "Seekarten.",
+            "C": "Graphische Tidenkalender.",
+            "D": "Seetidenkarten."
+        },
+        {
+            "title": "Frage 22: Wieviele Satelliten m\u00fcssen vom GPS-Ger\u00e4t mindestens empfangen werden, damit eine Position ermittelt werden kann?",
+            "A": "1 Satellit reicht aus.",
+            "B": "2 Satelliten reichen aus.",
+            "C": "mindestens 12 Satelliten.",
+            "D": "3 Satelliten f\u00fcr einen 2 dimensionalen Fix, 4 Satelliten f\u00fcr einen 3 dimensionalen Fix (Position und H\u00f6he)."
+        },
+        {
+            "title": "Frage 23: Welche Farbe haben Hafeneinfahrtszeichen in Europa an der Backbordseite, wenn Sie in den Hafen einlaufen?",
+            "A": "Rot.",
+            "B": "Schwarz.",
+            "C": "Gr\u00fcn.",
+            "D": "Gelb."
+        },
+        {
+            "title": "Frage 24: Ist die Tragweite eines Feuers konstant?",
+            "A": "Ja, die Tragweite ist unter allen Bedingungen konstant und kann deshalb in Seekarten angegeben werden.",
+            "B": "Die Tragweite eines Leuchtfeuers ist ausschlie\u00dflich von der Augenh\u00f6he des Beobachters abh\u00e4ngig und kann daher nicht konstant sein.",
+            "C": "Nein, die Tragweite von Leuchtfeuern ist ausschlie\u00dflich von der Leuchtkraft der verwendeten Lampe abh\u00e4nig, die im Laufe der Zeit immer schw\u00e4cher wird.",
+            "D": "Die tats\u00e4chliche Tragweite ist im Gegensatz zur Nenntragweite von der meteorologischen Sichtweite abh\u00e4ngig. Recht"
+        },
+        {
+            "title": "Frage 25: Welche Aufgaben hat die IMO unter anderem?",
+            "A": "Unter anderem die Einhaltung der Genfer Konventionen auf See im Kriegsfall.",
+            "B": "Unter anderem die einheitliche Regelung der Ein- und Ausreise auf dem Seeweg in und aus Staaten.",
+            "C": "Unter anderem alle nicht rein wirtschaftlichen Angelegenheiten der Handelsschifffahrt international zu regeln.",
+            "D": "Unter anderem den Erhalt der Infrastrukturen in internationalen Hafenanlagen."
+        },
+        {
+            "title": "Frage 26: Ist ein RADAR-Reflektor oder RADAR-Transponder f\u00fcr Jachten im Fahrbereich 2 verpflichtend?",
+            "A": "Nein, eine Ausr\u00fcstung mit einem RADAR-Reflektor ist nicht vorgeschrieben.",
+            "B": "Jachten im Fahrbereich 2 m\u00fcssen mit mindestens 2 RADAR-Reflektoren, einer auf jeder Seite der Jacht, ausger\u00fcstet sein.",
+            "C": "Jachten im Fahrbereich 2 sind mit einem RADAR-Reflektor oder mit einem RADAR-Transponder auszur\u00fcsten.",
+            "D": "Die Ausr\u00fcstung mit einem RADAR-Reflektor ist vorgeschrieben, ein RADAR-Transponder ist allerdings verboten."
+        },
+        {
+            "title": "Frage 27: Was sind marine sensible Zonen?",
+            "A": "Das sind Sondergebiete, in denen strengere Schutzvorschriften f\u00fcr das Einleiten von \u00d6l bzw. Chemikalien sowie f\u00fcr das Absondern von M\u00fcll gelten.",
+            "B": "Alle K\u00fcstenbereiche weltweit bis zu einer Entfernung von 3 Seemeilen von der K\u00fcste.",
+            "C": "Das sind nationale Naturschutzgebiete.",
+            "D": "Alle K\u00fcstenbereiche weltweit bis zu einer Entfernung von 12 Seemeilen von der K\u00fcste."
+        },
+        {
+            "title": "Frage 28: Sie wollen ein Land \u00fcber den Seeweg betreten. Was ist unter anderem zu tun?",
+            "A": "Unter anderem ist die Jacht bei der Haftpflichtversicherung abzumelden.",
+            "B": "\u00dcber den Seeweg darf jedes Land ohne besondere Formalit\u00e4ten betreten werden.",
+            "C": "Unter anderem muss die Anmeldung beim Zollhafen \u00fcber Seefunk vorgenommen werden.",
+            "D": "Unter anderem ist der n\u00e4chst gelegene Zollhafen zur Durchf\u00fchrung derEinreiseformalit\u00e4ten anzusteuern. Wetter"
+        },
+        {
+            "title": "Frage 29: Wie wird die Windrichtung in Wetterberichten angegeben?",
+            "A": "Aus der Himmelsrichtung, aus der der Wind kommt.",
+            "B": "In die Himmelsrichtung, in die der Wind weht.",
+            "C": "Nach der Rotation des Windes, rechtsdrehend oder linksdrehend.",
+            "D": "In Zugrichtung der Wolken."
+        },
+        {
+            "title": "Frage 30: In welcher Atmosph\u00e4renschicht spielt sie das Wetter ab?",
+            "A": "In der Troposph\u00e4re.",
+            "B": "In der Tropopause.",
+            "C": "In der Stratosph\u00e4re.",
+            "D": "In der Ionosph\u00e4re."
+        },
+        {
+            "title": "Frage 31: Was ist der Gradient in der Meteorologie?",
+            "A": "Der Luftdruckunterschied innerhalb einer Distanz von 60 Seemeilen.",
+            "B": "Der Luftdruckunterschied auf einer Distanz von einem L\u00e4ngengrad.",
+            "C": "Der Luftdruckunterschied auf einer Distanz von 200 Seemeilen.",
+            "D": "Der Luftdruckunterschied zwischen einem Tiefdruckzentrum und einem Hochdruckzentrum."
+        },
+        {
+            "title": "Frage 32: Was ist ein Landwind?",
+            "A": "Wind, der aufgrund eines Kap- oder D\u00fcseneffektes aufs Land gelenkt wird.",
+            "B": "Wind, der aufs Land weht.",
+            "C": "Wind, der vom Land her weht.",
+            "D": "Wind, der aufgrund eines \u00fcber dem Land stehenden Tiefs entsteht."
+        },
+        {
+            "title": "Frage 33: Wie kann man unter anderem das Alter einer Zyklone in der Wetterkarte absch\u00e4tzen?",
+            "A": "Je \u00e4lter das Tief ist, desto schneller wird seine Zuggeschwindigkeit.",
+            "B": "Das Alter einer Zyklone kann auf einer Wetterkarte nicht abgesch\u00e4tzt werden.",
+            "C": "Je \u00e4lter das Tief ist, desto weiter hat die Kaltfront die Warmfront eingeholt und es entsteht eine ausgepr\u00e4gte Okklusionsfront.",
+            "D": "Je \u00e4lter das Tief ist, desto weiter entfernt sich die Warmfront von der Kaltfront, eine eventuell bestehende Okklusionsfront l\u00f6st sich auf."
+        },
+        {
+            "title": "Frage 34: Was ist die typische Windrichtung bei Bora?",
+            "A": "Ost bis Nordost.",
+            "B": "S\u00fcd bis S\u00fcdost.",
+            "C": "Nord bis Nordwest.",
+            "D": "S\u00fcd bis S\u00fcdwest."
+        },
+        {
+            "title": "Frage 35: Mit wieviel Beaufort rechnen Sie, wenn der Wetterbericht von einem Sturm spricht?",
+            "A": "Mit 9 Beaufort.",
+            "B": "Mit 12 Beaufort.",
+            "C": "Mit 3 Beaufort.",
+            "D": "Mit 6 Beaufort."
+        },
+        {
+            "title": "Frage 36: \u00dcber welche Medien k\u00f6nnen Sie Grib files empfangen?",
+            "A": "\u00dcber das Internet.",
+            "B": "\u00dcber UKW-Funk.",
+            "C": "\u00dcber NavTex.",
+            "D": "\u00dcber AIS."
+        },
+        {
+            "title": "Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenl\u00e4nge?",
+            "A": "Durch die geringere Wassertiefe wird die Wellenl\u00e4nge verk\u00fcrzt.",
+            "B": "Durch \u00dcberlagerung mehrerer Wellenk\u00e4mme kann Kreuzsee entstehen.",
+            "C": "Aus einer vertikalen Auf- und Abbewegung des Wassers wird eine Orbitalbewegung des Wellenkammes, die Welle bricht.",
+            "D": "Nichts besonderes. Sicherheit"
+        },
+        {
+            "title": "Frage 38: Was wird mit D\u00fcnung bezeichnet?",
+            "A": "Eine Welle, die auf flaches Wasser trifft.",
+            "B": "Eine aus einem lokalen nahen Windsystem entstandene Welle.",
+            "C": "Eine den Windwellen entgegenstehende Welle.",
+            "D": "Eine aus einem entfernten Windsystem langsam ablaufende Welle."
+        },
+        {
+            "title": "Frage 39: Sie geraten in eine Legerwall-Situation und ihre Maschine springt nicht an. Was k\u00f6nnen Sie tun?",
+            "A": "Auf einer Segeljacht, versuchen unter Segel aus dem Legerwall zu segeln.",
+            "B": "Unter anderem versuchen ein Auflaufen mit dem Anker zu verhindern.",
+            "C": "In einer Legerwall Situation kann man ohne Maschinenantrieb nichts mehr gegen das Auflaufen unternehmen.",
+            "D": "Versuchen, mit dem Bootshaken ein Auflaufen zu verhindern."
+        },
+        {
+            "title": "Frage 40: Wo picken Sie Ihre Sicherheitsleine ein?",
+            "A": "An einem Strecktau, das entlang der Reling gespannt wird.",
+            "B": "An den vorhandenen Festmacherklampen.",
+            "C": "An einer geeigneten Stelle m\u00f6glichst in der Mitte des Decks. Am besten in ein Strecktau.",
+            "D": "An der Reling."
+        },
+        {
+            "title": "Frage 41: Muss eine Jacht f\u00fcr den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer EPIRB ausger\u00fcstet sein?",
+            "A": "Ja, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen mit einer EPIRB ausgestattet sein.",
+            "B": "Nein, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen nicht mit einer EPIRB ausger\u00fcstet sein.",
+            "C": "Nur, wenn sich kein GMDSS-UKW-Funkger\u00e4t an Bord befindet.",
+            "D": "Nur, wenn man mit der Jacht das nationale Gew\u00e4sser verlassen will."
+        },
+        {
+            "title": "Frage 42: Es droht Sturm und Sie werden nicht mehr rechtzeitig einen Schutzhafen erreichen. Was tun Sie unter anderem?",
+            "A": "Sofort Treibanker ausbringen.",
+            "B": "Ohne weitere Ma\u00dfnahmen wie geplant weiterfahren, Jachten k\u00f6nnen auch bei Sturm problemlos gesteuert werden .",
+            "C": "Vorbereiten der Rettungsinsel.",
+            "D": "Alle Luken und Seeventile schlie\u00dfen, Rettungswesten und Lifebelts anlegen ."
+        },
+        {
+            "title": "Frage 43: Was ist die sichere Geschwindigkeit im Sinne der KVR?",
+            "A": "Jedes Fahrzeug muss eine Geschwindigkeit w\u00e4hlen, bei der es mit der K\u00fcste nicht kollidiert.",
+            "B": "Jedes Fahrzeug muss mit einerGeschwindigkeit fahren, sodass es geeignete und wirksame Ma\u00dfnahmen treffen kann, um einen Zusammensto\u00df zu vermeiden.",
+            "C": "Jedes Fahrzeug muss eine Geschwindigkeit w\u00e4hlen, bei der Kollisionen unwahrscheinlich sind.",
+            "D": "Jedes Fahrzeug muss den Sichtverh\u00e4ltnissen entsprechend eineGeschwindigkeit w\u00e4hlen, dass es rechtzeitig stehen bleiben kann."
+        },
+        {
+            "title": "Frage 44: Was ist eine Notpinne?",
+            "A": "Eine Pinne, mit der Notsignale abgegeben werden k\u00f6nnen.",
+            "B": "Eine Notpinne ist ein anderer Ausdruck f\u00fcr die Rollenverteilung in Notf\u00e4llen an Bord.",
+            "C": "Eine Pinne, die auf den Ruderquadranten gesteckt wird und die defekte Steueranlage ersetzt.",
+            "D": "Eine Pinne, mit der ein gebrochenes Ruderblatt ersetzt werden kann."
+        },
+        {
+            "title": "Frage 45: Wie k\u00f6nnen Sie ein besch\u00e4digtes Seeventil abdichten?",
+            "A": "Mit einem Leckpfropfen.",
+            "B": "Das Seeventil einfach schlie\u00dfen.",
+            "C": "W\u00e4hrend der Fahrt mit spezieller Abdichtspachtel.",
+            "D": "W\u00e4hrend der Fahrt mit PU-Schaum."
+        },
+        {
+            "title": "Frage 46: Was ist eine besondere Gefahrenstelle f\u00fcr eine \u00fcber Bord gegangene Person?",
+            "A": "Das Bugstrahlruder.",
+            "B": "Der Freibord.",
+            "C": "Der Propeller.",
+            "D": "Die Ruderanlage."
+        }
+    ]
+}

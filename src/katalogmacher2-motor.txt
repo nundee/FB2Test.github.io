@@ -90,7 +90,7 @@ Wasserabscheider verstopft.
 D:
 
 Impeller defekt.
-Seite 1
+
 
 Frage 5:
 
@@ -171,7 +171,7 @@ Dieselpest.
 D:
 
 schwarzer Rauch im Auspuff.
-Seite 2
+
 
 Frage 9:
 
@@ -244,7 +244,7 @@ mit den Kavitationsplatten unter dem Propeller.
 D:
 
 mit dem Anstellwinkel des Stevenrohres.
-Seite 3
+
 
 Frage 13: Wie funktioniert die Einhebel Motorsteuerung?
 A:
@@ -285,6 +285,6 @@ D:
 
 wenn man nur eine Schraube eingekuppelt hat.
 
-Seite 4
+
 
 

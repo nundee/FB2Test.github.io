@@ -1,1 +1,504 @@
-{"header": ["Seefahrtsverband S\u00fcd", "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at", "Fahrtbereich 2", "Fragensammlung", "Modul Motor", "Richtig ist Antwort A", "G\u00fcltig ab: 15.11.2019", "Modul Motor"], "fragen": [{"title": "Frage 1: Warum ist Wasser im Benzin gef\u00e4hrlich?", "A": "Das schwerere Wasser sammelt sich in der Schwimmerkammer im Vergaser und der Motor stirbt ab.", "B": "Das Wasser bildet Ru\u00dfbr\u00fccken \u00fcber die Elektroden der Z\u00fcndkerzen..", "C": "Das Wasser bildet mit Benzin explosive Gase.", "D": "Es ist ungef\u00e4hrlich, moderne Motoren verarbeiten Wasser mit etwas wei\u00dfem Rauch.."}, {"title": "Frage 2: Warum m\u00fcssen Sie den Keilriemen regelm\u00e4\u00dfig kontrollieren?", "A": "ohne Keilriemen kann die K\u00fchlung ausfallen.", "B": "ohne Keilriemen f\u00e4llt die Z\u00fcndung aus.", "C": "ohne Keilriemen arbeitet die Bilgepumpe nicht.", "D": "ohne Keilriemen kann die Schmierung ausfallen."}, {"title": "Frage 3: Was ist ein Wendegetriebe und welche Funktion erf\u00fcllt es?", "A": "ist ein Getriebe, das die Drehrichtung der Antriebswelle \u00e4ndert.", "B": "ist ein Getriebe, das die Wellenrichtung \u00e4ndert (von horizontal auf Neigung ins Wasser).", "C": "ist ein Getriebe, das die Motordrehzahl zur Welle verdreifacht.", "D": "ist ein Getriebe, das universell angewendet werden kann (kann auch verkehrt herum eingebaut werden)."}, {"title": "Frage 4: Was versteht man unter Fremdz\u00fcndung?", "A": "Z\u00fcndung mittels Z\u00fcndkerzen.", "B": "Z\u00fcndung mittels Gl\u00fchkerzen.", "C": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.", "D": "Explosion von brennbaren Fl\u00fcssigkeiten. Seite 1"}, {"title": "Frage 5: Was versteht man unter Eigenz\u00fcndung?", "A": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.", "B": "Z\u00fcndung mittels Gl\u00fchkerzen.", "C": "Z\u00fcndung mittels Z\u00fcndkerzen.", "D": "Z\u00fcndung durch Einspritzung in den Vergaser."}, {"title": "Frage 6: Wie kann ein Au\u00dfenbordmotor entsalzt werden?", "A": "man montiert den Au\u00dfenbordmotor in einem S\u00fc\u00dfwasserfass und l\u00e4sst ihn einige Zeit laufen.", "B": "man entl\u00fcftet die K\u00fchlung und sch\u00fcttet S\u00fc\u00dfwasser in die Entl\u00fcftungsschraube.", "C": "man nimmt den Motor aus dem Wasser und l\u00e4sst ihn f\u00fcnf Minuten ohne Wasserber\u00fchrung laufen.", "D": "man bespr\u00fcht die K\u00fchlkan\u00e4le w\u00e4hrend des Betriebes mit Kriech\u00f6l."}, {"title": "Frage 7: Wie vermindern Sie die Explosionsgefahr der Gase im Motorraum bei Benzin-Innenbordmotoren?", "A": "durch Zwangs-Luftabsaugung des Motorraumes.", "B": "durch \u00dcberbordh\u00e4ngen eines Kupferkabels.", "C": "durch mindestens zwei Minuten \u00d6ffnen des Motorraumdeckels.", "D": "durch die Bilgepumpe, welche die in Luft absinkenden Benzind\u00e4mpfe absaugt."}, {"title": "Frage 8: Beim Viertaktmotor ist welcher Takt der Arbeitstakt?", "A": "der 3. Takt.", "B": "der 2. Takt.", "C": "der 2. Und 4. Takt.", "D": "beim Diesel der 2. Takt, beim Benzinmotor der 3. Takt. Seite 2"}, {"title": "Frage 9: Was ist ein Nachteil der direkten K\u00fchlung?", "A": "es k\u00f6nnen keine Frostschutzmittel verwendet werden.", "B": "komplizierter Einbau.", "C": "es m\u00fcssen Frostschutzmittel verwendet werden.", "D": "teurer in der Anschaffung."}, {"title": "Frage 10: Wie kann man Benzinmotoren erkennen?", "A": "an den Z\u00fcndkerzen.", "B": "an der Einspritzpumpe.", "C": "Benzinmotoren haben nur 6-stellige Motornummern.", "D": "am Treibstoff: Benzin verdunstet nicht, Diesel sofort."}, {"title": "Frage 11: Was verdichtet der Turbolader?", "A": "die Ansaugluft des Motors.", "B": "das K\u00fchlwasser des Motors.", "C": "das Schmier\u00f6l der Kolbenringe.", "D": "den Dieselkraftstoff der in die Zylinder eingespritzt wird."}, {"title": "Frage 12: Was bezeichnet man beim Schiffsmotor als ?nassen Auspuff??", "A": "ein Auspuff bei dem die Auspuffgase mit Wasser gek\u00fchlt werden..", "B": "ein Auspuff bei dem auch fl\u00fcssiger Treibstoff entweicht.", "C": "ein Auspuff der unter der Wasserlinie liegt.", "D": "ein Auspuff durch den das K\u00fchlwasser eingesaugt wird. Seite 3"}, {"title": "Frage 13: Was lesen Sie an Bord \u00fcblicherweise an einem Manometer ab?", "A": "den Druck des Motor\u00f6ls.", "B": "den Druck des K\u00fchlwassers im W\u00e4rmetauscher.", "C": "den Druck der Luft im Turbolader.", "D": "den Druck im Wasserabscheider."}, {"title": "Frage 14: Aus dem Auspuff tritt st\u00e4ndig schwarzer Rauch aus. Was kann das bedeuten?", "A": "Luftfilter verschmutzt.", "B": "Motor\u00f6l wird verbrannt.", "C": "Wasser im Zylinder (Zylinderkopfdichtung defekt).", "D": "zu geringer \u00d6ldruck."}, {"title": "Frage 15: Was ist die Ursache von milchigem Motor\u00f6l?", "A": "Wasser im \u00d6l.", "B": "Benzin im \u00d6l.", "C": "Diesel im \u00d6l.", "D": "\u00d6l ist durch \u00dcberhitzung zu hei\u00df geworden, schmiert und k\u00fchlt nicht mehr."}, {"title": "Frage 16: Aus dem Auspuff tritt st\u00e4ndig blauer Rauch aus. Was kann das bedeuten?", "A": "zu hoher \u00d6lverbrauch.", "B": "Zylinderkopfdichtung defekt.", "C": "Motor bekommt zu wenig Luft.", "D": "kein K\u00fchlwasser im Auspuff. Seite 4"}, {"title": "Frage 17: Der Motor wird zu hei\u00df. Ursache k\u00f6nnte sein?", "A": "Impeller defekt.", "B": "Wasserabscheider verstopft.", "C": "elektrisches Regelventil der Wasserpumpe ist ausgefallen.", "D": "Seewassertemperatur ist zu hoch."}, {"title": "Frage 18: Nach welchem Kriterium wird der Motor\u00f6lwechsel beim Schiffsmotor meist gemacht?", "A": "nach gelaufenen Motorstunden.", "B": "nach gefahrenen Seemeilen.", "C": "nach verbrauchtem Motor\u00f6l.", "D": "nach Farbe des Motor\u00f6les."}, {"title": "Frage 19: Hat der Schiffsinnenborder einen Luftfilter?", "A": "ja, es reinigt die angesaugte Luft bevor sie in den Motor kommt..", "B": "nein, durch die reine Luft am Meer er\u00fcbrigt sich ein Luftfilter..", "C": "nein, die Luft str\u00f6mt durch ein Ablagerungslabyrinth am Motorblock..", "D": "ja, es dient nur zum Fernhalten von Insekten."}, {"title": "Frage 20: Wozu dient ein Motor\u00f6lfilter?", "A": "es filtert kleine Metallsp\u00e4ne und andere Verunreinigungen aus.", "B": "es filtert das \u00d6l vor dem Eintritt in den Motorblock.", "C": "bei einem \u00d6lwechsel muss das neue \u00d6l durch den Filter rinnen damit es wirksam wird.", "D": "der \u00d6lfilter ist ein Indikator. Ist das \u00d6l verbraucht, verf\u00e4rbt er sich. Seite 5"}, {"title": "Frage 21: Warum gibt es im Motorraum von Schiffen automatische Feuerl\u00f6scher?", "A": "weil bei einem Motorbrand die Motorraumabdeckung nicht ge\u00f6ffnet werden sollte.", "B": "weil bei h\u00e4ndischem l\u00f6schen zu hohe Verbrennungsgefahr besteht.", "C": "weil man bei h\u00e4ndischem L\u00f6schen nicht an den Brandherd kommt.", "D": "weil die automatische Anlage den Nachbrand unter Kontrolle h\u00e4lt."}, {"title": "Frage 22: Wo wird die Sicherheitskordel (Notstop) des Aussenborders befestigt?", "A": "am Handgelenk des Fahrers.", "B": "am Heck des Bootes.", "C": "am Handgelenk des Beifahrers.", "D": "nirgends, sie h\u00e4ngt frei zur Bet\u00e4tigung im Notfall."}, {"title": "Frage 23: Sie verbrauchen 25 l Treibstoff pro Stunde bei 20 kn Fahrt. Ihr Tankinhalt ist 400 l, wie gro\u00df ist Ihre Reichweite?", "A": "320 sm.", "B": "500 sm.", "C": "160 sm.", "D": "200 sm."}, {"title": "Frage 24: Was versteht man unter \u00f6konomischer Fahrt?", "A": "Fahrt mit einer Motordrehzahl bei der man pro Liter Treibstoff die gr\u00f6\u00dfte Distanz zur\u00fccklegt.", "B": "Fahrt mit einer Motordrehzahl bei der man in der k\u00fcrzesten Zeit zum Ziel kommt.", "C": "Fahrt bei der man den k\u00fcrzesten Weg zum Ziel f\u00e4hrt.", "D": "Fahrt bei der man Strom und Wind ausnutzt um Treibstoff zu sparen. Seite 6"}, {"title": "Frage 25: Wozu dient ein Schwanenhals im Auspuffsystem?", "A": "er verhindert, dass Seewasser eindringt.", "B": "er ist eine Verl\u00e4ngerung um den Auspuff so hoch wie m\u00f6glich zu bringen.", "C": "er bewirkt, dass nur Gase austreten k\u00f6nnen.", "D": "er sorgt daf\u00fcr dass die Leitungen so lange werden, dass keine Resonanzen auftreten."}, {"title": "Frage 26: Warum kann ein Dieselmotor nach Abstellen weiterlaufen?", "A": "die Kraftstoffpumpe wurde nicht auf Nullf\u00f6rderung gestellt.", "B": "die Z\u00fcndung wurde nicht unterbrochen.", "C": "der Treibstoff im Treibstofffilter muss noch verbraucht werden.", "D": "die K\u00fchlung muss erst die Temperatur auf unter 60 Grad abbauen."}, {"title": "Frage 27: Warum soll man bei l\u00e4ngeren Stehzeiten den Treibstofftank vollf\u00fcllen?", "A": "damit feuchte Luft von au\u00dfen weniger Kondenswasser bilden kann.", "B": "damit das Schiff schwerer im Wasser liegt.", "C": "damit zur Sicherheit immer volle Reserve vorhanden ist.", "D": "damit im Falle von Feuer der Tank brennt und nicht das Schiff."}, {"title": "Frage 28: Was ist eine indirekte K\u00fchlung?", "A": "K\u00fchlung \u00fcber W\u00e4rmetauscher.", "B": "K\u00fchlung durch Peltiersystem.", "C": "K\u00fchlung durch Zweistufengebl\u00e4se.", "D": "K\u00fchlung durch Wassermantel \u00fcber dem Schalld\u00e4mpfer. Seite 7"}, {"title": "Frage 29: Welche Motoren brauchen einen \u00d6lanteil im Kraftstoff?", "A": "Zweitaktmotoren.", "B": "Dreizylindermotoren.", "C": "Viertaktmotoren.", "D": "Turbomotoren."}, {"title": "Frage 30: Welche Anschlussleitungen brauchen Treibstofftanks au\u00dfer der \u00d6ffnung zum Tanken?", "A": "Ansaugleitung, R\u00fcckflussleitung, Entl\u00fcftung.", "B": "Absaugleitung, Gaszuleitung, Treibstoffausgleichsleitung.", "C": "Gaszug, Pumpenleitung, Abflussleitung.", "D": "Z\u00e4hlerleitung, Motordruckausgleichsleitung, Treibstoffabsaugleitung."}, {"title": "Frage 31: Welche Treibstoffe werden f\u00fcr Antriebsmotoren von Sportbooten am meisten verwendet?", "A": "Benzin, Diesel.", "B": "Kerosin, Gas\u00f6l.", "C": "Schwer\u00f6l, Leichtbenzin.", "D": "Methanol, Leicht\u00f6l."}, {"title": "Frage 32: Was sollte bei Grundber\u00fchrung mit dem Au\u00dfenbordmotor brechen?", "A": "Scherstift.", "B": "Schaft des Motors.", "C": "Zahnradkupplung.", "D": "Motorstift. Seite 8"}, {"title": "Frage 33: Welche Routinekontrollen sollten am Schiffsmotor regelm\u00e4\u00dfig gemacht werden?", "A": "\u00d6lstand, Keilriemen, Motorbilge.", "B": "Impeller \u00f6ffnen und Wasserabscheider \u00f6ffnen.", "C": "Wasser im Au\u00dfenkreis, \u00d6l im Innenkreis.", "D": "L\u00fcfterzahnriemen, Wasserfluss, L\u00fcfterfilter."}, {"title": "Frage 34: Wodurch kann wei\u00dfer Rauch im Auspuff entstehen?", "A": "Wasserdampf.", "B": "\u00d6ldampf.", "C": "Luftverschmutzung.", "D": "diesiges Wetter."}, {"title": "Frage 35: Wof\u00fcr dient die Schraube unten am Wasserabscheider?", "A": "zum Ablassen des Wassers.", "B": "zum \u00d6ffnen des Filtergeh\u00e4uses.", "C": "zum Einf\u00fcllen des Wassers.", "D": "zum Ablassen des Treibstoffes."}, {"title": "Frage 36: Wozu gibt es manchmal eine Handpumpe am Filtergeh\u00e4use des Treibstoffilters?", "A": "zum Entl\u00fcften.", "B": "zum Auspumpen.", "C": "zum Zur\u00fcckpumpen.", "D": "zum manuellen Gas geben. Seite 9"}, {"title": "Frage 37: Was kann entstehen wenn der Luftfilter eines Dieselmotors verstopft ist?", "A": "schwarzer Rauch im Auspuff.", "B": "Zylinderexplosion.", "C": "blauer Rauch im Auspuff.", "D": "Dieselpest."}, {"title": "Frage 38: Was ist ein Nachteil des trockenen Auspuffsystemes bei Sportbooten?", "A": "die heisse Auspuffleitung muss gut isoliert sein.", "B": "die trockenen Auspuffleitungen zerfallen in kurzer Zeit.", "C": "das Meeressalz setzt sich in den trockenen Leitungen fest.", "D": "die heisse Auspuffleitung erhitzt den Motor zus\u00e4tzlich."}, {"title": "Frage 39: Warum m\u00fcssen Wendegetriebe oft gek\u00fchlt werden?", "A": "Weil ein Teil der Motorleistung im Getriebe verbraucht wird.", "B": "Weil beim Man\u00f6vrieren die Schaltw\u00e4rme frei wird.", "C": "Weil der Motor das Getriebe durch W\u00e4rmeleitung erhitzt.", "D": "Weil ein Teil des Getriebes durch die Auspuffgase erhitzt wird."}, {"title": "Frage 40: Warum ist Benzin als Treibstoff gef\u00e4hrlicher als Diesel?", "A": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Luft erzeugt.", "B": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Salz erzeugt.", "C": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Wasser erzeugt.", "D": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Buthangas erzeugt. Seite 10"}, {"title": "Frage 41: Welches Bauteil sorgt f\u00fcr den Kreislauf des Motor\u00f6ls durch die Lager des Motors?", "A": "eine Zahnradpumpe.", "B": "eine vom Pleuel betriebene Pumpe.", "C": "eine Zahnstangenf\u00f6rderung.", "D": "eine \u00d6lfilterpumpe."}, {"title": "Frage 42: Wann deutet wei\u00dfer Rauch im Auspuff einen Schaden im Motor an?", "A": "wenn er vom K\u00fchlwasser kommt.", "B": "wenn er vom Motor\u00f6l kommt.", "C": "wenn er vom Tau im Auspuff kommt.", "D": "wenn er vom Luftfilter kommt."}, {"title": "Frage 43: Welchen Defekt kann blauer Rauch im Auspuff anzeigen?", "A": "abgen\u00fctzte Kolbenringe.", "B": "abgen\u00fctzte \u00d6lpumpe.", "C": "abgen\u00fctzte \u00d6lfilter.", "D": "abgen\u00fctztes Getriebe\u00f6l."}, {"title": "Frage 44: Warum f\u00fchrt Luft in der Dieselleitung oft zum Stillstand des Dieselmotors?", "A": "weil die Luft die Komprimierung des Treibstoffes verhindert.", "B": "weil die Luft die Dieselpest verursacht.", "C": "weil die Luft den Treibstofffilter durch Oxydationsprodukte verstopft.", "D": "weil die Luft die R\u00fccklaufleitung blockiert. Seite 11"}, {"title": "Frage 45: Welchen Motorschaden kann Wasser im Motor\u00f6l anzeigen?", "A": "Undichtigkeit zwischen K\u00fchlkreislauf und \u00d6lkreislauf.", "B": "Undichtigkeit zwischen Wasserfilter und \u00d6lfilter.", "C": "Undichtigkeit zwischen K\u00fchlkreislauf und Auspuffsystem.", "D": "Undichtigkeit zwischen \u00d6ltank und Wassertank."}, {"title": "Frage 46: Wann nennt man einen Propeller rechtsg\u00e4ngig?", "A": "wenn er bei Vorausfahrt in Fahrtrichtung gesehen nach rechts schl\u00e4gt.", "B": "wenn er bei Vorausfahrt gegen die Fahrtrichtung gesehen nach rechts schl\u00e4gt.", "C": "wenn er bei Achterausfahrt das Heck nach rechts versetzt.", "D": "wenn er bei Achterausfahrt in Bugrichtung gesehen nach rechts schl\u00e4gt."}, {"title": "Frage 47: Wie nennt man Boote die ihre Rumpfgeschwindigkeit nicht wesentlich \u00fcberschreiten?", "A": "Verdr\u00e4nger.", "B": "Breitrumpfer.", "C": "Gleiter.", "D": "Segelboote."}, {"title": "Frage 48: Wie oft sollten Sie die Opferanoden kontrollieren?", "A": "mindestens 1x im Jahr.", "B": "mindestens alle 3 Jahre.", "C": "mindestens alle 5 Tage.", "D": "mindestens alle 6 Jahre. Seite 12"}, {"title": "Frage 49: Was bewirkt Abn\u00fctzung an den Schaufeln eines schnell drehenden Propellers?", "A": "Kavitation.", "B": "Plankton im Wasser.", "C": "Saures Wasser.", "D": "Elektrolyse."}, {"title": "Frage 50: Wie wirkt der Radeffekt bei einem Zwei-Schrauben-Schiff in der Regel?", "A": "die Drehrichtungen der Schrauben sind gegenl\u00e4ufig, die Radeffekte heben sich auf.", "B": "weil die Schrauben nicht in der Kielrichtung wirken kommt es zu keinem Radeffekt.", "C": "der Radeffekt wird gr\u00f6\u00dfer in Kurvenfahrt.", "D": "der Radeffekt ist der Gleiche wie bei einer Wellenanlage mit einem Propeller."}, {"title": "Frage 51: Was bezeichnet man als Schlupf beim Propeller?", "A": "den Unterschied zwischen dem theoretisch m\u00f6glichen Weg und dem tats\u00e4chlichen Weg.", "B": "den Unterschied zwischen der Propellerdrehzahl und der Motordrehzahl.", "C": "den Unterschied zwischen der Geschwindigkeit des Propellerstrahles und der Bootsgeschwindigkeit.", "D": "den Unterschied zwischen der Propellerdrehzahl und dem Wellenantrieb."}, {"title": "Frage 52: Was ben\u00f6tigen Gleitboote wegen der h\u00f6heren Geschwindigkeit?", "A": "kleinere Ruderbl\u00e4tter.", "B": "gr\u00f6\u00dfere Ruderbl\u00e4tter.", "C": "tiefere Ruderbl\u00e4tter.", "D": "dickere Ruderbl\u00e4tter. Seite 13"}, {"title": "Frage 53: Um Vibrationen zu vermeiden kann man die Drehzahl der Motoren eines Zweischraubenschiffes auf gleiche Drehzahl bringen. Wodurch wird das erleichtert?", "A": "einen Differenzdrehzahlmesser.", "B": "einen Differenzeliminator.", "C": "einen Differenzgashebel.", "D": "eine Differenzeinspritzpumpe."}, {"title": "Frage 54: Wie nennt man Boote, die ihre Rumpfgeschwindigkeit wesentlich \u00fcberschreiten?", "A": "Gleiter.", "B": "Raser.", "C": "Verdr\u00e4nger.", "D": "Flachboote."}, {"title": "Frage 55: Wodurch wird der \u00dcbergang von Verdr\u00e4ngerfahrt in Gleitfahrt leichter erreicht?", "A": "weniger Gesamtgewicht.", "B": "Gewichtsverlagerung nach achtern.", "C": "Propeller mit Overdrive.", "D": "Schr\u00e4glage nach Backbord oder Steuerbord."}, {"title": "Frage 56: Womit kann die Lage der L\u00e4ngsachse eines Gleiters getrimmt werden?", "A": "Trimmklappen.", "B": "Trimmst\u00e4be.", "C": "Trimmschraube.", "D": "Trimmruder. Seite 14"}, {"title": "Frage 57: Womit kann die Lage der L\u00e4ngsachse eines Gleiters getrimmt werden?", "A": "mit dem Anstellwinkel der Propellerachse.", "B": "mit den Kavitationsplatten unter dem Propeller.", "C": "mit dem Anstellwinkel des Stevenrohres.", "D": "mit dem L\u00e4ngsruder des Z-Triebes."}, {"title": "Frage 58: Was bewirkt in Gleitfahrt ein Hinunterfahren der Trimmklappen?", "A": "der Bug taucht mehr ein.", "B": "das Heck taucht mehr ein.", "C": "das Ruder wird weniger angestr\u00f6mt.", "D": "die Heckwelle verschwindet."}, {"title": "Frage 59: Wann ist die Ruderwirkung besonders gro\u00df?", "A": "wenn der Propellerstrahl das Ruder direkt anstr\u00f6mt.", "B": "wenn das Ruder seitlich vom Propeller ist.", "C": "wenn der Propellerstrahl das Ruder nicht behindert.", "D": "wenn der Propeller eine gro\u00dfe Steigung hat."}, {"title": "Frage 60: Haben Motorboote eine Abdrift?", "A": "ja, aufgrund des kleinen Lateralplanes.", "B": "ja, aber wenig wegen des gro\u00dfen Lateralplanes.", "C": "nein, Motorboote haben keine Abdrift.", "D": "nur bei h\u00f6herer Geschwindigkeit. Seite 15"}, {"title": "Frage 61: Welches Schiff verursacht relativ gesehen den meisten Wellenschlag?", "A": "kleiner Verdr\u00e4nger mit Rumpfgeschwindigkeit.", "B": "gro\u00dfer Verdr\u00e4nger mit halber Rumpfgeschwindigkeit.", "C": "gro\u00dfer Verdr\u00e4nger in R\u00fcckw\u00e4rtsfahrt.", "D": "kleiner Verdr\u00e4nger in R\u00fcckw\u00e4rtsfahrt."}, {"title": "Frage 62: Wie funktioniert die Einhebel Motorsteuerung?", "A": "Mittelstellung ausgekuppelt, nach vor Einkuppeln und Gas vorw\u00e4rts, nach hinten Einkuppeln und Gas r\u00fcckw\u00e4rts.", "B": "Mittelstellung ausgekuppelt, nach vor Einkuppeln und Gas vorw\u00e4rts, mit gedr\u00fccktem Knopf Einkuppeln und Gas r\u00fcckw\u00e4rts.", "C": "Mittelstellung ausgekuppelt, nach rechts Einkuppeln und Gas vorw\u00e4rts, nach links Einkuppeln und Gas r\u00fcckw\u00e4rts.", "D": "Mittelstellung ausgekuppelt, nach vor und Knopf gedr\u00fcckt Einkuppeln und Gas vorw\u00e4rts, nach hinten und Knopf gedr\u00fcckt Einkuppeln und Gas r\u00fcckw\u00e4rts."}, {"title": "Frage 63: Die Motorbatterie ist irrt\u00fcmlich entladen. Wie kann man ohne Fremdhilfe starten?", "A": "Sie verbinden die Verbraucherbatterie mit der Starterbatterie und warten einige Minuten.", "B": "Mayday rufen und auf den Tankdienst warten.", "C": "Starter per Hand einkuppeln und drehen.", "D": "Motor mit der Winschkurbel an der Lichtmaschine durchdrehen."}, {"title": "Frage 64: Der Motor f\u00e4llt aus, Wind und Wellen kommen auf, sie treiben auf die K\u00fcste zu. Was k\u00f6nnten sie tun um Legerwall zu vermeiden?", "A": "Anker ausbringen.", "B": "Rettungsinsel ausbringen.", "C": "Ballast \u00fcber Bord werfen.", "D": "warten bis der Wind dreht. Seite 16"}, {"title": "Frage 65: Woran erkennt man, ob man als Verdr\u00e4nger \u00fcber der Rumpfgeschwindigkeit geschleppt wird?", "A": "wenn es im Schiffsk\u00f6rper zu Vibrationen kommt.", "B": "an Klopfger\u00e4uschen am Kielschwein.", "C": "am Mitdrehen von Schiffsschraube und Welle.", "D": "an unregelm\u00e4\u00dfigen starken Ausschl\u00e4gen der Loggegeschwindigkeit."}, {"title": "Frage 66: Bei welchem Antrieb kann der Anstellwinkel der Propellerachse zwecks Trimmung verstellt werden?", "A": "Z-Trieb.", "B": "starrer Wellenantrieb.", "C": "Saildrive.", "D": "V - Drive."}, {"title": "Frage 67: Wann muss man bei Zweischrauben- Wellenantrieb mit gegengleich schlagenden Propellern mit Radeffekt rechnen?", "A": "wenn man nur eine Schraube eingekuppelt hat.", "B": "wenn man die Schrauben mit gleicher Drehzahl drehen l\u00e4\u00dft.", "C": "wenn man beide Schrauben retour laufen l\u00e4\u00dft.", "D": "wenn man beide Schrauben auskuppelt und Gas gibt."}, {"title": "Frage 68: Wodurch wird in Gleitfahrt erreicht, weniger stark auf die Wellen aufzuschlagen?", "A": "die Trimmklappen etwas mehr ausfahren.", "B": "die Trimmklappen etwas mehr einfahren.", "C": "die Trimmklappen vor der Welle einfahren, nach der Welle ausfahren.", "D": "die Trimmklappen unsymetrisch trimmen. Seite 17"}, {"title": "Frage 69: Was sollte man bei einem Brand im Motorraum nicht tun?", "A": "den Motorraumzugang \u00f6ffnen.", "B": "den Motorraumzugang schlie\u00dfen.", "C": "den Treibstoffhahn schlie\u00dfen.", "D": "das L\u00f6schloch \u00f6ffnen ."}]}
+{
+    "header": [
+        "Seefahrtsverband S\u00fcd",
+        "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at",
+        "Fahrtbereich 2",
+        "Fragensammlung",
+        "Modul Motor",
+        "Richtig ist Antwort A",
+        "G\u00fcltig ab: 15.11.2019",
+        "Modul Motor"
+    ],
+    "fragen": [
+        {
+            "title": "Frage 1: Warum ist Wasser im Benzin gef\u00e4hrlich?",
+            "A": "Das schwerere Wasser sammelt sich in der Schwimmerkammer im Vergaser und der Motor stirbt ab.",
+            "B": "Das Wasser bildet Ru\u00dfbr\u00fccken \u00fcber die Elektroden der Z\u00fcndkerzen..",
+            "C": "Das Wasser bildet mit Benzin explosive Gase.",
+            "D": "Es ist ungef\u00e4hrlich, moderne Motoren verarbeiten Wasser mit etwas wei\u00dfem Rauch.."
+        },
+        {
+            "title": "Frage 2: Warum m\u00fcssen Sie den Keilriemen regelm\u00e4\u00dfig kontrollieren?",
+            "A": "ohne Keilriemen kann die K\u00fchlung ausfallen.",
+            "B": "ohne Keilriemen f\u00e4llt die Z\u00fcndung aus.",
+            "C": "ohne Keilriemen arbeitet die Bilgepumpe nicht.",
+            "D": "ohne Keilriemen kann die Schmierung ausfallen."
+        },
+        {
+            "title": "Frage 3: Was ist ein Wendegetriebe und welche Funktion erf\u00fcllt es?",
+            "A": "ist ein Getriebe, das die Drehrichtung der Antriebswelle \u00e4ndert.",
+            "B": "ist ein Getriebe, das die Wellenrichtung \u00e4ndert (von horizontal auf Neigung ins Wasser).",
+            "C": "ist ein Getriebe, das die Motordrehzahl zur Welle verdreifacht.",
+            "D": "ist ein Getriebe, das universell angewendet werden kann (kann auch verkehrt herum eingebaut werden)."
+        },
+        {
+            "title": "Frage 4: Was versteht man unter Fremdz\u00fcndung?",
+            "A": "Z\u00fcndung mittels Z\u00fcndkerzen.",
+            "B": "Z\u00fcndung mittels Gl\u00fchkerzen.",
+            "C": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.",
+            "D": "Explosion von brennbaren Fl\u00fcssigkeiten."
+        },
+        {
+            "title": "Frage 5: Was versteht man unter Eigenz\u00fcndung?",
+            "A": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.",
+            "B": "Z\u00fcndung mittels Gl\u00fchkerzen.",
+            "C": "Z\u00fcndung mittels Z\u00fcndkerzen.",
+            "D": "Z\u00fcndung durch Einspritzung in den Vergaser."
+        },
+        {
+            "title": "Frage 6: Wie kann ein Au\u00dfenbordmotor entsalzt werden?",
+            "A": "man montiert den Au\u00dfenbordmotor in einem S\u00fc\u00dfwasserfass und l\u00e4sst ihn einige Zeit laufen.",
+            "B": "man entl\u00fcftet die K\u00fchlung und sch\u00fcttet S\u00fc\u00dfwasser in die Entl\u00fcftungsschraube.",
+            "C": "man nimmt den Motor aus dem Wasser und l\u00e4sst ihn f\u00fcnf Minuten ohne Wasserber\u00fchrung laufen.",
+            "D": "man bespr\u00fcht die K\u00fchlkan\u00e4le w\u00e4hrend des Betriebes mit Kriech\u00f6l."
+        },
+        {
+            "title": "Frage 7: Wie vermindern Sie die Explosionsgefahr der Gase im Motorraum bei Benzin-Innenbordmotoren?",
+            "A": "durch Zwangs-Luftabsaugung des Motorraumes.",
+            "B": "durch \u00dcberbordh\u00e4ngen eines Kupferkabels.",
+            "C": "durch mindestens zwei Minuten \u00d6ffnen des Motorraumdeckels.",
+            "D": "durch die Bilgepumpe, welche die in Luft absinkenden Benzind\u00e4mpfe absaugt."
+        },
+        {
+            "title": "Frage 8: Beim Viertaktmotor ist welcher Takt der Arbeitstakt?",
+            "A": "der 3. Takt.",
+            "B": "der 2. Takt.",
+            "C": "der 2. Und 4. Takt.",
+            "D": "beim Diesel der 2. Takt, beim Benzinmotor der 3. Takt."
+        },
+        {
+            "title": "Frage 9: Was ist ein Nachteil der direkten K\u00fchlung?",
+            "A": "es k\u00f6nnen keine Frostschutzmittel verwendet werden.",
+            "B": "komplizierter Einbau.",
+            "C": "es m\u00fcssen Frostschutzmittel verwendet werden.",
+            "D": "teurer in der Anschaffung."
+        },
+        {
+            "title": "Frage 10: Wie kann man Benzinmotoren erkennen?",
+            "A": "an den Z\u00fcndkerzen.",
+            "B": "an der Einspritzpumpe.",
+            "C": "Benzinmotoren haben nur 6-stellige Motornummern.",
+            "D": "am Treibstoff: Benzin verdunstet nicht, Diesel sofort."
+        },
+        {
+            "title": "Frage 11: Was verdichtet der Turbolader?",
+            "A": "die Ansaugluft des Motors.",
+            "B": "das K\u00fchlwasser des Motors.",
+            "C": "das Schmier\u00f6l der Kolbenringe.",
+            "D": "den Dieselkraftstoff der in die Zylinder eingespritzt wird."
+        },
+        {
+            "title": "Frage 12: Was bezeichnet man beim Schiffsmotor als ?nassen Auspuff??",
+            "A": "ein Auspuff bei dem die Auspuffgase mit Wasser gek\u00fchlt werden..",
+            "B": "ein Auspuff bei dem auch fl\u00fcssiger Treibstoff entweicht.",
+            "C": "ein Auspuff der unter der Wasserlinie liegt.",
+            "D": "ein Auspuff durch den das K\u00fchlwasser eingesaugt wird."
+        },
+        {
+            "title": "Frage 13: Was lesen Sie an Bord \u00fcblicherweise an einem Manometer ab?",
+            "A": "den Druck des Motor\u00f6ls.",
+            "B": "den Druck des K\u00fchlwassers im W\u00e4rmetauscher.",
+            "C": "den Druck der Luft im Turbolader.",
+            "D": "den Druck im Wasserabscheider."
+        },
+        {
+            "title": "Frage 14: Aus dem Auspuff tritt st\u00e4ndig schwarzer Rauch aus. Was kann das bedeuten?",
+            "A": "Luftfilter verschmutzt.",
+            "B": "Motor\u00f6l wird verbrannt.",
+            "C": "Wasser im Zylinder (Zylinderkopfdichtung defekt).",
+            "D": "zu geringer \u00d6ldruck."
+        },
+        {
+            "title": "Frage 15: Was ist die Ursache von milchigem Motor\u00f6l?",
+            "A": "Wasser im \u00d6l.",
+            "B": "Benzin im \u00d6l.",
+            "C": "Diesel im \u00d6l.",
+            "D": "\u00d6l ist durch \u00dcberhitzung zu hei\u00df geworden, schmiert und k\u00fchlt nicht mehr."
+        },
+        {
+            "title": "Frage 16: Aus dem Auspuff tritt st\u00e4ndig blauer Rauch aus. Was kann das bedeuten?",
+            "A": "zu hoher \u00d6lverbrauch.",
+            "B": "Zylinderkopfdichtung defekt.",
+            "C": "Motor bekommt zu wenig Luft.",
+            "D": "kein K\u00fchlwasser im Auspuff."
+        },
+        {
+            "title": "Frage 17: Der Motor wird zu hei\u00df. Ursache k\u00f6nnte sein?",
+            "A": "Impeller defekt.",
+            "B": "Wasserabscheider verstopft.",
+            "C": "elektrisches Regelventil der Wasserpumpe ist ausgefallen.",
+            "D": "Seewassertemperatur ist zu hoch."
+        },
+        {
+            "title": "Frage 18: Nach welchem Kriterium wird der Motor\u00f6lwechsel beim Schiffsmotor meist gemacht?",
+            "A": "nach gelaufenen Motorstunden.",
+            "B": "nach gefahrenen Seemeilen.",
+            "C": "nach verbrauchtem Motor\u00f6l.",
+            "D": "nach Farbe des Motor\u00f6les."
+        },
+        {
+            "title": "Frage 19: Hat der Schiffsinnenborder einen Luftfilter?",
+            "A": "ja, es reinigt die angesaugte Luft bevor sie in den Motor kommt..",
+            "B": "nein, durch die reine Luft am Meer er\u00fcbrigt sich ein Luftfilter..",
+            "C": "nein, die Luft str\u00f6mt durch ein Ablagerungslabyrinth am Motorblock..",
+            "D": "ja, es dient nur zum Fernhalten von Insekten."
+        },
+        {
+            "title": "Frage 20: Wozu dient ein Motor\u00f6lfilter?",
+            "A": "es filtert kleine Metallsp\u00e4ne und andere Verunreinigungen aus.",
+            "B": "es filtert das \u00d6l vor dem Eintritt in den Motorblock.",
+            "C": "bei einem \u00d6lwechsel muss das neue \u00d6l durch den Filter rinnen damit es wirksam wird.",
+            "D": "der \u00d6lfilter ist ein Indikator. Ist das \u00d6l verbraucht, verf\u00e4rbt er sich."
+        },
+        {
+            "title": "Frage 21: Warum gibt es im Motorraum von Schiffen automatische Feuerl\u00f6scher?",
+            "A": "weil bei einem Motorbrand die Motorraumabdeckung nicht ge\u00f6ffnet werden sollte.",
+            "B": "weil bei h\u00e4ndischem l\u00f6schen zu hohe Verbrennungsgefahr besteht.",
+            "C": "weil man bei h\u00e4ndischem L\u00f6schen nicht an den Brandherd kommt.",
+            "D": "weil die automatische Anlage den Nachbrand unter Kontrolle h\u00e4lt."
+        },
+        {
+            "title": "Frage 22: Wo wird die Sicherheitskordel (Notstop) des Aussenborders befestigt?",
+            "A": "am Handgelenk des Fahrers.",
+            "B": "am Heck des Bootes.",
+            "C": "am Handgelenk des Beifahrers.",
+            "D": "nirgends, sie h\u00e4ngt frei zur Bet\u00e4tigung im Notfall."
+        },
+        {
+            "title": "Frage 23: Sie verbrauchen 25 l Treibstoff pro Stunde bei 20 kn Fahrt. Ihr Tankinhalt ist 400 l, wie gro\u00df ist Ihre Reichweite?",
+            "A": "320 sm.",
+            "B": "500 sm.",
+            "C": "160 sm.",
+            "D": "200 sm."
+        },
+        {
+            "title": "Frage 24: Was versteht man unter \u00f6konomischer Fahrt?",
+            "A": "Fahrt mit einer Motordrehzahl bei der man pro Liter Treibstoff die gr\u00f6\u00dfte Distanz zur\u00fccklegt.",
+            "B": "Fahrt mit einer Motordrehzahl bei der man in der k\u00fcrzesten Zeit zum Ziel kommt.",
+            "C": "Fahrt bei der man den k\u00fcrzesten Weg zum Ziel f\u00e4hrt.",
+            "D": "Fahrt bei der man Strom und Wind ausnutzt um Treibstoff zu sparen."
+        },
+        {
+            "title": "Frage 25: Wozu dient ein Schwanenhals im Auspuffsystem?",
+            "A": "er verhindert, dass Seewasser eindringt.",
+            "B": "er ist eine Verl\u00e4ngerung um den Auspuff so hoch wie m\u00f6glich zu bringen.",
+            "C": "er bewirkt, dass nur Gase austreten k\u00f6nnen.",
+            "D": "er sorgt daf\u00fcr dass die Leitungen so lange werden, dass keine Resonanzen auftreten."
+        },
+        {
+            "title": "Frage 26: Warum kann ein Dieselmotor nach Abstellen weiterlaufen?",
+            "A": "die Kraftstoffpumpe wurde nicht auf Nullf\u00f6rderung gestellt.",
+            "B": "die Z\u00fcndung wurde nicht unterbrochen.",
+            "C": "der Treibstoff im Treibstofffilter muss noch verbraucht werden.",
+            "D": "die K\u00fchlung muss erst die Temperatur auf unter 60 Grad abbauen."
+        },
+        {
+            "title": "Frage 27: Warum soll man bei l\u00e4ngeren Stehzeiten den Treibstofftank vollf\u00fcllen?",
+            "A": "damit feuchte Luft von au\u00dfen weniger Kondenswasser bilden kann.",
+            "B": "damit das Schiff schwerer im Wasser liegt.",
+            "C": "damit zur Sicherheit immer volle Reserve vorhanden ist.",
+            "D": "damit im Falle von Feuer der Tank brennt und nicht das Schiff."
+        },
+        {
+            "title": "Frage 28: Was ist eine indirekte K\u00fchlung?",
+            "A": "K\u00fchlung \u00fcber W\u00e4rmetauscher.",
+            "B": "K\u00fchlung durch Peltiersystem.",
+            "C": "K\u00fchlung durch Zweistufengebl\u00e4se.",
+            "D": "K\u00fchlung durch Wassermantel \u00fcber dem Schalld\u00e4mpfer."
+        },
+        {
+            "title": "Frage 29: Welche Motoren brauchen einen \u00d6lanteil im Kraftstoff?",
+            "A": "Zweitaktmotoren.",
+            "B": "Dreizylindermotoren.",
+            "C": "Viertaktmotoren.",
+            "D": "Turbomotoren."
+        },
+        {
+            "title": "Frage 30: Welche Anschlussleitungen brauchen Treibstofftanks au\u00dfer der \u00d6ffnung zum Tanken?",
+            "A": "Ansaugleitung, R\u00fcckflussleitung, Entl\u00fcftung.",
+            "B": "Absaugleitung, Gaszuleitung, Treibstoffausgleichsleitung.",
+            "C": "Gaszug, Pumpenleitung, Abflussleitung.",
+            "D": "Z\u00e4hlerleitung, Motordruckausgleichsleitung, Treibstoffabsaugleitung."
+        },
+        {
+            "title": "Frage 31: Welche Treibstoffe werden f\u00fcr Antriebsmotoren von Sportbooten am meisten verwendet?",
+            "A": "Benzin, Diesel.",
+            "B": "Kerosin, Gas\u00f6l.",
+            "C": "Schwer\u00f6l, Leichtbenzin.",
+            "D": "Methanol, Leicht\u00f6l."
+        },
+        {
+            "title": "Frage 32: Was sollte bei Grundber\u00fchrung mit dem Au\u00dfenbordmotor brechen?",
+            "A": "Scherstift.",
+            "B": "Schaft des Motors.",
+            "C": "Zahnradkupplung.",
+            "D": "Motorstift."
+        },
+        {
+            "title": "Frage 33: Welche Routinekontrollen sollten am Schiffsmotor regelm\u00e4\u00dfig gemacht werden?",
+            "A": "\u00d6lstand, Keilriemen, Motorbilge.",
+            "B": "Impeller \u00f6ffnen und Wasserabscheider \u00f6ffnen.",
+            "C": "Wasser im Au\u00dfenkreis, \u00d6l im Innenkreis.",
+            "D": "L\u00fcfterzahnriemen, Wasserfluss, L\u00fcfterfilter."
+        },
+        {
+            "title": "Frage 34: Wodurch kann wei\u00dfer Rauch im Auspuff entstehen?",
+            "A": "Wasserdampf.",
+            "B": "\u00d6ldampf.",
+            "C": "Luftverschmutzung.",
+            "D": "diesiges Wetter."
+        },
+        {
+            "title": "Frage 35: Wof\u00fcr dient die Schraube unten am Wasserabscheider?",
+            "A": "zum Ablassen des Wassers.",
+            "B": "zum \u00d6ffnen des Filtergeh\u00e4uses.",
+            "C": "zum Einf\u00fcllen des Wassers.",
+            "D": "zum Ablassen des Treibstoffes."
+        },
+        {
+            "title": "Frage 36: Wozu gibt es manchmal eine Handpumpe am Filtergeh\u00e4use des Treibstoffilters?",
+            "A": "zum Entl\u00fcften.",
+            "B": "zum Auspumpen.",
+            "C": "zum Zur\u00fcckpumpen.",
+            "D": "zum manuellen Gas geben."
+        },
+        {
+            "title": "Frage 37: Was kann entstehen wenn der Luftfilter eines Dieselmotors verstopft ist?",
+            "A": "schwarzer Rauch im Auspuff.",
+            "B": "Zylinderexplosion.",
+            "C": "blauer Rauch im Auspuff.",
+            "D": "Dieselpest."
+        },
+        {
+            "title": "Frage 38: Was ist ein Nachteil des trockenen Auspuffsystemes bei Sportbooten?",
+            "A": "die heisse Auspuffleitung muss gut isoliert sein.",
+            "B": "die trockenen Auspuffleitungen zerfallen in kurzer Zeit.",
+            "C": "das Meeressalz setzt sich in den trockenen Leitungen fest.",
+            "D": "die heisse Auspuffleitung erhitzt den Motor zus\u00e4tzlich."
+        },
+        {
+            "title": "Frage 39: Warum m\u00fcssen Wendegetriebe oft gek\u00fchlt werden?",
+            "A": "Weil ein Teil der Motorleistung im Getriebe verbraucht wird.",
+            "B": "Weil beim Man\u00f6vrieren die Schaltw\u00e4rme frei wird.",
+            "C": "Weil der Motor das Getriebe durch W\u00e4rmeleitung erhitzt.",
+            "D": "Weil ein Teil des Getriebes durch die Auspuffgase erhitzt wird."
+        },
+        {
+            "title": "Frage 40: Warum ist Benzin als Treibstoff gef\u00e4hrlicher als Diesel?",
+            "A": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Luft erzeugt.",
+            "B": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Salz erzeugt.",
+            "C": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Wasser erzeugt.",
+            "D": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Buthangas erzeugt."
+        },
+        {
+            "title": "Frage 41: Welches Bauteil sorgt f\u00fcr den Kreislauf des Motor\u00f6ls durch die Lager des Motors?",
+            "A": "eine Zahnradpumpe.",
+            "B": "eine vom Pleuel betriebene Pumpe.",
+            "C": "eine Zahnstangenf\u00f6rderung.",
+            "D": "eine \u00d6lfilterpumpe."
+        },
+        {
+            "title": "Frage 42: Wann deutet wei\u00dfer Rauch im Auspuff einen Schaden im Motor an?",
+            "A": "wenn er vom K\u00fchlwasser kommt.",
+            "B": "wenn er vom Motor\u00f6l kommt.",
+            "C": "wenn er vom Tau im Auspuff kommt.",
+            "D": "wenn er vom Luftfilter kommt."
+        },
+        {
+            "title": "Frage 43: Welchen Defekt kann blauer Rauch im Auspuff anzeigen?",
+            "A": "abgen\u00fctzte Kolbenringe.",
+            "B": "abgen\u00fctzte \u00d6lpumpe.",
+            "C": "abgen\u00fctzte \u00d6lfilter.",
+            "D": "abgen\u00fctztes Getriebe\u00f6l."
+        },
+        {
+            "title": "Frage 44: Warum f\u00fchrt Luft in der Dieselleitung oft zum Stillstand des Dieselmotors?",
+            "A": "weil die Luft die Komprimierung des Treibstoffes verhindert.",
+            "B": "weil die Luft die Dieselpest verursacht.",
+            "C": "weil die Luft den Treibstofffilter durch Oxydationsprodukte verstopft.",
+            "D": "weil die Luft die R\u00fccklaufleitung blockiert."
+        },
+        {
+            "title": "Frage 45: Welchen Motorschaden kann Wasser im Motor\u00f6l anzeigen?",
+            "A": "Undichtigkeit zwischen K\u00fchlkreislauf und \u00d6lkreislauf.",
+            "B": "Undichtigkeit zwischen Wasserfilter und \u00d6lfilter.",
+            "C": "Undichtigkeit zwischen K\u00fchlkreislauf und Auspuffsystem.",
+            "D": "Undichtigkeit zwischen \u00d6ltank und Wassertank."
+        },
+        {
+            "title": "Frage 46: Wann nennt man einen Propeller rechtsg\u00e4ngig?",
+            "A": "wenn er bei Vorausfahrt in Fahrtrichtung gesehen nach rechts schl\u00e4gt.",
+            "B": "wenn er bei Vorausfahrt gegen die Fahrtrichtung gesehen nach rechts schl\u00e4gt.",
+            "C": "wenn er bei Achterausfahrt das Heck nach rechts versetzt.",
+            "D": "wenn er bei Achterausfahrt in Bugrichtung gesehen nach rechts schl\u00e4gt."
+        },
+        {
+            "title": "Frage 47: Wie nennt man Boote die ihre Rumpfgeschwindigkeit nicht wesentlich \u00fcberschreiten?",
+            "A": "Verdr\u00e4nger.",
+            "B": "Breitrumpfer.",
+            "C": "Gleiter.",
+            "D": "Segelboote."
+        },
+        {
+            "title": "Frage 48: Wie oft sollten Sie die Opferanoden kontrollieren?",
+            "A": "mindestens 1x im Jahr.",
+            "B": "mindestens alle 3 Jahre.",
+            "C": "mindestens alle 5 Tage.",
+            "D": "mindestens alle 6 Jahre."
+        },
+        {
+            "title": "Frage 49: Was bewirkt Abn\u00fctzung an den Schaufeln eines schnell drehenden Propellers?",
+            "A": "Kavitation.",
+            "B": "Plankton im Wasser.",
+            "C": "Saures Wasser.",
+            "D": "Elektrolyse."
+        },
+        {
+            "title": "Frage 50: Wie wirkt der Radeffekt bei einem Zwei-Schrauben-Schiff in der Regel?",
+            "A": "die Drehrichtungen der Schrauben sind gegenl\u00e4ufig, die Radeffekte heben sich auf.",
+            "B": "weil die Schrauben nicht in der Kielrichtung wirken kommt es zu keinem Radeffekt.",
+            "C": "der Radeffekt wird gr\u00f6\u00dfer in Kurvenfahrt.",
+            "D": "der Radeffekt ist der Gleiche wie bei einer Wellenanlage mit einem Propeller."
+        },
+        {
+            "title": "Frage 51: Was bezeichnet man als Schlupf beim Propeller?",
+            "A": "den Unterschied zwischen dem theoretisch m\u00f6glichen Weg und dem tats\u00e4chlichen Weg.",
+            "B": "den Unterschied zwischen der Propellerdrehzahl und der Motordrehzahl.",
+            "C": "den Unterschied zwischen der Geschwindigkeit des Propellerstrahles und der Bootsgeschwindigkeit.",
+            "D": "den Unterschied zwischen der Propellerdrehzahl und dem Wellenantrieb."
+        },
+        {
+            "title": "Frage 52: Was ben\u00f6tigen Gleitboote wegen der h\u00f6heren Geschwindigkeit?",
+            "A": "kleinere Ruderbl\u00e4tter.",
+            "B": "gr\u00f6\u00dfere Ruderbl\u00e4tter.",
+            "C": "tiefere Ruderbl\u00e4tter.",
+            "D": "dickere Ruderbl\u00e4tter."
+        },
+        {
+            "title": "Frage 53: Um Vibrationen zu vermeiden kann man die Drehzahl der Motoren eines Zweischraubenschiffes auf gleiche Drehzahl bringen. Wodurch wird das erleichtert?",
+            "A": "einen Differenzdrehzahlmesser.",
+            "B": "einen Differenzeliminator.",
+            "C": "einen Differenzgashebel.",
+            "D": "eine Differenzeinspritzpumpe."
+        },
+        {
+            "title": "Frage 54: Wie nennt man Boote, die ihre Rumpfgeschwindigkeit wesentlich \u00fcberschreiten?",
+            "A": "Gleiter.",
+            "B": "Raser.",
+            "C": "Verdr\u00e4nger.",
+            "D": "Flachboote."
+        },
+        {
+            "title": "Frage 55: Wodurch wird der \u00dcbergang von Verdr\u00e4ngerfahrt in Gleitfahrt leichter erreicht?",
+            "A": "weniger Gesamtgewicht.",
+            "B": "Gewichtsverlagerung nach achtern.",
+            "C": "Propeller mit Overdrive.",
+            "D": "Schr\u00e4glage nach Backbord oder Steuerbord."
+        },
+        {
+            "title": "Frage 56: Womit kann die Lage der L\u00e4ngsachse eines Gleiters getrimmt werden?",
+            "A": "Trimmklappen.",
+            "B": "Trimmst\u00e4be.",
+            "C": "Trimmschraube.",
+            "D": "Trimmruder."
+        },
+        {
+            "title": "Frage 57: Womit kann die Lage der L\u00e4ngsachse eines Gleiters getrimmt werden?",
+            "A": "mit dem Anstellwinkel der Propellerachse.",
+            "B": "mit den Kavitationsplatten unter dem Propeller.",
+            "C": "mit dem Anstellwinkel des Stevenrohres.",
+            "D": "mit dem L\u00e4ngsruder des Z-Triebes."
+        },
+        {
+            "title": "Frage 58: Was bewirkt in Gleitfahrt ein Hinunterfahren der Trimmklappen?",
+            "A": "der Bug taucht mehr ein.",
+            "B": "das Heck taucht mehr ein.",
+            "C": "das Ruder wird weniger angestr\u00f6mt.",
+            "D": "die Heckwelle verschwindet."
+        },
+        {
+            "title": "Frage 59: Wann ist die Ruderwirkung besonders gro\u00df?",
+            "A": "wenn der Propellerstrahl das Ruder direkt anstr\u00f6mt.",
+            "B": "wenn das Ruder seitlich vom Propeller ist.",
+            "C": "wenn der Propellerstrahl das Ruder nicht behindert.",
+            "D": "wenn der Propeller eine gro\u00dfe Steigung hat."
+        },
+        {
+            "title": "Frage 60: Haben Motorboote eine Abdrift?",
+            "A": "ja, aufgrund des kleinen Lateralplanes.",
+            "B": "ja, aber wenig wegen des gro\u00dfen Lateralplanes.",
+            "C": "nein, Motorboote haben keine Abdrift.",
+            "D": "nur bei h\u00f6herer Geschwindigkeit."
+        },
+        {
+            "title": "Frage 61: Welches Schiff verursacht relativ gesehen den meisten Wellenschlag?",
+            "A": "kleiner Verdr\u00e4nger mit Rumpfgeschwindigkeit.",
+            "B": "gro\u00dfer Verdr\u00e4nger mit halber Rumpfgeschwindigkeit.",
+            "C": "gro\u00dfer Verdr\u00e4nger in R\u00fcckw\u00e4rtsfahrt.",
+            "D": "kleiner Verdr\u00e4nger in R\u00fcckw\u00e4rtsfahrt."
+        },
+        {
+            "title": "Frage 62: Wie funktioniert die Einhebel Motorsteuerung?",
+            "A": "Mittelstellung ausgekuppelt, nach vor Einkuppeln und Gas vorw\u00e4rts, nach hinten Einkuppeln und Gas r\u00fcckw\u00e4rts.",
+            "B": "Mittelstellung ausgekuppelt, nach vor Einkuppeln und Gas vorw\u00e4rts, mit gedr\u00fccktem Knopf Einkuppeln und Gas r\u00fcckw\u00e4rts.",
+            "C": "Mittelstellung ausgekuppelt, nach rechts Einkuppeln und Gas vorw\u00e4rts, nach links Einkuppeln und Gas r\u00fcckw\u00e4rts.",
+            "D": "Mittelstellung ausgekuppelt, nach vor und Knopf gedr\u00fcckt Einkuppeln und Gas vorw\u00e4rts, nach hinten und Knopf gedr\u00fcckt Einkuppeln und Gas r\u00fcckw\u00e4rts."
+        },
+        {
+            "title": "Frage 63: Die Motorbatterie ist irrt\u00fcmlich entladen. Wie kann man ohne Fremdhilfe starten?",
+            "A": "Sie verbinden die Verbraucherbatterie mit der Starterbatterie und warten einige Minuten.",
+            "B": "Mayday rufen und auf den Tankdienst warten.",
+            "C": "Starter per Hand einkuppeln und drehen.",
+            "D": "Motor mit der Winschkurbel an der Lichtmaschine durchdrehen."
+        },
+        {
+            "title": "Frage 64: Der Motor f\u00e4llt aus, Wind und Wellen kommen auf, sie treiben auf die K\u00fcste zu. Was k\u00f6nnten sie tun um Legerwall zu vermeiden?",
+            "A": "Anker ausbringen.",
+            "B": "Rettungsinsel ausbringen.",
+            "C": "Ballast \u00fcber Bord werfen.",
+            "D": "warten bis der Wind dreht."
+        },
+        {
+            "title": "Frage 65: Woran erkennt man, ob man als Verdr\u00e4nger \u00fcber der Rumpfgeschwindigkeit geschleppt wird?",
+            "A": "wenn es im Schiffsk\u00f6rper zu Vibrationen kommt.",
+            "B": "an Klopfger\u00e4uschen am Kielschwein.",
+            "C": "am Mitdrehen von Schiffsschraube und Welle.",
+            "D": "an unregelm\u00e4\u00dfigen starken Ausschl\u00e4gen der Loggegeschwindigkeit."
+        },
+        {
+            "title": "Frage 66: Bei welchem Antrieb kann der Anstellwinkel der Propellerachse zwecks Trimmung verstellt werden?",
+            "A": "Z-Trieb.",
+            "B": "starrer Wellenantrieb.",
+            "C": "Saildrive.",
+            "D": "V - Drive."
+        },
+        {
+            "title": "Frage 67: Wann muss man bei Zweischrauben- Wellenantrieb mit gegengleich schlagenden Propellern mit Radeffekt rechnen?",
+            "A": "wenn man nur eine Schraube eingekuppelt hat.",
+            "B": "wenn man die Schrauben mit gleicher Drehzahl drehen l\u00e4\u00dft.",
+            "C": "wenn man beide Schrauben retour laufen l\u00e4\u00dft.",
+            "D": "wenn man beide Schrauben auskuppelt und Gas gibt."
+        },
+        {
+            "title": "Frage 68: Wodurch wird in Gleitfahrt erreicht, weniger stark auf die Wellen aufzuschlagen?",
+            "A": "die Trimmklappen etwas mehr ausfahren.",
+            "B": "die Trimmklappen etwas mehr einfahren.",
+            "C": "die Trimmklappen vor der Welle einfahren, nach der Welle ausfahren.",
+            "D": "die Trimmklappen unsymetrisch trimmen."
+        },
+        {
+            "title": "Frage 69: Was sollte man bei einem Brand im Motorraum nicht tun?",
+            "A": "den Motorraumzugang \u00f6ffnen.",
+            "B": "den Motorraumzugang schlie\u00dfen.",
+            "C": "den Treibstoffhahn schlie\u00dfen.",
+            "D": "das L\u00f6schloch \u00f6ffnen ."
+        },
+        {
+            "title": "Frage 70: Welche Vorteile haben Elektromaschinen?",
+            "A": "Hohes Drehmoment, vergleichbar wenig Energieverbrauch.",
+            "B": "Elektromaschinen sind salzwasserfest.",
+            "C": "Die Versorgung mit Ersatzteilen ist unproblematisch aufgrund der weiten Verbreitung von Elektromaschinen.",
+            "D": "Elektromaschinen haben gegen\u00fcber Dieselmaschinen keine wesentlichen Vorteile."
+        }
+    ]
+}

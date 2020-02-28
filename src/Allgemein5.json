@@ -1,1 +1,336 @@
-{"header": ["Seefahrtsverband S\u00fcd", "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at", "Fahrtbereich 2", "Katalog 5", "Modul Grundlagen", "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor", "G\u00fcltig ab: 14.02.2020", "Jachtbedienung"], "fragen": [{"title": "Frage 1: Ist ein Schiffsf\u00fchrer zur Hilfeleistung auf See verpflichtet?", "A": "Ja, der Schiffsf\u00fchrer ist zur Hilfeleistung auf See verpflichtet.", "B": "Nein, Hilfeleistung auf See ist nicht verpflichtend.", "C": "Nein, es geh\u00f6rt allerdings zur guten Seemannschaft..", "D": "Ja, allerdings nur, wenn Notsignale abgegeben wurden."}, {"title": "Frage 2: Was ist die Schokoladenseite einer Jacht?", "A": "Die Seite der Jacht, die durch den Radeffekt das Anlegen l\u00e4ngsseits erleichtert.", "B": "Die Seite der Jacht, auf der sich der Steuerstand befindet.", "C": "Die Seite der Jacht, auf der die Fender leichter befestigt werden k\u00f6nnen.", "D": "Die Seite der Jacht, die optisch den besseren Eindruck macht."}, {"title": "Frage 3: Was ist bei Man\u00f6vern mit Bugstrahlruder zu beachten?", "A": "Lang andauerndes Benutzen erh\u00f6ht den Kraftstoffverbrauch wesentlich.", "B": "Bei Benutzung des Bugstrahlruders darf das normale Ruder nicht mehr verwendet werden, da es st\u00f6rende Einfl\u00fcsse hat.", "C": "Lang andauernde Benutzung des Bugstrahlruders kann dieses \u00fcberhitzen.", "D": "Bei der Verwendung des Bugstrahlruders ist nichts besonderes zu beachten."}, {"title": "Frage 4: Sollten Sie eine elektrische Ankerwinsch ohne laufender Maschine verwenden?", "A": "Nein, da die Ankerwinsch direkt von der Lichtmaschine betrieben wird.", "B": "Nein, da der hohe Stromverbrauch die Batterien stark belastet.", "C": "Ja, weil der Einfluss der Lichtmaschine die Ankerwinsch \u00fcberlasten kann.", "D": "Ja, da sonst die Maschine zu stark beansprucht wird. Seite 1"}, {"title": "Frage 5: Woher k\u00f6nnen Sie Informationen \u00fcber den Ankergrund beziehen?", "A": "Aus dem Leuchtfeuerverzeichnis.", "B": "Aus dem Ankerbuchthandbuch.", "C": "Aus den Nachrichten f\u00fcr Seefahrer.", "D": "Aus der Seekarte."}, {"title": "Frage 6: Was bedenken Sie bei der Aufgabenverteilung an die Crew?", "A": "Berufliche Ausbildung der einzelnen Crewmitglieder.", "B": "Aufgaben werden nach Kabinenbelegung verteilt.", "C": "K\u00f6rperliche und geistige F\u00e4higkeiten der einzelnen Crewmitglieder.", "D": "Nichts, alle Aufgaben werden abwechselnd von allen Crewmitgliedern bew\u00e4ltigt."}, {"title": "Frage 7: Welche Drehzahl w\u00e4hlen Sie bei l\u00e4ngeren Fahrten unter Maschine?", "A": "Die Drehzahl, die den geringsten Stundenverbrauch erm\u00f6glicht.", "B": "Die Drehzahl, bei der das Verh\u00e4ltnis Reichweite/Verbrauch am Besten ist.", "C": "Die Drehzahl, die die h\u00f6chste Fahrtgeschwindigkeit erm\u00f6glicht.", "D": "Die Drehzahl, bei der die Maschine das h\u00f6chste Drehmoment hat."}, {"title": "Frage 8: Welchen Knoten verwenden Sie, um zwei verschieden starke Leinen zu verbinden?", "A": "Einen Webleinstek.", "B": "Einen Schotstek.", "C": "2 halbe Schl\u00e4ge.", "D": "Einen Kreuzknoten. Seite 2 Schiffstechnik"}, {"title": "Frage 9: Was ist eine Stopfbuchse?", "A": "Eine Dichtung zwischen Impeller und W\u00e4rmetauscher im K\u00fchlsystem.", "B": "Eine Dichtung bei der Durchf\u00fchrung der Treibstoffleitung in den Maschinenraum.", "C": "Eine Wellendichtung bei Booten mit Wellenantrieb.", "D": "Eine \u00d6ldichtung beim Getriebe."}, {"title": "Frage 10: Ihr Au\u00dfenbordmotor springt nicht an. Was k\u00f6nnte die Ursache sein?", "A": "Zuwenig Diesel\u00f6l im Treibstoff.", "B": "Das Seeventil f\u00fcr die K\u00fchlung ist geschlossen.", "C": "Der Benzinhahn ist geschlossen.", "D": "Der Propeller ist nicht ins Wasser getaucht und die Maschine wird nicht gek\u00fchlt."}, {"title": "Frage 11: Wie kann eine Antriebswelle abgedichtet sein?", "A": "Mit einer Stopfbuchse.", "B": "Mit einer verpressten Kupferdichtung.", "C": "Mit einem Gummi O-Ring.", "D": "Die Antriebswelle ben\u00f6tigt keine Dichtung."}, {"title": "Frage 12: Welche Vorteile hat die Verwendung von Stahl im Bootsbau?", "A": "Leichter Werkstoff, mit dem vor allem runde Formen leicht hergestellt werden k\u00f6nnen.", "B": "Keine oder nur geringe Korrosion.", "C": "Hohe Stabilit\u00e4t trotz geringem Gewicht.", "D": "Extrem stabiler und relativ leicht zu verarbeitender Werkstoff. Seite 3"}, {"title": "Frage 13: Wie kann eine Antriebswelle abgedichtet sein?", "A": "Mit einer Stopfb\u00fcchse.", "B": "Mit einer verpressten Kupferdichtung.", "C": "Mit einem Gummi-O-Ring.", "D": "Die Antriebswelle ben\u00f6tigt keine Dichtung. Navigation"}, {"title": "Frage 14: Welches Ventil sollte immer geschlossen sein, wenn Sie den Gasherd nicht verwenden?", "A": "Das Gasventil am Gasofen.", "B": "Gasventile brauchen nicht geschlossen zu werden, da Gasflaschen ohnehin automatische R\u00fcckschlagventile eingebaut haben.", "C": "Das Gasventil an der Gasflasche.", "D": "Das Gasventil am Gasbrenner."}, {"title": "Frage 15: Was ist ein Meridian?", "A": "Ein ganzer Gro\u00dfkreis auf der Erdoberfl\u00e4che, der die Pole miteinander verbindet.", "B": "Ein halber Gro\u00dfkreis auf der Erdoberfl\u00e4che vom Nordpol zum S\u00fcdpol.", "C": "Ein Kreis auf der Erdoberfl\u00e4che parallel zum \u00c4quator.", "D": "Ein beliebiger halber Gro\u00dfkreis auf der Erdoberfl\u00e4che."}, {"title": "Frage 16: Aus welchen Quellen k\u00f6nnen Sie Berichtigungen f\u00fcr Seekarten beziehen?", "A": "Unter anderem aus Meldungen \u00fcber NAVTEX.", "B": "Unter anderem aus den Berichtigungshandb\u00fcchern der hydrographischen Institute.", "C": "Unter anderem aus den Nachrichten f\u00fcr Seefahrer.", "D": "Unter anderem aus Funkmeldungen \u00fcber UKW. Seite 4"}, {"title": "Frage 17: Woher k\u00f6nnen Sie eine Ablenkungstabelle beziehen?", "A": "Die Ablenkungstabelle ist Teil der Bedienungsanleitung des Schiffes.", "B": "Die Ablenkungstabelle sollte vor Antritt der Fahrt bzw etwa alle 6 Monate selbst erstellt werden.", "C": "Die Ablenkungstabelle kann aus der Seekarte entnommen werden.", "D": "Die Ablenkungstabelle wird vom Hersteller mit den Schiffspapieren \u00fcbergeben."}, {"title": "Frage 18: Ist ein nautisches Fernglas mit einem Peilkompass ausgestattet?", "A": "Ein nautisches Fernglas kann mit einem Peilkompass ausgestattet sein, es muss aber nicht.", "B": "In ein nautisches Fernglas kann kein Peilkompass eingebaut werden.", "C": "Nein, nautische Ferngl\u00e4ser sind nie mit einem Peilkompass ausgestattet, da dieser viel zu ungenau w\u00e4re.", "D": "Ja, Ferngl\u00e4ser ohne Peilkompass sind nicht f\u00fcr nautische Zwecke geeignet."}, {"title": "Frage 19: Mit welchen Berichtigungen sollte der Steuerkompass korrigiert werden?", "A": "Mit Fahrt \u00fcber Grund und Fahrt durchs Wasser.", "B": "Mit Ablenkung und Stromabdrift.", "C": "Mit Missweisung und Windabdrift.", "D": "Mit Missweisung und Ablenkung."}, {"title": "Frage 20: Was wird als Springzeit bezeichnet?", "A": "Die Zeit von verst\u00e4rkten Tidenh\u00fcben bei Halbmond.", "B": "Die Zeit von abgeschw\u00e4chten Tidenh\u00fcben bei Halbmond.", "C": "Die Zeit von verst\u00e4rkten Tidenh\u00fcben bei Vollmond und Neumond.", "D": "Die Zeit von abgeschw\u00e4chten Tidenh\u00fcben bei Vollmond und Neumond. Seite 5"}, {"title": "Frage 21: Welche Peilungen k\u00f6nnen mittels RADAR durchgef\u00fchrt werden?", "A": "Rechtweisende Peilungen.", "B": "Magnetkompasspeilungen.", "C": "Seitenpeilungen.", "D": "Missweisende Peilungen."}, {"title": "Frage 22: Was ist eine Rasterkarte?", "A": "Eine elektronische Seekarte, die, im Gegensatz zu einer Vektorkarte, ohne Qualit\u00e4tverlust am Bildschirm verkleinert oder vergr\u00f6\u00dfert werden kann.", "B": "Eine elektronische Seekarte, die f\u00fcr jedes Seegebiet (Raster) Navtexmeldungen anzeigen kann.", "C": "Eine elektronische Seekarte, die ausschlie\u00dflich f\u00fcr Rastersuchen bei Seeungl\u00fccken verwendet wird.", "D": "Eine elektronische Seekarte, die, im Gegensatz zu einer Vektorkarte, nicht ohne Qualit\u00e4tverlust am Bildschirm verkleinert oder vergr\u00f6\u00dfert werden kann."}, {"title": "Frage 23: In einer kroatischen Seekarte sehen Sie eine Leuchtfeuerkennung beginnend mit BC. Was bedeutet das?", "A": "Das ist ein Einzelgefahrenzeichen Toppzeichen ein wei\u00dfer (Bijelo) und ein roter (Crvena) Ball.", "B": "Das ist ein Leuchtfeuer, das mittels Radartransponder die Morsebuchstaben B und C am Radarbildschirm erzeugt.", "C": "Das ist ein Leuchtfeuer, das abwechselnd einmal wei\u00df (Bijelo) und einmal rot (Crvena) blitzt.", "D": "Das ist ein Sektorfeuer, Farben Wei\u00df (Bijelo) und Rot (Crvena)."}, {"title": "Frage 24: Was bedeutet der Begriff Feuer in der Kimm?", "A": "Der Abstand, in dem ein Feuer miteiner bestimmten H\u00f6he dem Betrachter mit einer bestimmter Augenh\u00f6he in der Kimm erscheint.", "B": "Das bedeutet, dass man ein anderes Schiff am Horizont brennen sieht.", "C": "Die Augenh\u00f6he, die eingenommen werden m\u00fcsste, um ein Leuchtfeuer mit einer bestimmten H\u00f6he aus einer bestimmten Distanz in der Kimm zu sehen.", "D": "Diesen Begriff gibt es in der Seefahrt nicht. Seite 6 Recht"}, {"title": "Frage 25: Sie sehen die abgebildete Beleuchtung. Um welche Fahrzeugart nach KVR handelt es sich dabei?", "A": "Um ein man\u00f6vrierbehindertes Fahrzeug.", "B": "Um ein fischendes Fahrzeug.", "C": "Um ein Segelfahrzeug.", "D": "Um ein Maschinenfahrzeug mit mehr als 50 Meter L\u00e4nge."}, {"title": "Frage 26: M\u00fcssen im Mittelmeer neue Jachten mit einem F\u00e4kalientank ausgestattet sein?", "A": "Ja, alle Schiffe m\u00fcssen mit mindestens zwei F\u00e4kalientanks ausger\u00fcstet sein.", "B": "Ja, in marine sensiblen Zonen, wie zB dem Mittelmeer, m\u00fcssen alle Schiffe, die mit einer Toilette ausgestattet sind, mit F\u00e4kalientanks ausger\u00fcstet sein.", "C": "Nein, da F\u00e4kalien biologisch abbaubar sind, sind F\u00e4kalientanks nicht vorgeschrieben.", "D": "Die Ausr\u00fcstungspflicht mit F\u00e4kalientanks ist Sache nationaler Gesetzgebung und unterscheidet sich daher von Staat zu Staat."}, {"title": "Frage 27: In welcher Bestimmung ist festgehalten, mit welchen Seenotsignalen eine Jacht im Fahrbereich 2 ausger\u00fcstet sein muss?", "A": "Im Schifffahrtsgesetz.", "B": "Im Pyrotechnikgesetz.", "C": "In der Wasserstra\u00dfenverkehrsordnung.", "D": "In der Jachtzulassungsverordnung."}, {"title": "Frage 28: Was ist f\u00fcr die Nationalit\u00e4t eines Seeschiffes ma\u00dfgebend ?", "A": "Wohnort des Schiffsf\u00fchrers.", "B": "Ort der amtlichen Registrierung.", "C": "Geburtsland des Schiffsf\u00fchrers.", "D": "Nationalit\u00e4t des Schiffseigners. Seite 7 Wetter"}, {"title": "Frage 29: Sie sehen eine turmhohe, ambo\u00dff\u00f6rmige und dunkle Wolke. Was vermuten Sie?", "A": "Eine Okklusionsfront k\u00fcndigt sich an.", "B": "Eine Warmfront k\u00fcndigt sich an.", "C": "Es kann sich um eine Gewitterwolke handeln.", "D": "Diese Wolkenerscheinung hat keine Bedeutung."}, {"title": "Frage 30: Wie entsteht geringer Luftdruck?", "A": "Durch Abk\u00fchlung von Luftmassen sinkt deren Dichte und sie steigen auf.", "B": "Durch Fallwinde werden feuchte Luftmassen angehoben.", "C": "Durch Abk\u00fchlung von Luftmassen steigt deren Dichte. Luftmassen von au\u00dfen k\u00f6nnen sich unter die dichteren Massen schieben und heben diese an.", "D": "Durch Erw\u00e4rmung von Luftmassen sinkt deren Dichte und sie steigen auf."}, {"title": "Frage 31: Kann aus einer Wetterkarte die Windrichtung entnommen werden?", "A": "Nein, aus der Wetterkarte kann die Windrichtung nicht bestimmt werden.", "B": "Ja, da der Wind auf der Nordhalbkugel etwa Isobarenparalell nach links drehend aus dem Hoch hinaus und nach rechts drehend ins Tief hinein weht.", "C": "Ja, da der Wind auf der Nordhalbkugel etwa Isobarenparalell nach rechts drehend aus dem Hoch hinaus und nach links drehend ins Tief hinein weht.", "D": "Ja, da der Wind auf der S\u00fcdhalbkugel etwa Isobarenparalell nach rechts drehend aus dem Hoch hinaus und nach links drehend ins Tief hinein weht."}, {"title": "Frage 32: Welche Gefahren drohen bei einem Gewitter?", "A": "Trotz starker Niederschl\u00e4ge wenig bis gar kein Wind, allerdings hohe Blitzschlaggefahr.", "B": "Starker, b\u00f6iger Wind oder sogar Sturm, BLitzschlaggefahr.", "C": "Von einem Gewitter geht f\u00fcr eine moderne Jacht keine wesentliche Gefahr aus.", "D": "Starker b\u00f6iger Wind, keine Blitzschlaggefahr, da diese immer ins Wasser, nie in den Mast einschlagen. Seite 8"}, {"title": "Frage 33: Welche Wettererscheinung tritt beim Durchzug einer Warmfront auf?", "A": "Pl\u00f6tzlich auftretende Gewitterwolken \u00fcber den gesamten Horizont verteilt. Starke, b\u00f6ige Winde, pl\u00f6tzliche starke Niederschl\u00e4ge.", "B": "Eine dichte Wolkenfront aus etwa westlicher Richtung aufziehend. Starker Luftdruckabfall. Starker Niederschlag.", "C": "Zu Beginn Cirruswolken in gr\u00f6\u00dfer H\u00f6he. Die Bew\u00f6lkung nimmt langsam zu und wird immer tiefer. Schlie\u00dflich ausgedehnte Regenf\u00e4lle.", "D": "Lufttemperatur sinkt schlagartig ab, ausgedehnte Bew\u00f6lkung aus \u00f6stlicher Richtung. Schlie\u00dflich ausgedehnte Niederschl\u00e4ge."}, {"title": "Frage 34: Was ist die typische Windrichtung bei Bora?", "A": "Ost bis Nordost.", "B": "S\u00fcd bis S\u00fcdost.", "C": "Nord bis Nordwest.", "D": "S\u00fcd bis S\u00fcdwest."}, {"title": "Frage 35: An welchem Wolkenbild kann unter anderem eine Bora erkannt werden?", "A": "An der typischen Borawalze \u00fcber dem Velebit.", "B": "An den typischen hakenf\u00f6rmigen Cirruswolken in gro\u00dfer H\u00f6he.", "C": "An den von Westen her aufziehenden Gewitterwolken.", "D": "Bei Bora ist ein vollkommen klarer Himmel typisch."}, {"title": "Frage 36: Werden Wettermeldungen auch \u00fcber UKW- Seefunk ausgesendet?", "A": "Wettermeldungen werden auf bestimmten UKW-Kan\u00e4len zu bestimmten Zeitenausgesendet.", "B": "Wettermeldungen werden einmal t\u00e4glich auf dem Kanal 16 gesammelt ausgesendet.", "C": "Wettermeldungen werden einem t\u00e4glich auf dem Kanal 70 gesammelt ausgesendet.", "D": "Seitdem das System NavTex verwendet wird, werden keine Wettermeldungen mehr \u00fcber UKW-Seefunk ausgesendet. Seite 9"}, {"title": "Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenl\u00e4nge?", "A": "Durch \u00dcberlagerung mehrerer Wellenk\u00e4mme kann Kreuzsee entstehen.", "B": "Durch die geringere Wassertiefe wird die Wellenl\u00e4nge verk\u00fcrzt.", "C": "Aus einer vertikalen Auf- und Abbewegung des Wassers wird eine Orbitalbewegung des Wellenkammes, die Welle bricht.", "D": "Nichts besonderes. Sicherheit"}, {"title": "Frage 38: K\u00f6nnen Gezeitenstr\u00f6mungen den Seegang beeinflussen?", "A": "Gezeitenstr\u00f6mungen verst\u00e4rken immer den Seegang.", "B": "Gezeitenstr\u00f6mungen haben keinen Einfluss auf den Seegang.", "C": "Gezeitenstr\u00f6mungen k\u00f6nnen den Seegang sowohl abschw\u00e4chen als auch verst\u00e4rken.", "D": "Gezeitenstr\u00f6mungen schw\u00e4chen den Seegang immer ab."}, {"title": "Frage 39: Welche Bereiche der Jacht sind besonders brandgef\u00e4hrdet?", "A": "Badeplattform, Backskiste.", "B": "Ankerkasten, Steuerstand.", "C": "Navigationsplatz, Bordtoilette.", "D": "Gasanlage, Pantry, Maschinenraum."}, {"title": "Frage 40: Was ist AIS?", "A": "Das automatische Wetterinformationssystem.", "B": "Das automatische Schiffsanrufsystem.", "C": "Das automatische Schiffsidentifizierungssystem.", "D": "Ein automatisches Anmeldesystem f\u00fcr internationale Zollh\u00e4fen. Seite 10"}, {"title": "Frage 41: Muss eine Jacht f\u00fcr den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer EPIRB ausger\u00fcstet sein?", "A": "Ja, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen mit einer EPIRB ausgestattet sein.", "B": "Nein, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen nicht mit einer EPIRB ausger\u00fcstet sein.", "C": "Nur, wenn man mit der Jacht das nationale Gew\u00e4sser verlassen will.", "D": "Nur, wenn sich kein GMDSS-UKW-Funkger\u00e4t an Bord befindet."}, {"title": "Frage 42: Auf welchem Kanal wird ein digitaler Seenotalarm ausgel\u00f6st?", "A": "Auf dem UKW-Kanal 10.", "B": "Auf dem UKW-Kanal 53.", "C": "Auf dem UKW-Kanal 16.", "D": "Auf dem UKW-Kanal 70."}, {"title": "Frage 43: Was ist eine Wacheinteilung?", "A": "Die Einteilung der Crew in einen Zeitplan, damit alle wichtigen Positionen rund um die Uhr besetzt sind.", "B": "Die Einteilung der Crew in einen Backsplan, damit immer gen\u00fcgend Verpflegung an Bord ist.", "C": "Die Einteilung der Vorr\u00e4te, damit die diensthabende Crew immer ausreichend versorgt ist.", "D": "Die Einteilung der Crew in einen Zeitplan, damit das Schiff im Hafen nicht unbewacht ist."}, {"title": "Frage 44: Was ist bei einer Bergung mittels Hubschrauber zu beachten?", "A": "Es braucht kein besonderes Verhalten, die Helfer sind Profis und wissen, was zu tun ist.", "B": "Anweisungen der Helfer befolgen, Leinen und Dr\u00e4hte, die vom Hubschrauber kommen, an Bord belegen.", "C": "Es m\u00fcssen der Hilfsmannschaft unbedingt genaue Anweisung gegeben werden, was zu tun ist.", "D": "Anweisungen der Helfer befolgen, Hei\u00dfdraht nicht an Bord belegen. Seite 11"}, {"title": "Frage 45: Wie kann das \u00fcber Bord gehen von Personen verhindert werden?", "A": "Mit einer Sicherheitsleine (Lifebelt).", "B": "Mit einer Rettungsweste.", "C": "Das \u00fcber Bord gehen kann nur durch sorgsames Verhalten an Bord verhindert werden.", "D": "Mit einer Bergeleine (Lifesling)."}]}
+{
+    "header": [
+        "Seefahrtsverband S\u00fcd",
+        "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at",
+        "Fahrtbereich 2",
+        "Katalog 5",
+        "Modul Grundlagen",
+        "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor",
+        "G\u00fcltig ab: 14.02.2020",
+        "Jachtbedienung"
+    ],
+    "fragen": [
+        {
+            "title": "Frage 1: Ist ein Schiffsf\u00fchrer zur Hilfeleistung auf See verpflichtet?",
+            "A": "Ja, der Schiffsf\u00fchrer ist zur Hilfeleistung auf See verpflichtet.",
+            "B": "Nein, Hilfeleistung auf See ist nicht verpflichtend.",
+            "C": "Nein, es geh\u00f6rt allerdings zur guten Seemannschaft..",
+            "D": "Ja, allerdings nur, wenn Notsignale abgegeben wurden."
+        },
+        {
+            "title": "Frage 2: Was ist die Schokoladenseite einer Jacht?",
+            "A": "Die Seite der Jacht, die durch den Radeffekt das Anlegen l\u00e4ngsseits erleichtert.",
+            "B": "Die Seite der Jacht, auf der sich der Steuerstand befindet.",
+            "C": "Die Seite der Jacht, auf der die Fender leichter befestigt werden k\u00f6nnen.",
+            "D": "Die Seite der Jacht, die optisch den besseren Eindruck macht."
+        },
+        {
+            "title": "Frage 3: Was ist bei Man\u00f6vern mit Bugstrahlruder zu beachten?",
+            "A": "Lang andauerndes Benutzen erh\u00f6ht den Kraftstoffverbrauch wesentlich.",
+            "B": "Bei Benutzung des Bugstrahlruders darf das normale Ruder nicht mehr verwendet werden, da es st\u00f6rende Einfl\u00fcsse hat.",
+            "C": "Lang andauernde Benutzung des Bugstrahlruders kann dieses \u00fcberhitzen.",
+            "D": "Bei der Verwendung des Bugstrahlruders ist nichts besonderes zu beachten."
+        },
+        {
+            "title": "Frage 4: Sollten Sie eine elektrische Ankerwinsch ohne laufender Maschine verwenden?",
+            "A": "Nein, da die Ankerwinsch direkt von der Lichtmaschine betrieben wird.",
+            "B": "Nein, da der hohe Stromverbrauch die Batterien stark belastet.",
+            "C": "Ja, weil der Einfluss der Lichtmaschine die Ankerwinsch \u00fcberlasten kann.",
+            "D": "Ja, da sonst die Maschine zu stark beansprucht wird."
+        },
+        {
+            "title": "Frage 5: Woher k\u00f6nnen Sie Informationen \u00fcber den Ankergrund beziehen?",
+            "A": "Aus dem Leuchtfeuerverzeichnis.",
+            "B": "Aus dem Ankerbuchthandbuch.",
+            "C": "Aus den Nachrichten f\u00fcr Seefahrer.",
+            "D": "Aus der Seekarte."
+        },
+        {
+            "title": "Frage 6: Was bedenken Sie bei der Aufgabenverteilung an die Crew?",
+            "A": "Berufliche Ausbildung der einzelnen Crewmitglieder.",
+            "B": "Aufgaben werden nach Kabinenbelegung verteilt.",
+            "C": "K\u00f6rperliche und geistige F\u00e4higkeiten der einzelnen Crewmitglieder.",
+            "D": "Nichts, alle Aufgaben werden abwechselnd von allen Crewmitgliedern bew\u00e4ltigt."
+        },
+        {
+            "title": "Frage 7: Welche Drehzahl w\u00e4hlen Sie bei l\u00e4ngeren Fahrten unter Maschine?",
+            "A": "Die Drehzahl, die den geringsten Stundenverbrauch erm\u00f6glicht.",
+            "B": "Die Drehzahl, bei der das Verh\u00e4ltnis Reichweite/Verbrauch am Besten ist.",
+            "C": "Die Drehzahl, die die h\u00f6chste Fahrtgeschwindigkeit erm\u00f6glicht.",
+            "D": "Die Drehzahl, bei der die Maschine das h\u00f6chste Drehmoment hat."
+        },
+        {
+            "title": "Frage 8: Welchen Knoten verwenden Sie, um zwei verschieden starke Leinen zu verbinden?",
+            "A": "Einen Webleinstek.",
+            "B": "Einen Schotstek.",
+            "C": "2 halbe Schl\u00e4ge.",
+            "D": "Einen Kreuzknoten. Schiffstechnik"
+        },
+        {
+            "title": "Frage 9: Was ist eine Stopfbuchse?",
+            "A": "Eine Dichtung zwischen Impeller und W\u00e4rmetauscher im K\u00fchlsystem.",
+            "B": "Eine Dichtung bei der Durchf\u00fchrung der Treibstoffleitung in den Maschinenraum.",
+            "C": "Eine Wellendichtung bei Booten mit Wellenantrieb.",
+            "D": "Eine \u00d6ldichtung beim Getriebe."
+        },
+        {
+            "title": "Frage 10: Ihr Au\u00dfenbordmotor springt nicht an. Was k\u00f6nnte die Ursache sein?",
+            "A": "Zuwenig Diesel\u00f6l im Treibstoff.",
+            "B": "Das Seeventil f\u00fcr die K\u00fchlung ist geschlossen.",
+            "C": "Der Benzinhahn ist geschlossen.",
+            "D": "Der Propeller ist nicht ins Wasser getaucht und die Maschine wird nicht gek\u00fchlt."
+        },
+        {
+            "title": "Frage 11: Wie kann eine Antriebswelle abgedichtet sein?",
+            "A": "Mit einer Stopfbuchse.",
+            "B": "Mit einer verpressten Kupferdichtung.",
+            "C": "Mit einem Gummi O-Ring.",
+            "D": "Die Antriebswelle ben\u00f6tigt keine Dichtung."
+        },
+        {
+            "title": "Frage 12: Welche Vorteile hat die Verwendung von Stahl im Bootsbau?",
+            "A": "Leichter Werkstoff, mit dem vor allem runde Formen leicht hergestellt werden k\u00f6nnen.",
+            "B": "Keine oder nur geringe Korrosion.",
+            "C": "Hohe Stabilit\u00e4t trotz geringem Gewicht.",
+            "D": "Extrem stabiler und relativ leicht zu verarbeitender Werkstoff."
+        },
+        {
+            "title": "Frage 13: Wie kann eine Antriebswelle abgedichtet sein?",
+            "A": "Mit einer Stopfb\u00fcchse.",
+            "B": "Mit einer verpressten Kupferdichtung.",
+            "C": "Mit einem Gummi-O-Ring.",
+            "D": "Die Antriebswelle ben\u00f6tigt keine Dichtung. Navigation"
+        },
+        {
+            "title": "Frage 14: Welches Ventil sollte immer geschlossen sein, wenn Sie den Gasherd nicht verwenden?",
+            "A": "Das Gasventil am Gasofen.",
+            "B": "Gasventile brauchen nicht geschlossen zu werden, da Gasflaschen ohnehin automatische R\u00fcckschlagventile eingebaut haben.",
+            "C": "Das Gasventil an der Gasflasche.",
+            "D": "Das Gasventil am Gasbrenner."
+        },
+        {
+            "title": "Frage 15: Was ist ein Meridian?",
+            "A": "Ein ganzer Gro\u00dfkreis auf der Erdoberfl\u00e4che, der die Pole miteinander verbindet.",
+            "B": "Ein halber Gro\u00dfkreis auf der Erdoberfl\u00e4che vom Nordpol zum S\u00fcdpol.",
+            "C": "Ein Kreis auf der Erdoberfl\u00e4che parallel zum \u00c4quator.",
+            "D": "Ein beliebiger halber Gro\u00dfkreis auf der Erdoberfl\u00e4che."
+        },
+        {
+            "title": "Frage 16: Aus welchen Quellen k\u00f6nnen Sie Berichtigungen f\u00fcr Seekarten beziehen?",
+            "A": "Unter anderem aus Meldungen \u00fcber NAVTEX.",
+            "B": "Unter anderem aus den Berichtigungshandb\u00fcchern der hydrographischen Institute.",
+            "C": "Unter anderem aus den Nachrichten f\u00fcr Seefahrer.",
+            "D": "Unter anderem aus Funkmeldungen \u00fcber UKW."
+        },
+        {
+            "title": "Frage 17: Woher k\u00f6nnen Sie eine Ablenkungstabelle beziehen?",
+            "A": "Die Ablenkungstabelle ist Teil der Bedienungsanleitung des Schiffes.",
+            "B": "Die Ablenkungstabelle sollte vor Antritt der Fahrt bzw etwa alle 6 Monate selbst erstellt werden.",
+            "C": "Die Ablenkungstabelle kann aus der Seekarte entnommen werden.",
+            "D": "Die Ablenkungstabelle wird vom Hersteller mit den Schiffspapieren \u00fcbergeben."
+        },
+        {
+            "title": "Frage 18: Ist ein nautisches Fernglas mit einem Peilkompass ausgestattet?",
+            "A": "Ein nautisches Fernglas kann mit einem Peilkompass ausgestattet sein, es muss aber nicht.",
+            "B": "In ein nautisches Fernglas kann kein Peilkompass eingebaut werden.",
+            "C": "Nein, nautische Ferngl\u00e4ser sind nie mit einem Peilkompass ausgestattet, da dieser viel zu ungenau w\u00e4re.",
+            "D": "Ja, Ferngl\u00e4ser ohne Peilkompass sind nicht f\u00fcr nautische Zwecke geeignet."
+        },
+        {
+            "title": "Frage 19: Mit welchen Berichtigungen sollte der Steuerkompass korrigiert werden?",
+            "A": "Mit Fahrt \u00fcber Grund und Fahrt durchs Wasser.",
+            "B": "Mit Ablenkung und Stromabdrift.",
+            "C": "Mit Missweisung und Windabdrift.",
+            "D": "Mit Missweisung und Ablenkung."
+        },
+        {
+            "title": "Frage 20: Was wird als Springzeit bezeichnet?",
+            "A": "Die Zeit von verst\u00e4rkten Tidenh\u00fcben bei Halbmond.",
+            "B": "Die Zeit von abgeschw\u00e4chten Tidenh\u00fcben bei Halbmond.",
+            "C": "Die Zeit von verst\u00e4rkten Tidenh\u00fcben bei Vollmond und Neumond.",
+            "D": "Die Zeit von abgeschw\u00e4chten Tidenh\u00fcben bei Vollmond und Neumond."
+        },
+        {
+            "title": "Frage 21: Welche Peilungen k\u00f6nnen mittels RADAR durchgef\u00fchrt werden?",
+            "A": "Rechtweisende Peilungen.",
+            "B": "Magnetkompasspeilungen.",
+            "C": "Seitenpeilungen.",
+            "D": "Missweisende Peilungen."
+        },
+        {
+            "title": "Frage 22: Was ist eine Rasterkarte?",
+            "A": "Eine elektronische Seekarte, die, im Gegensatz zu einer Vektorkarte, ohne Qualit\u00e4tverlust am Bildschirm verkleinert oder vergr\u00f6\u00dfert werden kann.",
+            "B": "Eine elektronische Seekarte, die f\u00fcr jedes Seegebiet (Raster) Navtexmeldungen anzeigen kann.",
+            "C": "Eine elektronische Seekarte, die ausschlie\u00dflich f\u00fcr Rastersuchen bei Seeungl\u00fccken verwendet wird.",
+            "D": "Eine elektronische Seekarte, die, im Gegensatz zu einer Vektorkarte, nicht ohne Qualit\u00e4tverlust am Bildschirm verkleinert oder vergr\u00f6\u00dfert werden kann."
+        },
+        {
+            "title": "Frage 23: In einer kroatischen Seekarte sehen Sie eine Leuchtfeuerkennung beginnend mit BC. Was bedeutet das?",
+            "A": "Das ist ein Einzelgefahrenzeichen Toppzeichen ein wei\u00dfer (Bijelo) und ein roter (Crvena) Ball.",
+            "B": "Das ist ein Leuchtfeuer, das mittels Radartransponder die Morsebuchstaben B und C am Radarbildschirm erzeugt.",
+            "C": "Das ist ein Leuchtfeuer, das abwechselnd einmal wei\u00df (Bijelo) und einmal rot (Crvena) blitzt.",
+            "D": "Das ist ein Sektorfeuer, Farben Wei\u00df (Bijelo) und Rot (Crvena)."
+        },
+        {
+            "title": "Frage 24: Was bedeutet der Begriff Feuer in der Kimm?",
+            "A": "Der Abstand, in dem ein Feuer miteiner bestimmten H\u00f6he dem Betrachter mit einer bestimmter Augenh\u00f6he in der Kimm erscheint.",
+            "B": "Das bedeutet, dass man ein anderes Schiff am Horizont brennen sieht.",
+            "C": "Die Augenh\u00f6he, die eingenommen werden m\u00fcsste, um ein Leuchtfeuer mit einer bestimmten H\u00f6he aus einer bestimmten Distanz in der Kimm zu sehen.",
+            "D": "Diesen Begriff gibt es in der Seefahrt nicht. Recht"
+        },
+        {
+            "title": "Frage 25: Sie sehen die abgebildete Beleuchtung. Um welche Fahrzeugart nach KVR handelt es sich dabei?",
+            "A": "Um ein man\u00f6vrierbehindertes Fahrzeug.",
+            "B": "Um ein fischendes Fahrzeug.",
+            "C": "Um ein Segelfahrzeug.",
+            "D": "Um ein Maschinenfahrzeug mit mehr als 50 Meter L\u00e4nge."
+        },
+        {
+            "title": "Frage 26: M\u00fcssen im Mittelmeer neue Jachten mit einem F\u00e4kalientank ausgestattet sein?",
+            "A": "Ja, alle Schiffe m\u00fcssen mit mindestens zwei F\u00e4kalientanks ausger\u00fcstet sein.",
+            "B": "Ja, in marine sensiblen Zonen, wie zB dem Mittelmeer, m\u00fcssen alle Schiffe, die mit einer Toilette ausgestattet sind, mit F\u00e4kalientanks ausger\u00fcstet sein.",
+            "C": "Nein, da F\u00e4kalien biologisch abbaubar sind, sind F\u00e4kalientanks nicht vorgeschrieben.",
+            "D": "Die Ausr\u00fcstungspflicht mit F\u00e4kalientanks ist Sache nationaler Gesetzgebung und unterscheidet sich daher von Staat zu Staat."
+        },
+        {
+            "title": "Frage 27: In welcher Bestimmung ist festgehalten, mit welchen Seenotsignalen eine Jacht im Fahrbereich 2 ausger\u00fcstet sein muss?",
+            "A": "Im Schifffahrtsgesetz.",
+            "B": "Im Pyrotechnikgesetz.",
+            "C": "In der Wasserstra\u00dfenverkehrsordnung.",
+            "D": "In der Jachtzulassungsverordnung."
+        },
+        {
+            "title": "Frage 28: Was ist f\u00fcr die Nationalit\u00e4t eines Seeschiffes ma\u00dfgebend ?",
+            "A": "Wohnort des Schiffsf\u00fchrers.",
+            "B": "Ort der amtlichen Registrierung.",
+            "C": "Geburtsland des Schiffsf\u00fchrers.",
+            "D": "Nationalit\u00e4t des Schiffseigners. Wetter"
+        },
+        {
+            "title": "Frage 29: Sie sehen eine turmhohe, ambo\u00dff\u00f6rmige und dunkle Wolke. Was vermuten Sie?",
+            "A": "Eine Okklusionsfront k\u00fcndigt sich an.",
+            "B": "Eine Warmfront k\u00fcndigt sich an.",
+            "C": "Es kann sich um eine Gewitterwolke handeln.",
+            "D": "Diese Wolkenerscheinung hat keine Bedeutung."
+        },
+        {
+            "title": "Frage 30: Wie entsteht geringer Luftdruck?",
+            "A": "Durch Abk\u00fchlung von Luftmassen sinkt deren Dichte und sie steigen auf.",
+            "B": "Durch Fallwinde werden feuchte Luftmassen angehoben.",
+            "C": "Durch Abk\u00fchlung von Luftmassen steigt deren Dichte. Luftmassen von au\u00dfen k\u00f6nnen sich unter die dichteren Massen schieben und heben diese an.",
+            "D": "Durch Erw\u00e4rmung von Luftmassen sinkt deren Dichte und sie steigen auf."
+        },
+        {
+            "title": "Frage 31: Kann aus einer Wetterkarte die Windrichtung entnommen werden?",
+            "A": "Nein, aus der Wetterkarte kann die Windrichtung nicht bestimmt werden.",
+            "B": "Ja, da der Wind auf der Nordhalbkugel etwa Isobarenparalell nach links drehend aus dem Hoch hinaus und nach rechts drehend ins Tief hinein weht.",
+            "C": "Ja, da der Wind auf der Nordhalbkugel etwa Isobarenparalell nach rechts drehend aus dem Hoch hinaus und nach links drehend ins Tief hinein weht.",
+            "D": "Ja, da der Wind auf der S\u00fcdhalbkugel etwa Isobarenparalell nach rechts drehend aus dem Hoch hinaus und nach links drehend ins Tief hinein weht."
+        },
+        {
+            "title": "Frage 32: Welche Gefahren drohen bei einem Gewitter?",
+            "A": "Trotz starker Niederschl\u00e4ge wenig bis gar kein Wind, allerdings hohe Blitzschlaggefahr.",
+            "B": "Starker, b\u00f6iger Wind oder sogar Sturm, BLitzschlaggefahr.",
+            "C": "Von einem Gewitter geht f\u00fcr eine moderne Jacht keine wesentliche Gefahr aus.",
+            "D": "Starker b\u00f6iger Wind, keine Blitzschlaggefahr, da diese immer ins Wasser, nie in den Mast einschlagen."
+        },
+        {
+            "title": "Frage 33: Welche Wettererscheinung tritt beim Durchzug einer Warmfront auf?",
+            "A": "Pl\u00f6tzlich auftretende Gewitterwolken \u00fcber den gesamten Horizont verteilt. Starke, b\u00f6ige Winde, pl\u00f6tzliche starke Niederschl\u00e4ge.",
+            "B": "Eine dichte Wolkenfront aus etwa westlicher Richtung aufziehend. Starker Luftdruckabfall. Starker Niederschlag.",
+            "C": "Zu Beginn Cirruswolken in gr\u00f6\u00dfer H\u00f6he. Die Bew\u00f6lkung nimmt langsam zu und wird immer tiefer. Schlie\u00dflich ausgedehnte Regenf\u00e4lle.",
+            "D": "Lufttemperatur sinkt schlagartig ab, ausgedehnte Bew\u00f6lkung aus \u00f6stlicher Richtung. Schlie\u00dflich ausgedehnte Niederschl\u00e4ge."
+        },
+        {
+            "title": "Frage 34: Was ist die typische Windrichtung bei Bora?",
+            "A": "Ost bis Nordost.",
+            "B": "S\u00fcd bis S\u00fcdost.",
+            "C": "Nord bis Nordwest.",
+            "D": "S\u00fcd bis S\u00fcdwest."
+        },
+        {
+            "title": "Frage 35: An welchem Wolkenbild kann unter anderem eine Bora erkannt werden?",
+            "A": "An der typischen Borawalze \u00fcber dem Velebit.",
+            "B": "An den typischen hakenf\u00f6rmigen Cirruswolken in gro\u00dfer H\u00f6he.",
+            "C": "An den von Westen her aufziehenden Gewitterwolken.",
+            "D": "Bei Bora ist ein vollkommen klarer Himmel typisch."
+        },
+        {
+            "title": "Frage 36: Werden Wettermeldungen auch \u00fcber UKW- Seefunk ausgesendet?",
+            "A": "Wettermeldungen werden auf bestimmten UKW-Kan\u00e4len zu bestimmten Zeitenausgesendet.",
+            "B": "Wettermeldungen werden einmal t\u00e4glich auf dem Kanal 16 gesammelt ausgesendet.",
+            "C": "Wettermeldungen werden einem t\u00e4glich auf dem Kanal 70 gesammelt ausgesendet.",
+            "D": "Seitdem das System NavTex verwendet wird, werden keine Wettermeldungen mehr \u00fcber UKW-Seefunk ausgesendet."
+        },
+        {
+            "title": "Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenl\u00e4nge?",
+            "A": "Durch \u00dcberlagerung mehrerer Wellenk\u00e4mme kann Kreuzsee entstehen.",
+            "B": "Durch die geringere Wassertiefe wird die Wellenl\u00e4nge verk\u00fcrzt.",
+            "C": "Aus einer vertikalen Auf- und Abbewegung des Wassers wird eine Orbitalbewegung des Wellenkammes, die Welle bricht.",
+            "D": "Nichts besonderes. Sicherheit"
+        },
+        {
+            "title": "Frage 38: K\u00f6nnen Gezeitenstr\u00f6mungen den Seegang beeinflussen?",
+            "A": "Gezeitenstr\u00f6mungen verst\u00e4rken immer den Seegang.",
+            "B": "Gezeitenstr\u00f6mungen haben keinen Einfluss auf den Seegang.",
+            "C": "Gezeitenstr\u00f6mungen k\u00f6nnen den Seegang sowohl abschw\u00e4chen als auch verst\u00e4rken.",
+            "D": "Gezeitenstr\u00f6mungen schw\u00e4chen den Seegang immer ab."
+        },
+        {
+            "title": "Frage 39: Welche Bereiche der Jacht sind besonders brandgef\u00e4hrdet?",
+            "A": "Badeplattform, Backskiste.",
+            "B": "Ankerkasten, Steuerstand.",
+            "C": "Navigationsplatz, Bordtoilette.",
+            "D": "Gasanlage, Pantry, Maschinenraum."
+        },
+        {
+            "title": "Frage 40: Was ist AIS?",
+            "A": "Das automatische Wetterinformationssystem.",
+            "B": "Das automatische Schiffsanrufsystem.",
+            "C": "Das automatische Schiffsidentifizierungssystem.",
+            "D": "Ein automatisches Anmeldesystem f\u00fcr internationale Zollh\u00e4fen."
+        },
+        {
+            "title": "Frage 41: Muss eine Jacht f\u00fcr den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer EPIRB ausger\u00fcstet sein?",
+            "A": "Ja, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen mit einer EPIRB ausgestattet sein.",
+            "B": "Nein, Jachten, zugelassen f\u00fcr den Fahrbereich 2, m\u00fcssen nicht mit einer EPIRB ausger\u00fcstet sein.",
+            "C": "Nur, wenn man mit der Jacht das nationale Gew\u00e4sser verlassen will.",
+            "D": "Nur, wenn sich kein GMDSS-UKW-Funkger\u00e4t an Bord befindet."
+        },
+        {
+            "title": "Frage 42: Auf welchem Kanal wird ein digitaler Seenotalarm ausgel\u00f6st?",
+            "A": "Auf dem UKW-Kanal 10.",
+            "B": "Auf dem UKW-Kanal 53.",
+            "C": "Auf dem UKW-Kanal 16.",
+            "D": "Auf dem UKW-Kanal 70."
+        },
+        {
+            "title": "Frage 43: Was ist eine Wacheinteilung?",
+            "A": "Die Einteilung der Crew in einen Zeitplan, damit alle wichtigen Positionen rund um die Uhr besetzt sind.",
+            "B": "Die Einteilung der Crew in einen Backsplan, damit immer gen\u00fcgend Verpflegung an Bord ist.",
+            "C": "Die Einteilung der Vorr\u00e4te, damit die diensthabende Crew immer ausreichend versorgt ist.",
+            "D": "Die Einteilung der Crew in einen Zeitplan, damit das Schiff im Hafen nicht unbewacht ist."
+        },
+        {
+            "title": "Frage 44: Was ist bei einer Bergung mittels Hubschrauber zu beachten?",
+            "A": "Es braucht kein besonderes Verhalten, die Helfer sind Profis und wissen, was zu tun ist.",
+            "B": "Anweisungen der Helfer befolgen, Leinen und Dr\u00e4hte, die vom Hubschrauber kommen, an Bord belegen.",
+            "C": "Es m\u00fcssen der Hilfsmannschaft unbedingt genaue Anweisung gegeben werden, was zu tun ist.",
+            "D": "Anweisungen der Helfer befolgen, Hei\u00dfdraht nicht an Bord belegen."
+        },
+        {
+            "title": "Frage 45: Wie kann das \u00fcber Bord gehen von Personen verhindert werden?",
+            "A": "Mit einer Sicherheitsleine (Lifebelt).",
+            "B": "Mit einer Rettungsweste.",
+            "C": "Das \u00fcber Bord gehen kann nur durch sorgsames Verhalten an Bord verhindert werden.",
+            "D": "Mit einer Bergeleine (Lifesling)."
+        },
+        {
+            "title": "Frage 46: Was ist eine besondere Gefahrenstelle f\u00fcr eine \u00fcber Bord gegangene Person?",
+            "A": "Die Ruderanlage.",
+            "B": "Das Bugstrahlruder.",
+            "C": "Der Propeller.",
+            "D": "Der Freibord."
+        }
+    ]
+}

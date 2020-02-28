@@ -98,7 +98,7 @@ D:
 
 Maschine starten und mit Retourgang zur über Bord gegangenen Person
 zurückfahren.
-Seite 1
+
 
 Frage 5:
 
@@ -180,7 +180,7 @@ Versuchen, das Boot durchkentern zu lassen und beim Boot auf Hilfe warten.
 D:
 
 Sofort das Boot verlassen und ans Ufer schwimmen.
-Seite 2
+
 
 Frage 9:
 
@@ -259,7 +259,7 @@ Die Jacht ist etwas luvgieriger und kann damit härter am Wind gesegelt werden.
 D:
 
 Die Jacht ist sehr wendig aber wenig Kursstabil.
-Seite 3
+
 
 Frage 13: Was wird als Holebug beim Segeln bezeichnet?
 A:
@@ -296,6 +296,6 @@ D:
 
 Sofort wenden, damit die gebrochene Want auf der Luvseite ist.
 
-Seite 4
+
 
 

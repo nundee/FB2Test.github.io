@@ -25,12 +25,15 @@ def readCatalogFromText(txtFile):
                         frage[currKey]=line
                 else:
                     hd.append(line)
+                   
+        if frage:
+            fragen.append(frage)
         return dict(header=hd, fragen=fragen)
 
 
 def mkCat(txtFile, outFile):
     with open(outFile,'wt', encoding='utf-8') as fp:
-        json.dump(readCatalogFromText(txtFile),fp)
+        json.dump(readCatalogFromText(txtFile),fp, indent=4)
 
 
 def filterCat(f, f2,f5,out25):
@@ -66,18 +69,18 @@ def filterCat(f, f2,f5,out25):
     df25={'fragen': [mkQ(k,i) for (k,i) in enumerate(i25)]}
     
     with open(out25,'wt', encoding='utf-8') as fp:
-        json.dump(df25,fp)
+        json.dump(df25,fp, indent=4)
 
 if __name__=='__main__':
-    #mkCat('Pruefungsformulare-Sammeln-Allgemein-FB2.txt', 'Allgemein.json')
-    #mkCat('Pruefungsformulare-Sammeln-Mottor-FB2.txt',    'Motor.json')
-    #mkCat('Pruefungsformulare-Sammeln-Segel-FB2.txt',     'Segeln.json')
-    #mkCat('katalogmacher2.txt', 'Allgemein2.json')
-    #mkCat('katalogmacher2-motor.txt', 'Motor2.json')
-    #mkCat('katalogmacher2-segeln.txt', 'Segeln2.json')
-    #mkCat('katalogmacher5.txt', 'Allgemein5.json')
-    #mkCat('katalogmacher5-motor.txt', 'Motor5.json')
-    #mkCat('katalogmacher5-segeln.txt', 'Segeln5.json')
+    mkCat('Pruefungsformulare-Sammeln-Allgemein-FB2.txt', 'Allgemein.json')
+    mkCat('Pruefungsformulare-Sammeln-Mottor-FB2.txt',    'Motor.json')
+    mkCat('Pruefungsformulare-Sammeln-Segel-FB2.txt',     'Segeln.json')
+    mkCat('katalogmacher2.txt', 'Allgemein2.json')
+    mkCat('katalogmacher2-motor.txt', 'Motor2.json')
+    mkCat('katalogmacher2-segeln.txt', 'Segeln2.json')
+    mkCat('katalogmacher5.txt', 'Allgemein5.json')
+    mkCat('katalogmacher5-motor.txt', 'Motor5.json')
+    mkCat('katalogmacher5-segeln.txt', 'Segeln5.json')
 
     filterCat('Allgemein.json', 'Allgemein2.json','Allgemein5.json', 'Allgemein25.json')
     filterCat('Motor.json', 'Motor2.json','Motor5.json', 'Motor25.json')

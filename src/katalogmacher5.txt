@@ -90,7 +90,7 @@ Ja, weil der Einfluss der Lichtmaschine die Ankerwinsch überlasten kann.
 D:
 
 Ja, da sonst die Maschine zu stark beansprucht wird.
-Seite 1
+
 
 Frage 5:
 
@@ -172,7 +172,7 @@ C:
 D:
 
 Einen Kreuzknoten.
-Seite 2
+
 
 Schiffstechnik
 
@@ -247,7 +247,7 @@ Hohe Stabilität trotz geringem Gewicht.
 D:
 
 Extrem stabiler und relativ leicht zu verarbeitender Werkstoff.
-Seite 3
+
 
 Frage 13: Wie kann eine Antriebswelle abgedichtet sein?
 A:
@@ -320,7 +320,7 @@ Unter anderem aus den Nachrichten für Seefahrer.
 D:
 
 Unter anderem aus Funkmeldungen über UKW.
-Seite 4
+
 
 Frage 17: Woher können Sie eine Ablenkungstabelle beziehen?
 A:
@@ -392,7 +392,7 @@ Die Zeit von verstärkten Tidenhüben bei Vollmond und Neumond.
 D:
 
 Die Zeit von abgeschwächten Tidenhüben bei Vollmond und Neumond.
-Seite 5
+
 
 Frage 21: Welche Peilungen können mittels RADAR durchgeführt werden?
 A:
@@ -471,7 +471,7 @@ bestimmten Höhe aus einer bestimmten Distanz in der Kimm zu sehen.
 D:
 
 Diesen Begriff gibt es in der Seefahrt nicht.
-Seite 6
+
 
 Recht
 
@@ -548,7 +548,7 @@ Geburtsland des Schiffsführers.
 D:
 
 Nationalität des Schiffseigners.
-Seite 7
+
 
 Wetter
 
@@ -625,7 +625,7 @@ D:
 
 Starker böiger Wind, keine Blitzschlaggefahr, da diese immer ins Wasser, nie in
 den Mast einschlagen.
-Seite 8
+
 
 Frage 33: Welche Wettererscheinung tritt beim Durchzug einer Warmfront auf?
 A:
@@ -702,7 +702,7 @@ D:
 
 Seitdem das System NavTex verwendet wird, werden keine Wettermeldungen
 mehr über UKW-Seefunk ausgesendet.
-Seite 9
+
 
 Frage 37: Was passiert, wenn die Wassertiefe geringer wird als die halbe Wellenlänge?
 A:
@@ -775,7 +775,7 @@ Das automatische Schiffsidentifizierungssystem.
 D:
 
 Ein automatisches Anmeldesystem für internationale Zollhäfen.
-Seite 10
+
 
 Frage 41: Muss eine Jacht für den Fahrbereich 2 lt Jachtzulassungsverordnung mit einer
 EPIRB ausgerüstet sein?
@@ -854,7 +854,7 @@ was zu tun ist.
 D:
 
 Anweisungen der Helfer befolgen, Heißdraht nicht an Bord belegen.
-Seite 11
+
 
 Frage 45: Wie kann das über Bord gehen von Personen verhindert werden?
 A:
@@ -891,6 +891,6 @@ D:
 
 Der Freibord.
 
-Seite 12
+
 
 

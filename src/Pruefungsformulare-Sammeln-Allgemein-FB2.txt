@@ -93,7 +93,7 @@ D:
 
 Während des Scheusens darf die Jacht keinesfalls irgendwo festgemacht sein und
 darf sich nur mit eigener Kraft auf der ihr zugewiesenen Position halten.
-Seite 1
+
 
 Frage 5:
 
@@ -175,7 +175,7 @@ Mit einem Schotstek.
 D:
 
 Mit einem Achterknoten.
-Seite 2
+
 
 Frage 9:
 
@@ -247,7 +247,7 @@ Die Seite der Jacht, auf der sich der Steuerstand befindet.
 D:
 
 Die Seite der Jacht, auf der die Fender leichter befestigt werden können.
-Seite 3
+
 
 Frage 13: Was ist beim Liegen im Paket zu beachten?
 A:
@@ -321,7 +321,7 @@ Die Vorleine.
 D:
 
 Die Heckleine.
-Seite 4
+
 
 Frage 17: In welche Richtung legen Sie beim Drehen am Teller das Ruder?
 A:
@@ -397,7 +397,7 @@ D:
 
 Es muss nichts besonderes beachtet werden, die Fahrt kann auch im Schlepp
 normal fortgesetzt werden.
-Seite 5
+
 
 Frage 21: Wie schleppen Sie eine andere Jacht im Hafen?
 A:
@@ -467,7 +467,7 @@ D:
 
 Die Kette sollte nicht mit dem Schiff verbunden sein, damit sie im Notfall schnell
 ausrauschen kann.
-Seite 6
+
 
 Frage 25: Welcher Anker ist hier abgebildet?
 A:
@@ -537,7 +537,7 @@ Der Moment, in dem die Ankerwinsch Zug auf den Anker gibt.
 D:
 
 Der Moment, in dem die Jacht Fahrt aufnimmt.
-Seite 7
+
 
 Frage 29: Was sollten Sie bedenken, wenn Sie eine Ankerwache mit GPS einrichten?
 A:
@@ -617,7 +617,7 @@ Ein Plan, welche Tätigkeiten die Crew während der Reise zu erledigen hat.
 D:
 
 Ein Plan, welche Arbeiten der Skipper während der Fahrt durchzuführen hat.
-Seite 8
+
 
 Frage 33: Was bedenken Sie bei der Aufgabenverteilung an die Crew?
 A:
@@ -688,7 +688,7 @@ Die Nationalflagge des Landes, aus dem die Crew stammt.
 D:
 
 Die Nationalflagge des Landes, in dem die Jacht hergestellt wurde.
-Seite 9
+
 
 Frage 37: Was überprüfen Sie bei der Rettungsinsel?
 A:
@@ -758,7 +758,7 @@ Die Drehzahl, die den geringsten Stundenverbrauch ermöglicht.
 D:
 
 Die Drehzahl, bei der die Maschine das höchste Drehmoment hat.
-Seite 10
+
 
 Frage 41: Was tun Sie mit Leinen, die Sie nicht benötigen?
 A:
@@ -837,7 +837,7 @@ Der Begriff Reck wird bei Leinen nicht verwendet.
 D:
 
 Reck ist ein seemännischer Ausdruck für die Bruchlast einer Leine.
-Seite 11
+
 
 Frage 45: Was ist bei einem Knoten in Hinblick auf die Bruchlast der Leine zu beachten?
 A:
@@ -910,7 +910,7 @@ Nein, eine Kunstfaserleine ändert ihre Eigenschaften nicht.
 D:
 
 Ja, durch unsachgemäße, feuchte Lagerung kann Kunstfasertauwerk verrotten..
-Seite 12
+
 
 Schiffstechnik
 
@@ -984,7 +984,7 @@ Nein, weil die Maschine dadurch einen größeren Radeffekt verursacht.
 D:
 
 Nein, weil der Propeller aus dem Wasser ragt.
-Seite 13
+
 
 Frage 53: Wie wird der Auspuff gekühlt?
 A:
@@ -1053,7 +1053,7 @@ Motoröl darf außerhalb der 12-Seemeilen-Grenze ins Meer eingebracht werden.
 D:
 
 Mit ausreichend Ölbindemittel darf Motoröl ins Meer eingebracht werden.
-Seite 14
+
 
 Frage 57: Was ist zu beachten, wenn Sie bei einer Dieselmaschine den Tank leer gefahren
 haben?
@@ -1128,7 +1128,7 @@ Uhrzeigersinn gebaut.
 D:
 
 Der Radeffekt des Propellers ist bei Drehung im Uhrzeigersinn besonders groß.
-Seite 15
+
 
 Frage 61: Wie kann eine Antriebswelle abgedichtet sein?
 A:
@@ -1202,7 +1202,7 @@ C:
 D:
 
 Üblicherweise mit Solarenergie.
-Seite 16
+
 
 Frage 65: Was bedeutet die Abkürzung CWL?
 A:
@@ -1273,7 +1273,7 @@ können.
 D:
 
 Hohe Stabilität trotz geringem Gewicht.
-Seite 17
+
 
 Frage 69: Was ist zu beachten, wenn Sie eine Innenborddieselmaschine starten wollen?
 A:
@@ -1343,7 +1343,7 @@ D:
 
 Dass das Seeventil für die Maschinenkühlung erst geöffnet wird, nachdem die
 Maschine gestartet wurde .
-Seite 18
+
 
 Frage 73: Was ist ökonomische Fahrt ?
 A:
@@ -1416,7 +1416,7 @@ D:
 
 Anhand der Formel: Stromverbrauch (Amperestunden) = Stromspannung U (Volt)
 x Zeit (Minuten).
-Seite 19
+
 
 Frage 77: Was bewirkt die Parallelschaltung von zwei 12 V / 100 Ah-Bleiakkumulatoren?
 A:
@@ -1487,7 +1487,7 @@ Das Seeventil für die Bilgepumpe.
 D:
 
 Während der Fahrt müssen immer alle Seeventile geschlossen werden.
-Seite 20
+
 
 Frage 81: Was gehört ins Bord-WC?
 A:
@@ -1563,7 +1563,7 @@ Nein, da der Tidenhub nicht vorhersehbar ist.
 D:
 
 Ja, die Tiefenangaben in der Seekarte sind immer korrekt.
-Seite 21
+
 
 Frage 85: An welcher Seite Ihrer Jacht lassen Sie in Europa rote Tonnen vor der
 Hafeneinfahrt liegen wenn Sie in den Hafen einlaufen?
@@ -1633,7 +1633,7 @@ Ein beliebiger halber Großkreis auf der Erdoberfläche.
 D:
 
 Ein Kreis auf der Erdoberfläche parallel zum Äquator.
-Seite 22
+
 
 Frage 89: Wie wird die Geschwindigkeit einer Jacht auf See angegeben?
 A:
@@ -1707,7 +1707,7 @@ Jahresverlauf.
 D:
 
 Ja, der Wert der Missweisung ist für alle Seegebiete gleich.
-Seite 23
+
 
 Frage 93: Wie können Sie den Herausgeber einer Seekarte bestimmen?
 A:
@@ -1782,7 +1782,7 @@ Fahrt der Wirksamkeit.
 D:
 
 Fahrt des Wassers (Strom).
-Seite 24
+
 
 Frage 97: Was ist die INT1?
 A:
@@ -1861,7 +1861,7 @@ D:
 
 Angaben über die unterschiedlichen Frequenzbereiche verschiedenerFunkdienste
 (Seefunk, Flugfunk, etc.).
-Seite 25
+
 
 Frage 101: Mit welchen Daten muss der Steuerkompass berichtigt werden?
 A:
@@ -1936,7 +1936,7 @@ Dass der elektronische Kompass starken magnetischen Einflüssen unterworfen ist.
 D:
 
 Dass der elektronische Kompass gerade den magnetischen Fix verloren hat.
-Seite 26
+
 
 Frage 105: Ist die Ausrüstung einer Jacht mit einer Peilscheibe im Fahrbereich 2
 verpflichtend?
@@ -2015,7 +2015,7 @@ D:
 
 Ein Gerät, das die Windgeschwindigkeit misst und die gemessenen Werte über
 eine bestimmte Zeitspanne anzeigt.
-Seite 27
+
 
 Frage 109: Ist ein nautisches Fernglas mit einem Peilkompass ausgestattet?
 A:
@@ -2087,7 +2087,7 @@ Die RADAR-Anzeige ist auf rechtweisend Nord ausgerichtet.
 D:
 
 Die RADAR-Anzeige zeigt nur Ziele an, die sich recht voraus befinden.
-Seite 28
+
 
 Frage 113: Wie werden Peilungen mit RADAR im Head-Up-Modus angegeben?
 A:
@@ -2157,7 +2157,7 @@ Mit Ablenkung und Stromabdrift.
 D:
 
 Mit Fahrt über Grund und Fahrt durchs Wasser.
-Seite 29
+
 
 Frage 117: Was könnte eine Besteckversetzung verursachen?
 A:
@@ -2232,7 +2232,7 @@ D:
 
 Strom hat keine Auswirkung auf den Kurs, die Geschwindigkeit nimmt mit dem
 Strom zu, gegen den Strom ab.
-Seite 30
+
 
 Frage 121: Was ist eine Hundekurve?
 A:
@@ -2307,7 +2307,7 @@ Nippzeit zu Tag- und Nachtgleichen.
 D:
 
 Mit Bordmitteln gar nicht, da das Alter der Gezeit nur sehr schwer zu berechnen ist.
-Seite 31
+
 
 Frage 125: Was wird mit dem graphischen Tidenkalender ermittelt?
 A:
@@ -2385,7 +2385,7 @@ Die Abdrift durch Wind.
 D:
 
 Die Abdrift durch Strom.
-Seite 32
+
 
 Frage 129: Um welche Werte werden Kursenach dem Steuerkompass berichtigt?
 A:
@@ -2457,7 +2457,7 @@ Mindestens 3.
 D:
 
 Mindestens 4.
-Seite 33
+
 
 Frage 133: Muss eine Abstandsmessung mittels RADAR mit Beschickungen verbessert
 werden?
@@ -2531,7 +2531,7 @@ World Geodetic System 2000 (WGS2000).
 D:
 
 National Maritime Earth Aquirement 2000 (NMEA 2000).
-Seite 34
+
 
 Frage 137: Was ist eine Rasterkarte?
 A:
@@ -2609,7 +2609,7 @@ Das ist die Reichweitenverstellung beim RADAR.
 D:
 
 Das ist die Regenenttrübung beim RADAR.
-Seite 35
+
 
 Frage 141: Welche Farbe haben Hafeneinfahrtszeichen in Europa an der Backbordseite, wenn
 Sie in den Hafen einlaufen?
@@ -2684,7 +2684,7 @@ D:
 
 Das ist ein Leuchtfeuer, das mittels Radartransponder die Morsebuchstaben B und
 C am Radarbildschirm erzeugt.
-Seite 36
+
 
 Frage 145: Auf einer Seekarte sehen Sie neben einem Leuchtfeuer die Bezeichnung Racon
 M. Was bedeutet das?
@@ -2762,7 +2762,7 @@ D:
 
 Die Tragweite eines Leuchtfeuers ist ausschließlich von der Augenhöhe des
 Beobachters abhängig und kann daher nicht konstant sein.
-Seite 37
+
 
 Recht
 
@@ -2837,7 +2837,7 @@ Ja, allerdings nur für einen begrenzten Zeitraum.
 D:
 
 Ja, aber nur in internationalen Gewässern.
-Seite 38
+
 
 Frage 153: Sie sehen die abgebildete Beleuchtung. Um welche
 Fahrzeugart nach KVR handelt es sich dabei?
@@ -2916,7 +2916,7 @@ Seemeilen ab der Basislinie.
 D:
 
 In der Seeschifffahrt wird der Ausdruck Wirtschaftszone nicht verwendet.
-Seite 39
+
 
 Frage 157: Ab welchem Abstand zur Küste ist das Einbringen von Fäkalien ins Meer lt.
 MARPOL gestattet?
@@ -2994,7 +2994,7 @@ D:
 
 Alle Küstenbereiche weltweit bis zu einer Entfernung von 3 Seemeilen von der
 Küste.
-Seite 40
+
 
 Frage 161: Welches Gesetz regelt die Seeschifffahrt in Österreich?
 A:
@@ -3069,7 +3069,7 @@ D:
 
 Zum Führen von Jachten bis 24 Meter Länge weltweit ohne weitere
 Einschränkung.
-Seite 41
+
 
 Frage 165: Sie wollen ein Land über den Seeweg betreten. Was ist unter anderem zu tun?
 A:
@@ -3144,7 +3144,7 @@ Wohnort des Schiffsführers.
 D:
 
 Geburtsland des Schiffsführers.
-Seite 42
+
 
 Wetter
 
@@ -3215,7 +3215,7 @@ Es klart nach längerem Schlechtwetter auf.
 D:
 
 Das ist ein normaler Luftdruckverlauf unter Tags.
-Seite 43
+
 
 Frage 173: Sie sehen eine turmhohe, amboßförmige und dunkle Wolke. Was vermuten Sie?
 A:
@@ -3289,7 +3289,7 @@ D:
 
 Obwohl die Oberflächenbeschaffenheit der Erde unterschiedlich ist, erwärmt sich
 die Oberfläche fastgleich. Dadurch entstehen unterschiedliche Luftdrucke.
-Seite 44
+
 
 Frage 177: In welcher Atmosphärenschicht spielt sie das Wetter ab?
 A:
@@ -3363,7 +3363,7 @@ können sich unter die dichteren Massen schieben und heben diese an.
 D:
 
 Durch Fallwinde werden feuchte Luftmassen angehoben.
-Seite 45
+
 
 Frage 181: Wie hängt die Luftfeuchtigkeit mit der Lufttemperatur zusammen?
 A:
@@ -3438,7 +3438,7 @@ D:
 
 Der Luftdruckunterschied zwischen einem Tiefdruckzentrum und einem
 Hochdruckzentrum.
-Seite 46
+
 
 Frage 185: Wie kann die Windgeschwindigkeit in Meter/Sekunde ungefähr in Knoten
 umgerechnet werden?
@@ -3514,7 +3514,7 @@ Es gibt zwar einen Unterschied, dieser ist aber nicht messbar.
 D:
 
 Nein, die Windrichtung ist bis etwa 1000 Meter Höhe konstant.
-Seite 47
+
 
 Frage 189: Was bewirkt der Düseneffekt?
 A:
@@ -3594,7 +3594,7 @@ D:
 
 Ein stabiles Hochdruckgebiet etwa über den Azoren, das hauptsächlich in den
 Wintermonaten Schönwetter in Mitteleuropa bewirkt.
-Seite 48
+
 
 Frage 193: Welche Parameter beeinflussen die Entstehung von Nebel?
 A:
@@ -3669,7 +3669,7 @@ D:
 
 Durch Sonneneinstrahlung erwärmt sich die Luft über der See schneller als über
 dem Land und steigt auf. Luft von der See strömt aufs Land nach.
-Seite 49
+
 
 Frage 197: Was ist eine Warmfront?
 A:
@@ -3749,7 +3749,7 @@ Von etwa Süd nach etwa Nord.
 D:
 
 Von etwa Nord nach etwa Süd.
-Seite 50
+
 
 Frage 201: Welche Wettererscheinung tritt beim Durchzug einer Warmfront auf?
 A:
@@ -3826,7 +3826,7 @@ Nicht vorhersehbar.
 D:
 
 Immer strahlenförmig vom Luftdruckmaximum nach außen.
-Seite 51
+
 
 Frage 205: Was ist die typische Windrichtung bei Bora?
 A:
@@ -3895,7 +3895,7 @@ An den von Westen her aufziehenden Gewitterwolken.
 D:
 
 Bei Bora ist ein vollkommen klarer Himmel typisch.
-Seite 52
+
 
 Frage 209: Sie stehen mit dem Rücken zum Bodenwind. An welcher Seite befindet sich das
 Tiefdruckzentrum?
@@ -3966,7 +3966,7 @@ Mit 12 Beaufort.
 D:
 
 Mit 6 Beaufort.
-Seite 53
+
 
 Frage 213: Was bedeutet die Abkürzung MSI?
 A:
@@ -4042,7 +4042,7 @@ geeigneten Empfangsanlagen empfangen werden.
 D:
 
 Seewetterberichte werden nicht über Satellit ausgestrahlt.
-Seite 54
+
 
 Frage 217: Mit welcher Windrichtung rechnen Sie, wenn Sie auf
 einer Wetterkarte das abgebildete Symbol sehen?
@@ -4114,7 +4114,7 @@ Hafen C.
 D:
 
 Hafen D.
-Seite 55
+
 
 Frage 221: Welche Wetterbedingungen herrschen in den Rossbreiten?
 A:
@@ -4186,7 +4186,7 @@ Die Wassertiefe und der Tidenhub.
 D:
 
 Die Wassertiefe und der sogenannte Fetch.
-Seite 56
+
 
 Frage 225: Wie wird in der Meteorologie die Anlaufstrecke des Windes für die Wellenbildung
 bezeichnet?
@@ -4259,7 +4259,7 @@ Genau zum Zeitpunkt des Niedrigwassers.
 D:
 
 Gezeitenströmungen sind zu jeder Zeit etwa konstant.
-Seite 57
+
 
 Frage 229: Können Gezeitenströmungen den Seegang beeinflussen?
 A:
@@ -4337,7 +4337,7 @@ Versuchen, mit dem Bootshaken ein Auflaufen zu verhindern.
 D:
 
 Auf einer Segeljacht, versuchen unter Segel aus dem Legerwall zu segeln.
-Seite 58
+
 
 Frage 233: Sind Sie als Schiffsführer zur Hilfeleistung bei einem Personenschaden
 verpflichtet?
@@ -4410,7 +4410,7 @@ Die Batterien abklemmen, Brand mit viel Wasser löschen.
 D:
 
 Die Batterien abklemmen, Brand mit Feuerlöscher der Klasse C löschen.
-Seite 59
+
 
 Frage 237: Sind Sie als Schiffsführer zur Hilfeleistung auf See verpflichtet?
 A:
@@ -4487,7 +4487,7 @@ Ein Tau, das zum Spannen (Strecken) der Festmacherleinen dient.
 D:
 
 Der Begriff Strecktau wird in der Schifffahrt nicht verwendet.
-Seite 60
+
 
 Frage 241: Was ist ein Radarreflektor?
 A:
@@ -4562,7 +4562,7 @@ Mit mindestens drei Handfackeln.
 D:
 
 Mit mindestens drei roten Fallschirmraketen.
-Seite 61
+
 
 Frage 245: Dürfen Sie im Zuge eines Bordfestes Ihre alten Seenothandfackeln zünden?
 A:
@@ -4641,7 +4641,7 @@ D:
 
 Das Vorliegen eines Seenotfalles ist nicht definiert. Es wird im Nachhinein
 entschieden, ob tatsächlich ein Seenotfall vorlag.
-Seite 62
+
 
 Frage 249: Auf welchem Kanal wird ein digitaler Seenotalarm ausgelöst?
 A:
@@ -4712,7 +4712,7 @@ D:
 
 Fender nach Gebrauch nur auf das Deck legen und weiter an der Reling befestigt
 lassen, damit sie im Bedarfsfall schneller verwendbar sind.
-Seite 63
+
 
 Frage 253: Es droht Sturm und Sie werden nicht mehr rechtzeitig einen Schutzhafen
 erreichen. Was tun Sie unter anderem?
@@ -4790,7 +4790,7 @@ D:
 
 Die Einteilung der Vorräte, damit die diensthabende Crew immer ausreichend
 versorgt ist.
-Seite 64
+
 
 Frage 257: Wie bereiten Sie sich und Ihre Crew auf eine Nachtfahrt vor?
 A:
@@ -4874,7 +4874,7 @@ D:
 
 Jedes Fahrzeug muss eine Geschwindigkeit wählen, bei der Kollisionen
 unwahrscheinlich sind.
-Seite 65
+
 
 Frage 261: Welche Bauteile einer Jacht sind bei Grundberührung besonders gefährdet?
 A:
@@ -4948,7 +4948,7 @@ Hintereinander mit einer möglichst langen Schleppleine.
 D:
 
 Längsseits nur mit Leinen.
-Seite 66
+
 
 Frage 265: Was ist eine Notpinne?
 A:
@@ -5020,7 +5020,7 @@ Nur, wenn die Jacht nicht kentert.
 D:
 
 Nur, wenn die Jacht nicht leck schlägt.
-Seite 67
+
 
 Frage 269: Wann geben Sie Ihr Schiff auf?
 A:
@@ -5096,7 +5096,7 @@ Hafen dem Hafenkapitän melden.
 D:
 
 Ruhe bewahren, Notruf absetzen und auf Hilfe warten.
-Seite 68
+
 
 Frage 273: Was ist nach dem Ruf Person über Bord besonders wichtig?
 A:
@@ -5150,6 +5150,6 @@ D:
 
 Die angezeigte Abweichung am Kartenplotter vom Soll-Kurs.
 
-Seite 69
+
 
 

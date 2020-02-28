@@ -1,1 +1,112 @@
-{"header": ["Seefahrtsverband S\u00fcd", "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at", "Fahrtbereich 2", "Katalog 5", "Modul Motor", "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor", "G\u00fcltig ab: 14.02.2020", "Modul Motor"], "fragen": [{"title": "Frage 1: Was versteht man unter Eigenz\u00fcndung?", "A": "Z\u00fcndung mittels Z\u00fcndkerzen.", "B": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.", "C": "Z\u00fcndung mittels Gl\u00fchkerzen.", "D": "Z\u00fcndung durch Einspritzung in den Vergaser."}, {"title": "Frage 2: Wie kann man Benzinmotoren erkennen?", "A": "an der Einspritzpumpe.", "B": "an den Z\u00fcndkerzen.", "C": "am Treibstoff: Benzin verdunstet nicht, Diesel sofort.", "D": "Benzinmotoren haben nur 6-stellige Motornummern."}, {"title": "Frage 3: Was ist die Ursache von milchigem Motor\u00f6l?", "A": "Wasser im \u00d6l.", "B": "\u00d6l ist durch \u00dcberhitzung zu hei\u00df geworden, schmiert und k\u00fchlt nicht mehr.", "C": "Diesel im \u00d6l.", "D": "Benzin im \u00d6l."}, {"title": "Frage 4: Wozu dient ein Motor\u00f6lfilter?", "A": "der \u00d6lfilter ist ein Indikator. Ist das \u00d6l verbraucht, verf\u00e4rbt er sich.", "B": "es filtert das \u00d6l vor dem Eintritt in den Motorblock.", "C": "es filtert kleine Metallsp\u00e4ne und andere Verunreinigungen aus.", "D": "bei einem \u00d6lwechsel muss das neue \u00d6l durch den Filter rinnen damit es wirksam wird. Seite 1"}, {"title": "Frage 5: Wozu dient ein Schwanenhals im Auspuffsystem?", "A": "er bewirkt, dass nur Gase austreten k\u00f6nnen.", "B": "er verhindert, dass Seewasser eindringt.", "C": "er sorgt daf\u00fcr dass die Leitungen so lange werden, dass keine Resonanzen auftreten.", "D": "er ist eine Verl\u00e4ngerung um den Auspuff so hoch wie m\u00f6glich zu bringen."}, {"title": "Frage 6: Welche Anschlussleitungen brauchen Treibstofftanks au\u00dfer der \u00d6ffnung zum Tanken?", "A": "Ansaugleitung, R\u00fcckflussleitung, Entl\u00fcftung.", "B": "Z\u00e4hlerleitung, Motordruckausgleichsleitung, Treibstoffabsaugleitung.", "C": "Gaszug, Pumpenleitung, Abflussleitung.", "D": "Absaugleitung, Gaszuleitung, Treibstoffausgleichsleitung."}, {"title": "Frage 7: Wof\u00fcr dient die Schraube unten am Wasserabscheider?", "A": "zum \u00d6ffnen des Filtergeh\u00e4uses.", "B": "zum Ablassen des Treibstoffes.", "C": "zum Ablassen des Wassers.", "D": "zum Einf\u00fcllen des Wassers."}, {"title": "Frage 8: Warum ist Benzin als Treibstoff gef\u00e4hrlicher als Diesel?", "A": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Buthangas erzeugt.", "B": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Luft erzeugt.", "C": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Salz erzeugt.", "D": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Wasser erzeugt. Seite 2"}, {"title": "Frage 9: Welchen Motorschaden kann Wasser im Motor\u00f6l anzeigen?", "A": "Undichtigkeit zwischen K\u00fchlkreislauf und Auspuffsystem.", "B": "Undichtigkeit zwischen K\u00fchlkreislauf und \u00d6lkreislauf.", "C": "Undichtigkeit zwischen \u00d6ltank und Wassertank.", "D": "Undichtigkeit zwischen Wasserfilter und \u00d6lfilter."}, {"title": "Frage 10: Wie wirkt der Radeffekt bei einem Zwei-Schrauben-Schiff in der Regel?", "A": "die Drehrichtungen der Schrauben sind gegenl\u00e4ufig, die Radeffekte heben sich auf.", "B": "weil die Schrauben nicht in der Kielrichtung wirken kommt es zu keinem Radeffekt.", "C": "der Radeffekt ist der Gleiche wie bei einer Wellenanlage mit einem Propeller.", "D": "der Radeffekt wird gr\u00f6\u00dfer in Kurvenfahrt."}, {"title": "Frage 11: Wodurch wird der \u00dcbergang von Verdr\u00e4ngerfahrt in Gleitfahrt leichter erreicht?", "A": "Gewichtsverlagerung nach achtern.", "B": "weniger Gesamtgewicht.", "C": "Propeller mit Overdrive.", "D": "Schr\u00e4glage nach Backbord oder Steuerbord."}, {"title": "Frage 12: Haben Motorboote eine Abdrift?", "A": "nein, Motorboote haben keine Abdrift.", "B": "ja, aber wenig wegen des gro\u00dfen Lateralplanes.", "C": "nur bei h\u00f6herer Geschwindigkeit.", "D": "ja, aufgrund des kleinen Lateralplanes. Seite 3"}, {"title": "Frage 13: Woran erkennt man, ob man als Verdr\u00e4nger \u00fcber der Rumpfgeschwindigkeit geschleppt wird?", "A": "am Mitdrehen von Schiffsschraube und Welle.", "B": "an unregelm\u00e4\u00dfigen starken Ausschl\u00e4gen der Loggegeschwindigkeit.", "C": "an Klopfger\u00e4uschen am Kielschwein.", "D": "wenn es im Schiffsk\u00f6rper zu Vibrationen kommt."}]}
+{
+    "header": [
+        "Seefahrtsverband S\u00fcd",
+        "8052 Graz, Villenstra\u00dfe 11 - info@sfv-sued.at",
+        "Fahrtbereich 2",
+        "Katalog 5",
+        "Modul Motor",
+        "Bitte nehmen Sie keine Eintragungen in diesen Katalog vor",
+        "G\u00fcltig ab: 14.02.2020",
+        "Modul Motor"
+    ],
+    "fragen": [
+        {
+            "title": "Frage 1: Was versteht man unter Eigenz\u00fcndung?",
+            "A": "Z\u00fcndung mittels Z\u00fcndkerzen.",
+            "B": "Z\u00fcndung durch Einspritzung in hoch komprimierte Luft.",
+            "C": "Z\u00fcndung mittels Gl\u00fchkerzen.",
+            "D": "Z\u00fcndung durch Einspritzung in den Vergaser."
+        },
+        {
+            "title": "Frage 2: Wie kann man Benzinmotoren erkennen?",
+            "A": "an der Einspritzpumpe.",
+            "B": "an den Z\u00fcndkerzen.",
+            "C": "am Treibstoff: Benzin verdunstet nicht, Diesel sofort.",
+            "D": "Benzinmotoren haben nur 6-stellige Motornummern."
+        },
+        {
+            "title": "Frage 3: Was ist die Ursache von milchigem Motor\u00f6l?",
+            "A": "Wasser im \u00d6l.",
+            "B": "\u00d6l ist durch \u00dcberhitzung zu hei\u00df geworden, schmiert und k\u00fchlt nicht mehr.",
+            "C": "Diesel im \u00d6l.",
+            "D": "Benzin im \u00d6l."
+        },
+        {
+            "title": "Frage 4: Wozu dient ein Motor\u00f6lfilter?",
+            "A": "der \u00d6lfilter ist ein Indikator. Ist das \u00d6l verbraucht, verf\u00e4rbt er sich.",
+            "B": "es filtert das \u00d6l vor dem Eintritt in den Motorblock.",
+            "C": "es filtert kleine Metallsp\u00e4ne und andere Verunreinigungen aus.",
+            "D": "bei einem \u00d6lwechsel muss das neue \u00d6l durch den Filter rinnen damit es wirksam wird."
+        },
+        {
+            "title": "Frage 5: Wozu dient ein Schwanenhals im Auspuffsystem?",
+            "A": "er bewirkt, dass nur Gase austreten k\u00f6nnen.",
+            "B": "er verhindert, dass Seewasser eindringt.",
+            "C": "er sorgt daf\u00fcr dass die Leitungen so lange werden, dass keine Resonanzen auftreten.",
+            "D": "er ist eine Verl\u00e4ngerung um den Auspuff so hoch wie m\u00f6glich zu bringen."
+        },
+        {
+            "title": "Frage 6: Welche Anschlussleitungen brauchen Treibstofftanks au\u00dfer der \u00d6ffnung zum Tanken?",
+            "A": "Ansaugleitung, R\u00fcckflussleitung, Entl\u00fcftung.",
+            "B": "Z\u00e4hlerleitung, Motordruckausgleichsleitung, Treibstoffabsaugleitung.",
+            "C": "Gaszug, Pumpenleitung, Abflussleitung.",
+            "D": "Absaugleitung, Gaszuleitung, Treibstoffausgleichsleitung."
+        },
+        {
+            "title": "Frage 7: Wof\u00fcr dient die Schraube unten am Wasserabscheider?",
+            "A": "zum \u00d6ffnen des Filtergeh\u00e4uses.",
+            "B": "zum Ablassen des Treibstoffes.",
+            "C": "zum Ablassen des Wassers.",
+            "D": "zum Einf\u00fcllen des Wassers."
+        },
+        {
+            "title": "Frage 8: Warum ist Benzin als Treibstoff gef\u00e4hrlicher als Diesel?",
+            "A": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Buthangas erzeugt.",
+            "B": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Luft erzeugt.",
+            "C": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Salz erzeugt.",
+            "D": "weil Benzindampf ein explosionsf\u00e4higes Gemisch mit Wasser erzeugt."
+        },
+        {
+            "title": "Frage 9: Welchen Motorschaden kann Wasser im Motor\u00f6l anzeigen?",
+            "A": "Undichtigkeit zwischen K\u00fchlkreislauf und Auspuffsystem.",
+            "B": "Undichtigkeit zwischen K\u00fchlkreislauf und \u00d6lkreislauf.",
+            "C": "Undichtigkeit zwischen \u00d6ltank und Wassertank.",
+            "D": "Undichtigkeit zwischen Wasserfilter und \u00d6lfilter."
+        },
+        {
+            "title": "Frage 10: Wie wirkt der Radeffekt bei einem Zwei-Schrauben-Schiff in der Regel?",
+            "A": "die Drehrichtungen der Schrauben sind gegenl\u00e4ufig, die Radeffekte heben sich auf.",
+            "B": "weil die Schrauben nicht in der Kielrichtung wirken kommt es zu keinem Radeffekt.",
+            "C": "der Radeffekt ist der Gleiche wie bei einer Wellenanlage mit einem Propeller.",
+            "D": "der Radeffekt wird gr\u00f6\u00dfer in Kurvenfahrt."
+        },
+        {
+            "title": "Frage 11: Wodurch wird der \u00dcbergang von Verdr\u00e4ngerfahrt in Gleitfahrt leichter erreicht?",
+            "A": "Gewichtsverlagerung nach achtern.",
+            "B": "weniger Gesamtgewicht.",
+            "C": "Propeller mit Overdrive.",
+            "D": "Schr\u00e4glage nach Backbord oder Steuerbord."
+        },
+        {
+            "title": "Frage 12: Haben Motorboote eine Abdrift?",
+            "A": "nein, Motorboote haben keine Abdrift.",
+            "B": "ja, aber wenig wegen des gro\u00dfen Lateralplanes.",
+            "C": "nur bei h\u00f6herer Geschwindigkeit.",
+            "D": "ja, aufgrund des kleinen Lateralplanes."
+        },
+        {
+            "title": "Frage 13: Woran erkennt man, ob man als Verdr\u00e4nger \u00fcber der Rumpfgeschwindigkeit geschleppt wird?",
+            "A": "am Mitdrehen von Schiffsschraube und Welle.",
+            "B": "an unregelm\u00e4\u00dfigen starken Ausschl\u00e4gen der Loggegeschwindigkeit.",
+            "C": "an Klopfger\u00e4uschen am Kielschwein.",
+            "D": "wenn es im Schiffsk\u00f6rper zu Vibrationen kommt."
+        },
+        {
+            "title": "Frage 14: Welche Vorteile haben Elektromaschinen?",
+            "A": "Elektromaschinen sind salzwasserfest.",
+            "B": "Die Versorgung mit Ersatzteilen ist unproblematisch aufgrund der weiten Verbreitung von Elektromaschinen.",
+            "C": "Hohes Drehmoment, vergleichbar wenig Energieverbrauch.",
+            "D": "Elektromaschinen haben gegen\u00fcber Dieselmaschinen keine wesentlichen Vorteile."
+        }
+    ]
+}

@@ -93,7 +93,7 @@ D:
 
 Die Maschine starten, damit genügend Strom für die Rettungsysteme bereit steht,
 aber auf keine Fall einen Gang einlegen..
-Seite 1
+
 
 Frage 5:
 
@@ -174,7 +174,7 @@ Genua, Trysegel.
 D:
 
 Spinnaker, Großsegel.
-Seite 2
+
 
 Frage 9:
 
@@ -258,7 +258,7 @@ D:
 Da die noch am stehenden Gut hängenden Teile des gebrochen Mastes in den
 Propeller der Maschine geraten könnten, kann nur noch Schlepphilfe angefordert
 werd.
-Seite 3
+
 
 Frage 13: Wie funktioniert das Bindereff?
 A:
@@ -334,7 +334,7 @@ Ein Jettrieb.
 D:
 
 Ein Z-Trieb.
-Seite 4
+
 
 Frage 17: Bei welchen Bedingungen sollte eine Genua gesetzt werden?
 A:
@@ -406,7 +406,7 @@ Ein Segelsack, in dem die Segel im Segelstauraum gelagert werden.
 D:
 
 Ein Vorrichtung, die das Segel setzen bei einem Rollreff System erleichtern soll.
-Seite 5
+
 
 Frage 21: Was sind die Nachteile einer Rollgenua?
 A:
@@ -485,7 +485,7 @@ D:
 
 Großfall anholen und Reffbändsel lösen, bis das Vorliek des Segels durchgesetzt
 ist.
-Seite 6
+
 
 Frage 25: Welches Segel wird auf einer Slup üblicherweise zuerst gerefft und warum?
 A:
@@ -564,7 +564,7 @@ Eine Vorleine.
 D:
 
 Eine vordere Brustleine.
-Seite 7
+
 
 Frage 29: Wie trimmen Sie das Großsegel bei Kurs raumer Wind?
 A:
@@ -639,7 +639,7 @@ werden.
 D:
 
 Die Trimmfäden spielen nur bei Regatten eine Rolle.
-Seite 8
+
 
 Frage 33: Was bewirkt ein weit nach hinten eingestellter Vorschot-Holepunkt?
 A:
@@ -716,7 +716,7 @@ Achterlicher und stärker als der wahre Wind.
 D:
 
 Achterlicher und schwächer als der wahre Wind.
-Seite 9
+
 
 Frage 37: Welche Vorteile hat ein sogenannter Langkiel?
 A:
@@ -789,7 +789,7 @@ D:
 
 Die Tendenz des Bootes, sich bei Krängung wieder aufzurichten wird durch die
 Form der Segel erreicht.
-Seite 10
+
 
 Frage 41: Wie wird die Stabilität in der Regel bei einem Mehrrumpfsegelboot erreicht?
 A:
@@ -861,7 +861,7 @@ Die vordere Want.
 D:
 
 Die hintere Want.
-Seite 11
+
 
 Frage 45: Welche Sofortmaßnahmen unter anderem sind sinnvoll, wenn eine Want bricht?
 A:
@@ -914,6 +914,278 @@ D:
 
 Durch einen Treibanker am Heck der Jacht befestigt..
 
-Seite 12
+Frage 3: Wie setzt man ein Lattengroßsegel?
+A: 
+Das Großfall wird angeholt, bis der Segelkopf im Masttop ist. Danach das Vorliek
+des Großsegels kräftig durchsetzen.
+B: 
+Das Großfall wird gefiert, bis der Segelkopf im Masttop ist. Danach das Vorliek des
+Großsegels kräftig durchsetzen.
+C: 
+Die Großschot wird angeholt, bis der Segelkopf im Masttop ist. Danach das Vorliek
+des Großsegels kräftig durchsetzen.
+D: 
+Die Großschot wird gefiert, bis der Segelkopf im Masttop ist. Danach das Vorliek
+des Großsegels kräftig durchsetzen.
 
-
+Frage 4: Wie Funktioniert das Mast-Roll-Reff?
+A: 
+Unterliekstrecker fieren und die Reffleine anholen, bis die gewünschte Segelfläche
+im Mast eingerollt ist. Danach den Unterliekstrecker durchsetzen.
+B: 
+Großfall fieren und Reffleine Anholen, bis die gewünschte Segelfläche im Mast
+eingerollt ist. Danach Großfall durchsetzen.
+C: 
+Unterliekstrecker anholen, bis die gewünschte Segelfläche im Mast eingerollt ist.
+D: 
+Großfall durchsetzen und Reffleine fieren, bis die gewünschte Segelfläche im Mast
+eingerollt ist. Danach Reffleine wieder durchsetzen.
+
+Frage 5: Wie trimmen Sie das Großsegel bei Kurs am Wind?
+A: 
+Großschot soweit anholen, dass das Großsegel nicht killt.
+B: 
+Großschot so weit wie möglich auffieren.
+C: 
+Großschot so dicht wie nur möglich holen.
+D: 
+Großschot soweit fieren, dass das Großsegel leicht killt.
+
+Frage 6: Was versteht man unter dem Begriff Luvgierig?
+D: 
+Wenn das Boot nach Luv gesteuert wird.
+B: 
+Wenn das Boot selbstständig nach Lee dreht.
+C: 
+Wenn das Boot nach Lee gesteuert wird.
+A: 
+Wenn das Boot selbstständig nach Luv dreht.
+
+Frage 7: Welche Eingenschaften hat ein gewichtsstabiles Boot?
+B: 
+Es kann nicht sinken.
+A: 
+Es kann nicht kentern.
+C: 
+Es ist nicht luvgierig.
+D: 
+Es ist nicht leegierig.
+
+Frage 8: Wie kann man mit einem Segelschiff gegen den Wind segeln?
+C: 
+Mit einem Segelboot kann man in jede beliebige Richtung steuern, auch gegen
+den Wind.
+B: 
+Gar nicht, gegen den Wind muss man unter Maschine fahren.
+A: 
+Indem man Zick Zack gegen den Wind steuert - sogenanntes Kreuzen.
+D: 
+Indem man Zick Zack mit dem Wind segelt - sogenanntes Kreuzen
+
+
+Frage 9: Welche Sofortmaßnahmen treffen Sie beim Bruch des Achterstages?
+D: 
+Schoten los, Segel bergen.
+B: 
+Schoten los, vor dem Wind anlegen.
+C: 
+Schoten los, Kurs am Wind anlegen.
+A: 
+Großschot sofort dicht nehmen, Kurs am Wind anlegen.
+
+Frage 10: Welche Vorteile hat ein Bindereff System gegenüber einer Rollreffanlage bei einem
+Großsegel?
+C:
+
+Bindereffsystem sind leichter zu handhaben.
+
+B:
+
+Mit Bindereffsystemen können Segel stufenlos gerefft werden.
+
+A:
+
+Bindereffsysteme sind technisch weniger aufwendig und damit weniger
+Fehleranfällig.
+
+D:
+
+Bei Bindereffsystemen werden immer weniger Leinen verwendet als bei
+Rollreffsystemen.
+
+Frage 11: Sie legen längseits unter Segel an, Welche Leine sollten sie zurest legen?
+C:
+
+Eine Achterspring.
+
+B:
+
+Eine vordere Brustleine.
+
+A:
+
+Eine Vorspring.
+
+D:
+
+Eine Vorleine.
+
+Frage 12: Wie entsteht der Auftrieb im Segel?
+A:
+
+Durch exakt gleiche Strömungsgeschwindigkeiten des Windes entlang des Segels
+entsteht Auftrieb.
+
+B:
+
+Durch unterschiedliche Strömungsgeschwindigkeiten des Windes entlang des
+Segels, in Luv langsamer, in Lee schneller, entsteht Auftrieb.
+
+C:
+
+Durch ausgedehnte Turbulenzen auf der Leeseite entsteht ein Druck auf der
+Luvseite des Segels, wodurch die Jacht angetrieben wird.
+
+D:
+
+Durch unterschiedliche Strömungsgeschwindigkeiten des Windes entlang des
+Segels, in Luv schneller, in Lee lansamer, entsteht Auftrieb.
+
+
+Frage 13: Was versteht man unter dem Begriff Formstabil?
+D:
+
+Die Segel sind aufgrund ihrer Form stabil.
+
+B:
+
+Die Tendenz des Bootes, sich bei Krängung wieder aufzurichten wird durch die
+Form der Segel erreicht.
+
+C:
+
+Die Tendenz des Bootes, sich bei Krängung wieder aufzurichten wird durch ein
+Ballastgewicht am Kiel erreicht.
+
+A:
+
+Die Tendenz des Bootes, sich bei Krängung wieder aufzurichten wird durch die
+Form des Rumpfes erreicht.
+
+Frage 14: Welche Sofortmaßnahmen sind unter anderem sinnvoll bei einem Mastbruch?
+C:
+
+Sofort das Boot verlassen und ans Ufer schwimmen.
+
+B:
+
+Versuchen, das Durchkentern zu verhindern.
+
+A:
+
+Versuchen, die gebrochenen Teile des Mastes an Deck zu sichern.
+
+D:
+
+Versuchen, das Boot durchkentern zu lassen und beim Boot auf Hilfe warten.
+
+
+Frage 3:
+
+Wie wird eine Rollgenua gesetzt?
+
+B:
+
+Reffleine anholen, Genuaschot am gewünschten Bug fieren.
+
+A:
+
+Reffleine fieren, Genuaschot am gewünschten Bug anholen.
+
+C:
+
+Reffleine anholen, Genuafall am gewünschten Bug fieren.
+
+D:
+
+Reffleine fieren, Genuafall am gewünschten Bug anholen.
+
+Frage 5:
+
+Welche Hilfsmittel kann ein Vorsegel haben, um den Anstellwinkel korrekt ein zu
+stellen?
+
+D:
+
+Für die korrekte Einstellung gibt es keine Hilfsmittel.
+
+B:
+
+Trimmfäden entlang des Achterlieks helfen bei der Einstellung.
+
+C:
+
+Trimmmarkierungen an den Vorschoten helfen bei der Einstellung.
+
+A:
+
+Trimmfäden entlang des Vorlieks helfen bei der Einstellung.
+
+Frage 5:
+Welche Vorteile hat ein sogenannter Kurzkiel?
+
+D:
+
+Die Jacht ist etwas luvgieriger und kann damit härter am Wind gesegelt werden.
+
+B:
+
+Die Jacht ist wenig wendig aber sehr Kursstabil.
+
+C:
+
+Die Jacht ist etwas leegieriger und kann damit schneller am Wind gesegelt werden.
+
+A:
+
+Die Jacht ist sehr wendig aber wenig Kursstabil.
+
+Frage 7:
+
+Was ist die Hauptbesegelung einer Slup?
+
+A:
+
+Normalfock und Großsegel.
+
+B:
+
+Großsegel und Spinnaker.
+
+C:
+
+Normalfock und Spinnaker.
+
+D:
+
+Nur das Großsegel.
+
+Frage 8:
+
+Welche Sofortmaßnahmen sind sinnvoll bei einem Mastbruch?
+
+B:
+
+Versuchen, das Durchkentern zu verhindern.
+
+A:
+
+Versuchen, die gebrochenen Teile des Mastes an Deck zu sichern.
+
+C:
+
+Versuchen, das Boot durchkentern zu lassen und beim Boot auf Hilfe warten.
+
+D:
+
+Sofort das Boot verlassen und ans Ufer schwimmen.

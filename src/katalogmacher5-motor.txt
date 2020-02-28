@@ -90,7 +90,7 @@ D:
 
 bei einem Ölwechsel muss das neue Öl durch den Filter rinnen damit es wirksam
 wird.
-Seite 1
+
 
 Frage 5:
 
@@ -173,7 +173,7 @@ weil Benzindampf ein explosionsfähiges Gemisch mit Salz erzeugt.
 D:
 
 weil Benzindampf ein explosionsfähiges Gemisch mit Wasser erzeugt.
-Seite 2
+
 
 Frage 9:
 
@@ -246,7 +246,7 @@ nur bei höherer Geschwindigkeit.
 D:
 
 ja, aufgrund des kleinen Lateralplanes.
-Seite 3
+
 
 Frage 13: Woran erkennt man, ob man als Verdränger über der Rumpfgeschwindigkeit
 geschleppt wird?
@@ -284,6 +284,6 @@ D:
 
 Elektromaschinen haben gegenüber Dieselmaschinen keine wesentlichen Vorteile.
 
-Seite 4
+
 
 

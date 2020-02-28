@@ -93,7 +93,7 @@ Zündung durch Einspritzung in hoch komprimierte Luft.
 D:
 
 Explosion von brennbaren Flüssigkeiten.
-Seite 1
+
 
 Frage 5:
 
@@ -177,7 +177,7 @@ der 2. Und 4. Takt.
 D:
 
 beim Diesel der 2. Takt, beim Benzinmotor der 3. Takt.
-Seite 2
+
 
 Frage 9:
 
@@ -249,7 +249,7 @@ ein Auspuff der unter der Wasserlinie liegt.
 D:
 
 ein Auspuff durch den das Kühlwasser eingesaugt wird.
-Seite 3
+
 
 Frage 13: Was lesen Sie an Bord üblicherweise an einem Manometer ab?
 A:
@@ -318,7 +318,7 @@ Motor bekommt zu wenig Luft.
 D:
 
 kein Kühlwasser im Auspuff.
-Seite 4
+
 
 Frage 17: Der Motor wird zu heiß. Ursache könnte sein?
 A:
@@ -389,7 +389,7 @@ wird.
 D:
 
 der Ölfilter ist ein Indikator. Ist das Öl verbraucht, verfärbt er sich.
-Seite 5
+
 
 Frage 21: Warum gibt es im Motorraum von Schiffen automatische Feuerlöscher?
 A:
@@ -460,7 +460,7 @@ Fahrt bei der man den kürzesten Weg zum Ziel fährt.
 D:
 
 Fahrt bei der man Strom und Wind ausnutzt um Treibstoff zu sparen.
-Seite 6
+
 
 Frage 25: Wozu dient ein Schwanenhals im Auspuffsystem?
 A:
@@ -530,7 +530,7 @@ Kühlung durch Zweistufengebläse.
 D:
 
 Kühlung durch Wassermantel über dem Schalldämpfer.
-Seite 7
+
 
 Frage 29: Welche Motoren brauchen einen Ölanteil im Kraftstoff?
 A:
@@ -601,7 +601,7 @@ Zahnradkupplung.
 D:
 
 Motorstift.
-Seite 8
+
 
 Frage 33: Welche Routinekontrollen sollten am Schiffsmotor regelmäßig gemacht werden?
 A:
@@ -670,7 +670,7 @@ zum Zurückpumpen.
 D:
 
 zum manuellen Gas geben.
-Seite 9
+
 
 Frage 37: Was kann entstehen wenn der Luftfilter eines Dieselmotors verstopft ist?
 A:
@@ -739,7 +739,7 @@ weil Benzindampf ein explosionsfähiges Gemisch mit Wasser erzeugt.
 D:
 
 weil Benzindampf ein explosionsfähiges Gemisch mit Buthangas erzeugt.
-Seite 10
+
 
 Frage 41: Welches Bauteil sorgt für den Kreislauf des Motoröls durch die Lager des Motors?
 A:
@@ -808,7 +808,7 @@ weil die Luft den Treibstofffilter durch Oxydationsprodukte verstopft.
 D:
 
 weil die Luft die Rücklaufleitung blockiert.
-Seite 11
+
 
 Frage 45: Welchen Motorschaden kann Wasser im Motoröl anzeigen?
 A:
@@ -878,7 +878,7 @@ mindestens alle 5 Tage.
 D:
 
 mindestens alle 6 Jahre.
-Seite 12
+
 
 Frage 49: Was bewirkt Abnützung an den Schaufeln eines schnell drehenden Propellers?
 A:
@@ -950,7 +950,7 @@ tiefere Ruderblätter.
 D:
 
 dickere Ruderblätter.
-Seite 13
+
 
 Frage 53: Um Vibrationen zu vermeiden kann man die Drehzahl der Motoren eines
 Zweischraubenschiffes auf gleiche Drehzahl bringen. Wodurch wird das
@@ -1019,7 +1019,7 @@ Trimmschraube.
 D:
 
 Trimmruder.
-Seite 14
+
 
 Frage 57: Womit kann die Lage der Längsachse eines Gleiters getrimmt werden?
 A:
@@ -1088,7 +1088,7 @@ nein, Motorboote haben keine Abdrift.
 D:
 
 nur bei höherer Geschwindigkeit.
-Seite 15
+
 
 Frage 61: Welches Schiff verursacht relativ gesehen den meisten Wellenschlag?
 A:
@@ -1163,7 +1163,7 @@ Ballast über Bord werfen.
 D:
 
 warten bis der Wind dreht.
-Seite 16
+
 
 Frage 65: Woran erkennt man, ob man als Verdränger über der Rumpfgeschwindigkeit
 geschleppt wird?
@@ -1235,7 +1235,7 @@ die Trimmklappen vor der Welle einfahren, nach der Welle ausfahren.
 D:
 
 die Trimmklappen unsymetrisch trimmen.
-Seite 17
+
 
 Frage 69: Was sollte man bei einem Brand im Motorraum nicht tun?
 A:
@@ -1272,6 +1272,6 @@ D:
 
 Elektromaschinen haben gegenüber Dieselmaschinen keine wesentlichen Vorteile.
 
-Seite 18
+
 
 
